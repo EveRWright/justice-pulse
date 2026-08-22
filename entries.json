@@ -1,36 +1,78 @@
 {
   "updated": "2026-08-22",
-  "note": "Living feed. Newest items first. Confirmed public-record sources only.",
+  "note": "Living feed. Newest first. Confirmed public-record sources and official dockets only.",
   "items": [
     {
       "date": "2026-08-22",
       "title": "Justice Pulse public hub established under Eve R. Wright",
       "source": "TexanoAI",
-      "url": "https://github.com/EveRWright",
-      "summary": "Public living aggregator stood up for Texas judicial ethics, formal SCJC actions, Chapter 87 matters, SCOTX orders with ethics implications, and related institutional signals. Continuous monitoring architecture in place.",
+      "url": "https://everwright.github.io/justice-pulse/",
+      "summary": "Public living aggregator now live for Texas judicial ethics, SCJC actions, Chapter 87 matters, SCOTX orders with ethics implications, campaign-finance disclosure, guardianship, and related institutional signals.",
       "area": "Operational",
-      "quality": "Internal structure",
-      "image": null
+      "quality": "Internal structure"
     },
     {
       "date": "2026-08-21",
-      "title": "SCOTX orders list – petition dispositions and parental-rights matters",
+      "title": "SCOTX weekly orders — petition dispositions and parental-rights matters",
       "source": "Supreme Court of Texas",
       "url": "https://www.txcourts.gov/supreme/",
-      "summary": "Routine petition dispositions published. Several matters touching parental rights and DFPS-related issues noted for further review under continuous monitoring.",
+      "summary": "Official orders list published. Several petition dispositions and DFPS-adjacent / parental-rights matters flagged for continuous review. Source: SCOTX orders page.",
       "area": "SCOTX",
-      "quality": "Official order list",
-      "image": null
+      "quality": "Official order list"
     },
     {
       "date": "2026-08-20",
-      "title": "SCJC formal sanction activity – ongoing docket watch",
+      "title": "SCJC public actions — formal sanction and review docket watch",
       "source": "State Commission on Judicial Conduct",
       "url": "https://www.scjc.texas.gov/",
-      "summary": "Continuous monitoring of formal sanctions, public reprimands, and special court of review outcomes remains active. New dispositions will be added as they are published.",
+      "summary": "Continuous monitoring of public reprimands, warnings, sanctions, and Special Court of Review outcomes. New published dispositions will be added as they appear on the official SCJC site.",
       "area": "SCJC",
-      "quality": "Official docket",
-      "image": null
+      "quality": "Official docket"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "Courtroom recording / Access Act — 2027 legislative watch",
+      "source": "Texas Legislature Online",
+      "url": "https://capitol.texas.gov/",
+      "summary": "Interim and pre-session tracking for mandatory courtroom AV recording and public access to the official record. Official bill text and committee activity will be linked as filed.",
+      "area": "Legislation",
+      "quality": "Official tracker"
+    },
+    {
+      "date": "2026-08-18",
+      "title": "Judicial campaign-finance disclosure — TEC filings watch",
+      "source": "Texas Ethics Commission",
+      "url": "https://www.ethics.state.tx.us/",
+      "summary": "Ongoing collection of judicial campaign reports and related disclosure. New TEC filings that bear on judicial elections will be summarized here with a direct source link.",
+      "area": "Campaign Finance",
+      "quality": "Official filings"
+    },
+    {
+      "date": "2026-08-17",
+      "title": "Guardianship and probate jurisdiction — reform watch",
+      "source": "Office of Court Administration / Texas courts",
+      "url": "https://www.txcourts.gov/",
+      "summary": "Monitoring published rules, reports, and legislative concepts touching guardianship oversight and probate jurisdiction. Confirmed official materials only.",
+      "area": "Guardianship",
+      "quality": "Official / OCA"
+    },
+    {
+      "date": "2026-08-16",
+      "title": "Chapter 87 removal actions — statewide docket watch",
+      "source": "Texas courts / public dockets",
+      "url": "https://www.txcourts.gov/",
+      "summary": "Watching public Chapter 87 removal filings and dispositions as they become available through official court channels. Entries will cite the specific cause number when confirmed.",
+      "area": "Chapter 87",
+      "quality": "Public docket"
+    },
+    {
+      "date": "2026-08-15",
+      "title": "Administrative rules and court operating procedures — published changes",
+      "source": "Texas Judicial Branch",
+      "url": "https://www.txcourts.gov/rules-forms/rules-standards/",
+      "summary": "Tracking newly published statewide and local administrative rules that affect public access, recording, recusal practice, or case assignment.",
+      "area": "Admin Rules",
+      "quality": "Official rules"
     }
   ]
 }
