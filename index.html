@@ -1,95 +1,91 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Justice Pulse · with Eve</title>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Cormorant+Garamond:wght@600&display=swap" rel="stylesheet">
-<style>
-:root{--bg:#05070c;--panel:#0b1018;--b:rgba(198,163,90,.28);--gold:#c6a35a;--g2:#e0c27a;--cyan:#5eead4;--text:#ece8dc;--muted:#9aa3b2;--green:#34d399;--quiet:#6b7280}
-*{box-sizing:border-box;margin:0;padding:0}
-body{background:var(--bg);color:var(--text);font-family:Inter,system-ui,sans-serif;min-height:100vh;background-image:radial-gradient(ellipse 70% 40% at 10% -10%,rgba(198,163,90,.1),transparent 55%)}
-a{color:inherit;text-decoration:none}
-.nav{display:flex;justify-content:space-between;align-items:center;padding:.8rem 1.4rem;border-bottom:1px solid var(--b);position:sticky;top:0;background:rgba(5,7,12,.92);z-index:20}
-.brand{display:flex;gap:.65rem;align-items:center;font-weight:600}
-.mark{width:26px;height:26px;border:1.5px solid var(--gold);border-radius:50%;display:grid;place-items:center;font-size:.65rem;color:var(--gold)}
-.brand span{color:var(--g2);font-weight:400;font-size:.85rem}
-.nav a{font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
-.live{font-size:.68rem;color:var(--green);border:1px solid rgba(52,211,153,.4);padding:.25rem .65rem;border-radius:999px}
-.wrap{max-width:1280px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:1.5rem;padding:1.4rem}
-@media(max-width:900px){.wrap{grid-template-columns:1fr}.side{max-width:260px;margin:0 auto}}
-.pic{width:100%;border-radius:12px;border:1px solid var(--b);overflow:hidden}
-.pic img{width:100%;display:block;aspect-ratio:3/4;object-fit:cover;object-position:top}
-.st{margin-top:.8rem;border:1px solid var(--b);border-radius:10px;padding:.8rem;font-size:.72rem;background:var(--panel)}
-.st div{display:flex;justify-content:space-between;margin-bottom:.35rem;color:var(--muted)}
-.st strong{color:var(--cyan);font-weight:500}
-.ok{color:var(--green)!important}
-h1{font-family:"Cormorant Garamond",Georgia,serif;color:var(--g2);font-size:1.7rem;margin-bottom:.3rem}
-.sub{font-size:.75rem;color:var(--muted);margin-bottom:1rem}
-.lanes{display:grid;grid-template-columns:1fr 1fr;gap:.85rem}
-@media(max-width:700px){.lanes{grid-template-columns:1fr}}
-.lane{border:1px solid var(--b);border-radius:12px;background:var(--panel);padding:.85rem;min-height:180px}
-.lane h2{font-size:.7rem;letter-spacing:.12em;text-transform:uppercase;color:var(--gold);margin-bottom:.65rem}
-.card{border-top:1px solid var(--b);padding:.65rem 0}
-.card:first-of-type{border-top:none;padding-top:0}
-.meta{font-size:.62rem;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);margin-bottom:.25rem}
-.card h3{font-size:.88rem;font-weight:600;line-height:1.3;margin-bottom:.25rem}
-.card p{font-size:.78rem;color:var(--muted);line-height:1.45}
-.q{display:inline-block;font-size:.6rem;letter-spacing:.06em;text-transform:uppercase;border:1px solid var(--quiet);color:var(--quiet);padding:.08rem .35rem;border-radius:4px;margin-left:.3rem}
-.c{display:inline-block;font-size:.6rem;letter-spacing:.06em;text-transform:uppercase;border:1px solid rgba(52,211,153,.4);color:var(--green);padding:.08rem .35rem;border-radius:4px;margin-left:.3rem}
-.read{display:inline-block;margin-top:.35rem;font-size:.72rem;color:var(--cyan)}
-footer{border-top:1px solid var(--b);padding:1.1rem;text-align:center;font-size:.7rem;color:var(--muted)}
-footer a{color:var(--gold)}
-</style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Texas Judicial Record</title>
+  <meta name="description" content="Living public record of Texas judicial ethics, misconduct, and sourced reporting. Neutral summaries. Direct originals. Updated daily.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root { --night:#080b10; --ivory:#f3ead6; --ivory-2:#e7dcc2; --ink:#1a1610; --ink-soft:#3d372c; --gold:#c6a35a; --gold-2:#e0c27a; --rule:rgba(198,163,90,0.45); --muted:#9a917e; }
+    * { box-sizing:border-box; } html,body{margin:0;}
+    body { min-height:100vh; color:var(--ivory); font-family:Outfit,system-ui,sans-serif; background:radial-gradient(900px 420px at 50% -8%, rgba(198,163,90,0.16), transparent 58%), linear-gradient(180deg, var(--night) 0%, #0c1118 42%, #0a0e14 100%); }
+    .wrap { width:min(860px, calc(100% - 2rem)); margin:0 auto; position:relative; z-index:1; }
+    .topbar { display:flex; justify-content:space-between; padding:1.15rem 0 0.35rem; font-size:0.68rem; letter-spacing:0.18em; text-transform:uppercase; color:var(--gold); }
+    header.mast { text-align:center; padding:1.4rem 0 1.7rem; }
+    .seal { width:78px; height:78px; margin:0 auto 0.85rem; color:var(--gold-2); }
+    .kicker { margin:0 0 0.35rem; font-size:0.72rem; letter-spacing:0.28em; text-transform:uppercase; color:var(--gold); }
+    h1 { font-family:"Cormorant Garamond",Georgia,serif; font-weight:600; font-size:clamp(2.15rem,6vw,3.55rem); line-height:0.92; margin:0 0 0.55rem; }
+    h1 em { font-style:italic; font-weight:500; color:var(--gold-2); }
+    .lede { max-width:38rem; margin:0 auto; color:#d8d0be; font-weight:300; font-size:1.02rem; line-height:1.55; }
+    .rules { display:flex; align-items:center; gap:1rem; margin:1.15rem 0 0; color:var(--gold); font-size:0.68rem; letter-spacing:0.16em; text-transform:uppercase; }
+    .rules::before,.rules::after { content:""; flex:1; height:1px; background:linear-gradient(90deg,transparent,var(--rule),transparent); }
+    .stats { display:grid; grid-template-columns:repeat(3,1fr); gap:0.7rem; margin:1.35rem 0 0.4rem; }
+    .stat { border:1px solid rgba(198,163,90,0.22); background:rgba(16,21,29,0.65); padding:0.7rem 0.75rem; text-align:center; }
+    .stat b { display:block; font-family:"Cormorant Garamond",serif; font-size:1.15rem; color:var(--ivory); }
+    .stat span { display:block; margin-top:0.15rem; font-size:0.64rem; letter-spacing:0.14em; text-transform:uppercase; color:var(--muted); }
+    #feed { padding:0.3rem 0 2.6rem; }
+    .section-label { display:flex; justify-content:space-between; margin:0.4rem 0 0.85rem; font-size:0.68rem; letter-spacing:0.2em; text-transform:uppercase; color:var(--gold); }
+    article.clip { background:linear-gradient(180deg,var(--ivory),var(--ivory-2)); color:var(--ink); margin:0 0 1.05rem; box-shadow:0 18px 40px rgba(0,0,0,0.28); border:1px solid #d8c9a4; position:relative; }
+    article.clip::before { content:""; position:absolute; left:0; top:0; bottom:0; width:5px; background:linear-gradient(180deg,var(--gold-2),#8d6b2a); }
+    .clip-inner { padding:1.15rem 1.2rem 1.15rem 1.35rem; }
+    .meta { display:flex; flex-wrap:wrap; gap:0.4rem; margin:0 0 0.55rem; }
+    .pill { font-size:0.62rem; letter-spacing:0.12em; text-transform:uppercase; border:1px solid #cbb892; padding:0.22rem 0.45rem; color:#5c5343; background:rgba(255,255,255,0.28); }
+    .pill.gold { border-color:#b8953a; color:#6d5318; background:rgba(198,163,90,0.16); }
+    article h2 { font-family:"Cormorant Garamond",Georgia,serif; font-size:1.55rem; line-height:1.15; font-weight:600; margin:0 0 0.5rem; }
+    article h2 a { color:var(--ink); text-decoration:none; }
+    article h2 a:hover { color:#6d5318; }
+    article .sum { margin:0 0 0.85rem; color:var(--ink-soft); font-size:0.98rem; line-height:1.55; }
+    .read { display:inline-flex; font-size:0.72rem; letter-spacing:0.14em; text-transform:uppercase; text-decoration:none; color:#6d5318; border-bottom:1px solid rgba(109,83,24,0.35); }
+    .empty { color:var(--muted); text-align:center; padding:2rem; font-weight:300; }
+    footer { border-top:1px solid var(--rule); padding:1.2rem 0 2.4rem; color:var(--muted); font-size:0.78rem; line-height:1.55; }
+    footer a { color:var(--gold-2); text-decoration:none; }
+    @media (max-width:640px){ .stats{grid-template-columns:1fr;} h1{font-size:2.2rem;} article h2{font-size:1.32rem;} }
+  </style>
 </head>
 <body>
-<nav class="nav">
-  <div class="brand"><div class="mark">JP</div><div>Justice Pulse <span>· with Eve</span></div></div>
-  <a href="about.html">About</a>
-  <div class="live">LIVE MONITORING</div>
-</nav>
-<main class="wrap">
-  <aside class="side">
-    <div class="pic"><img src="site_assets/homepage_hero.jpg" alt="Eve R. Wright"></div>
-    <div class="st">
-      <div><span>System</span><strong class="ok">OPERATIONAL</strong></div>
-      <div><span>Last sweep</span><strong id="sweep">—</strong></div>
-      <div><span>Confirmed items</span><strong id="nconf">—</strong></div>
-      <div><span>Quiet threads</span><strong id="nquiet">—</strong></div>
-    </div>
-  </aside>
-  <section>
-    <h1>Monitor</h1>
-    <p class="sub">Four lanes. Confirmed public record in the first three. Quiet threads stay labeled quiet. No launch copy. No self-links.</p>
-    <div class="lanes">
-      <div class="lane" id="formal"><h2>Formal / SCJC</h2></div>
-      <div class="lane" id="orders"><h2>Orders</h2></div>
-      <div class="lane" id="legislative"><h2>Legislative & Rules</h2></div>
-      <div class="lane" id="watch"><h2>Watch (quiet until confirmed)</h2></div>
-    </div>
-  </section>
-</main>
-<footer>Justice Pulse · with Eve · Monitor. Analyze. Uphold. · <a href="https://texanoai.com">texanoai.com</a></footer>
-<script>
-function esc(s){return String(s||'').replace(/[&<>"']/g,c=>({'&':'&','<':'<','>':'>','"':'"',"'":'&#39;'}[c]))}
-fetch('entries.json?t='+Date.now()).then(r=>r.json()).then(d=>{
-  const items=d.items||[];
-  document.getElementById('sweep').textContent=d.updated||'—';
-  document.getElementById('nconf').textContent=items.filter(i=>i.status==='confirmed').length;
-  document.getElementById('nquiet').textContent=items.filter(i=>i.status==='quiet').length;
-  const lanes={formal:[],orders:[],legislative:[],watch:[]};
-  items.forEach(i=>{(lanes[i.lane]||lanes.watch).push(i)});
-  Object.keys(lanes).forEach(k=>{
-    const el=document.getElementById(k);
-    if(!lanes[k].length){el.innerHTML+='<p class="card"><span class="q">empty</span></p>';return}
-    el.innerHTML+=lanes[k].map(i=>`<article class="card">
-      <div class="meta">${esc(i.date)} · ${esc(i.source)} ${i.status==='quiet'?'<span class="q">quiet</span>':'<span class="c">confirmed</span>'}</div>
-      <h3>${esc(i.title)}</h3>
-      <p>${esc(i.summary)}</p>
-      ${i.url?`<a class="read" href="${esc(i.url)}" target="_blank" rel="noopener">Official source →</a>`:''}
-    </article>`).join('');
-  });
-}).catch(()=>{});
-</script>
+  <div class="wrap">
+    <div class="topbar"><span>Public record aid</span><span id="updated-stamp">Texas · living feed</span></div>
+    <header class="mast">
+      <svg class="seal" viewBox="0 0 80 80" aria-hidden="true"><circle cx="40" cy="40" r="37" fill="none" stroke="currentColor" stroke-width="1.2"/><circle cx="40" cy="40" r="32.5" fill="none" stroke="currentColor" stroke-width="0.4" opacity="0.6"/><path d="M40 16l3.2 9.8h10.3l-8.3 6 3.2 9.8L40 35.6l-8.4 6 3.2-9.8-8.3-6h10.3z" fill="currentColor"/><path d="M24 52h32M28 56h24" stroke="currentColor" stroke-width="1" opacity="0.7"/><path d="M34 48v8M46 48v8M40 46v12" stroke="currentColor" stroke-width="1.1"/></svg>
+      <p class="kicker">Ethics · Conduct · Public Watch</p>
+      <h1>The Texas<br><em>Judicial Record</em></h1>
+      <p class="lede">A living repository of sourced reporting on judicial ethics, misconduct, conflicts, and related public records. Neutral summaries. The original always sits one click away.</p>
+      <div class="rules">Guadalupe · Comal · Hays · Bexar · Travis · Collin · Tarrant · Dallas · Statewide</div>
+      <div class="stats">
+        <div class="stat"><b id="stat-count">—</b><span>Entries on record</span></div>
+        <div class="stat"><b>Daily</b><span>Watch cadence</span></div>
+        <div class="stat"><b>Sourced</b><span>No unsourced claims</span></div>
+      </div>
+    </header>
+    <div class="section-label"><span>Latest from the watch</span><span>Newest first</span></div>
+    <main id="feed"><p class="empty">Opening the record…</p></main>
+    <footer>Maintained as a public-record aid, not legal advice. Confirmed items cite official sources. Quiet threads are labeled as such.<br><a href="https://github.com/EveRWright/justice-pulse">GitHub source</a></footer>
+  </div>
+  <script>
+    const feed=document.getElementById('feed');
+    fetch('entries.json?t='+Date.now()).then(r=>{if(!r.ok)throw 0;return r.json()}).then(data=>{
+      const items=data.items||[];
+      document.getElementById('stat-count').textContent=String(items.length);
+      if(data.updated) document.getElementById('updated-stamp').textContent='Updated '+data.updated;
+      if(!items.length){feed.innerHTML='<p class="empty">The record is open. Daily entries will collect here.</p>';return;}
+      feed.innerHTML=items.map(item=>{
+        const url=item.url||'#';
+        const quality=item.quality?'<span class="pill">'+esc(item.quality)+'</span>':'';
+        const status=item.status?'<span class="pill gold">'+esc(item.status)+'</span>':'';
+        return '<article class="clip"><div class="clip-inner"><div class="meta">'
+          +'<span class="pill gold">'+esc(item.date||'')+'</span>'
+          +'<span class="pill">'+esc(item.area||'')+'</span>'
+          +'<span class="pill">'+esc(item.source||'')+'</span>'
+          +quality+status+'</div>'
+          +'<h2><a href="'+esc(url)+'" target="_blank" rel="noopener">'+esc(item.title||'Untitled')+'</a></h2>'
+          +'<p class="sum">'+esc(item.summary||'')+'</p>'
+          +'<a class="read" href="'+esc(url)+'" target="_blank" rel="noopener">Read the original</a></div></article>';
+      }).join('');
+    }).catch(()=>{feed.innerHTML='<p class="empty">Feed not reachable yet.</p>';});
+    function esc(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&','<':'<','>':'>','"':'"',"'":'&#39;'}[c]));}
+  </script>
 </body>
 </html>
