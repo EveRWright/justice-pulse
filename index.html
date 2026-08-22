@@ -1,92 +1,95 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Justice Pulse · with Eve</title>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Cormorant+Garamond:wght@500;600;700&display=swap" rel="stylesheet">
-  <style>
-    :root { --bg:#05070c; --panel:#0b1018; --panel-2:#121826; --border:rgba(198,163,90,.28); --gold:#c6a35a; --gold-2:#e0c27a; --cyan:#5eead4; --text:#ece8dc; --muted:#9aa3b2; --green:#34d399; }
-    * { box-sizing:border-box; margin:0; padding:0; }
-    body { min-height:100vh; background:var(--bg); color:var(--text); font-family:Inter,system-ui,sans-serif; background-image:radial-gradient(ellipse 70% 40% at 10% -10%, rgba(198,163,90,.10), transparent 55%), radial-gradient(ellipse 50% 35% at 90% 0%, rgba(94,234,212,.07), transparent 50%); }
-    a { color:inherit; text-decoration:none; }
-    .topnav { display:flex; align-items:center; justify-content:space-between; padding:.85rem 1.6rem; border-bottom:1px solid var(--border); background:rgba(5,7,12,.9); position:sticky; top:0; z-index:50; }
-    .brand { display:flex; align-items:center; gap:.7rem; font-weight:600; }
-    .brand .mark { width:28px; height:28px; border:1.5px solid var(--gold); border-radius:50%; display:grid; place-items:center; font-size:.68rem; color:var(--gold); }
-    .brand span { color:var(--gold-2); font-weight:400; font-size:.85rem; }
-    .nav-links { display:flex; gap:1.4rem; font-size:.72rem; letter-spacing:.1em; text-transform:uppercase; color:var(--muted); }
-    .nav-links a:hover { color:var(--gold-2); }
-    .live-pill { display:flex; align-items:center; gap:.4rem; font-size:.68rem; color:var(--green); border:1px solid rgba(52,211,153,.4); padding:.28rem .7rem; border-radius:999px; }
-    .live-pill::before { content:""; width:6px; height:6px; background:var(--green); border-radius:50%; box-shadow:0 0 8px var(--green); }
-    .ticker { overflow:hidden; border-bottom:1px solid var(--border); background:#080c14; font-size:.72rem; color:var(--gold-2); white-space:nowrap; padding:.45rem 0; }
-    .ticker span { display:inline-block; padding-left:100%; animation:tick 28s linear infinite; }
-    @keyframes tick { to { transform:translateX(-100%); } }
-    .wrap { max-width:1240px; margin:0 auto; display:grid; grid-template-columns:300px 1fr; gap:2rem; padding:1.6rem 1.5rem 3rem; }
-    @media (max-width:900px) { .wrap { grid-template-columns:1fr; } .portrait-col { max-width:280px; margin:0 auto; } }
-    .portrait { width:100%; border-radius:12px; border:1px solid var(--border); overflow:hidden; }
-    .portrait img { width:100%; display:block; aspect-ratio:3/4; object-fit:cover; object-position:top; }
-    .status { margin-top:.85rem; background:var(--panel); border:1px solid var(--border); border-radius:10px; padding:.85rem .95rem; font-size:.72rem; }
-    .status-row { display:flex; justify-content:space-between; margin-bottom:.4rem; color:var(--muted); }
-    .status-row strong { color:var(--cyan); font-weight:500; }
-    .ok { color:var(--green) !important; }
-    .cats { display:flex; flex-wrap:wrap; gap:.4rem; margin:0 0 1rem; }
-    .chip { font-size:.68rem; letter-spacing:.06em; text-transform:uppercase; border:1px solid var(--border); color:var(--muted); padding:.28rem .6rem; border-radius:999px; cursor:pointer; background:transparent; }
-    .chip.on, .chip:hover { color:var(--gold-2); border-color:var(--gold); background:rgba(198,163,90,.08); }
-    .feed-head { display:flex; justify-content:space-between; align-items:baseline; margin-bottom:.85rem; }
-    .feed-head h1 { font-family:"Cormorant Garamond",Georgia,serif; font-size:1.9rem; color:var(--gold-2); font-weight:600; }
-    .feed-head .meta { font-size:.72rem; color:var(--muted); }
-    .card { background:linear-gradient(180deg,var(--panel),var(--panel-2)); border:1px solid var(--border); border-radius:12px; padding:1.05rem 1.15rem; margin-bottom:.75rem; }
-    .card:hover { border-color:rgba(198,163,90,.5); }
-    .card .row { display:flex; gap:.45rem; flex-wrap:wrap; align-items:center; margin-bottom:.4rem; font-size:.66rem; letter-spacing:.05em; text-transform:uppercase; color:var(--muted); }
-    .tag { border:1px solid var(--border); padding:.12rem .4rem; border-radius:4px; color:var(--gold); }
-    .tag.scjc { color:#fbbf24; border-color:rgba(251,191,36,.35); }
-    .tag.scotx { color:var(--cyan); border-color:rgba(94,234,212,.35); }
-    .tag.leg { color:#93c5fd; border-color:rgba(147,197,253,.35); }
-    .tag.admin { color:#c4b5fd; border-color:rgba(196,181,253,.35); }
-    .tag.guard { color:#fda4af; border-color:rgba(253,164,175,.35); }
-    .tag.ops { color:var(--green); border-color:rgba(52,211,153,.35); }
-    .card h2 { font-size:1.02rem; font-weight:600; margin-bottom:.3rem; line-height:1.35; }
-    .card h2 a:hover { color:var(--gold-2); }
-    .card p { font-size:.86rem; color:var(--muted); line-height:1.55; }
-    .card .read { display:inline-block; margin-top:.55rem; font-size:.74rem; color:var(--cyan); }
-    .empty { text-align:center; padding:2.5rem 1rem; color:var(--muted); }
-    footer { border-top:1px solid var(--border); padding:1.3rem; text-align:center; font-size:.7rem; color:var(--muted); }
-    footer a { color:var(--gold); }
-  </style>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Justice Pulse · with Eve</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Cormorant+Garamond:wght@600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#05070c;--panel:#0b1018;--b:rgba(198,163,90,.28);--gold:#c6a35a;--g2:#e0c27a;--cyan:#5eead4;--text:#ece8dc;--muted:#9aa3b2;--green:#34d399;--quiet:#6b7280}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--text);font-family:Inter,system-ui,sans-serif;min-height:100vh;background-image:radial-gradient(ellipse 70% 40% at 10% -10%,rgba(198,163,90,.1),transparent 55%)}
+a{color:inherit;text-decoration:none}
+.nav{display:flex;justify-content:space-between;align-items:center;padding:.8rem 1.4rem;border-bottom:1px solid var(--b);position:sticky;top:0;background:rgba(5,7,12,.92);z-index:20}
+.brand{display:flex;gap:.65rem;align-items:center;font-weight:600}
+.mark{width:26px;height:26px;border:1.5px solid var(--gold);border-radius:50%;display:grid;place-items:center;font-size:.65rem;color:var(--gold)}
+.brand span{color:var(--g2);font-weight:400;font-size:.85rem}
+.nav a{font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.live{font-size:.68rem;color:var(--green);border:1px solid rgba(52,211,153,.4);padding:.25rem .65rem;border-radius:999px}
+.wrap{max-width:1280px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:1.5rem;padding:1.4rem}
+@media(max-width:900px){.wrap{grid-template-columns:1fr}.side{max-width:260px;margin:0 auto}}
+.pic{width:100%;border-radius:12px;border:1px solid var(--b);overflow:hidden}
+.pic img{width:100%;display:block;aspect-ratio:3/4;object-fit:cover;object-position:top}
+.st{margin-top:.8rem;border:1px solid var(--b);border-radius:10px;padding:.8rem;font-size:.72rem;background:var(--panel)}
+.st div{display:flex;justify-content:space-between;margin-bottom:.35rem;color:var(--muted)}
+.st strong{color:var(--cyan);font-weight:500}
+.ok{color:var(--green)!important}
+h1{font-family:"Cormorant Garamond",Georgia,serif;color:var(--g2);font-size:1.7rem;margin-bottom:.3rem}
+.sub{font-size:.75rem;color:var(--muted);margin-bottom:1rem}
+.lanes{display:grid;grid-template-columns:1fr 1fr;gap:.85rem}
+@media(max-width:700px){.lanes{grid-template-columns:1fr}}
+.lane{border:1px solid var(--b);border-radius:12px;background:var(--panel);padding:.85rem;min-height:180px}
+.lane h2{font-size:.7rem;letter-spacing:.12em;text-transform:uppercase;color:var(--gold);margin-bottom:.65rem}
+.card{border-top:1px solid var(--b);padding:.65rem 0}
+.card:first-of-type{border-top:none;padding-top:0}
+.meta{font-size:.62rem;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);margin-bottom:.25rem}
+.card h3{font-size:.88rem;font-weight:600;line-height:1.3;margin-bottom:.25rem}
+.card p{font-size:.78rem;color:var(--muted);line-height:1.45}
+.q{display:inline-block;font-size:.6rem;letter-spacing:.06em;text-transform:uppercase;border:1px solid var(--quiet);color:var(--quiet);padding:.08rem .35rem;border-radius:4px;margin-left:.3rem}
+.c{display:inline-block;font-size:.6rem;letter-spacing:.06em;text-transform:uppercase;border:1px solid rgba(52,211,153,.4);color:var(--green);padding:.08rem .35rem;border-radius:4px;margin-left:.3rem}
+.read{display:inline-block;margin-top:.35rem;font-size:.72rem;color:var(--cyan)}
+footer{border-top:1px solid var(--b);padding:1.1rem;text-align:center;font-size:.7rem;color:var(--muted)}
+footer a{color:var(--gold)}
+</style>
 </head>
 <body>
-  <nav class="topnav">
-    <div class="brand"><div class="mark">JP</div><div>Justice Pulse <span>· with Eve</span></div></div>
-    <div class="nav-links"><a href="#feed">Feed</a><a href="about.html">About</a></div>
-    <div class="live-pill">LIVE MONITORING</div>
-  </nav>
-  <div class="ticker"><span>MONITOR · ANALYZE · UPHOLD  ·  SCJC · SCOTX · CHAPTER 87 · CAMPAIGN FINANCE · GUARDIANSHIP · ADMIN RULES · COURTROOM ACCESS  ·  CONTINUOUS COLLECTION  ·  CONFIRMED PUBLIC RECORD ONLY  · </span></div>
-  <main class="wrap">
-    <aside class="portrait-col">
-      <div class="portrait"><img src="site_assets/homepage_hero.jpg" alt="Eve R. Wright"></div>
-      <div class="status">
-        <div class="status-row"><span>System Status</span><strong class="ok">OPERATIONAL</strong></div>
-        <div class="status-row"><span>Data Stream</span><strong>LIVE</strong></div>
-        <div class="status-row"><span>Categories</span><strong id="cat-count">—</strong></div>
-        <div class="status-row"><span>Items in feed</span><strong id="item-count">—</strong></div>
-        <div class="status-row"><span>Last sweep</span><strong id="last-sweep">—</strong></div>
-      </div>
-    </aside>
-    <section id="feed">
-      <div class="feed-head"><h1>Live Ethics Feed</h1><div class="meta" id="updated-stamp">Continuous collection</div></div>
-      <div class="cats" id="cats"></div>
-      <div id="feed-list"><p class="empty">Loading feed…</p></div>
-    </section>
-  </main>
-  <footer>Justice Pulse · with Eve  ·  Monitor. Analyze. Uphold.  ·  <a href="https://texanoai.com">texanoai.com</a></footer>
-  <script>
-    const list=document.getElementById('feed-list'), stamp=document.getElementById('updated-stamp'), lastSweep=document.getElementById('last-sweep'), catsEl=document.getElementById('cats');
-    let allItems=[];
-    const tagClass=t=>{const s=(t||'').toLowerCase(); if(s.includes('scjc'))return 'scjc'; if(s.includes('scotx')||s.includes('supreme'))return 'scotx'; if(s.includes('legisl')||s.includes('bill'))return 'leg'; if(s.includes('admin')||s.includes('rule'))return 'admin'; if(s.includes('guard')||s.includes('probate')||s.includes('chapter'))return 'guard'; if(s.includes('operat')||s.includes('internal'))return 'ops'; return '';};
-    function esc(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&','<':'<','>':'>','"':'"',"'":'&#39;'}[c]));}
-    function render(items){if(!items.length){list.innerHTML='<p class="empty">No items in this category yet.</p>';return;}list.innerHTML=items.map(item=>{const tags=[item.area,item.quality].filter(Boolean).map(t=>`<span class="tag ${tagClass(t)}">${esc(t)}</span>`).join('');return `<article class="card"><div class="row"><span>${esc(item.date||'')}</span><span>${esc(item.source||'')}</span>${tags}</div><h2><a href="${esc(item.url||'#')}" target="_blank" rel="noopener">${esc(item.title||'Untitled')}</a></h2><p>${esc(item.summary||'')}</p>${item.url?`<a class="read" href="${esc(item.url)}" target="_blank" rel="noopener">Read original →</a>`:''}</article>`;}).join('');}
-    function setFilter(name){document.querySelectorAll('.chip').forEach(c=>c.classList.toggle('on',c.dataset.cat===name));render(name==='ALL'?allItems:allItems.filter(i=>(i.area||'')===name));}
-    fetch('entries.json?t='+Date.now()).then(r=>r.ok?r.json():Promise.reject()).then(data=>{allItems=data.items||[];if(data.updated){stamp.textContent='Updated '+data.updated;lastSweep.textContent=data.updated;}document.getElementById('item-count').textContent=allItems.length;const areas=[...new Set(allItems.map(i=>i.area).filter(Boolean))];document.getElementById('cat-count').textContent=areas.length;catsEl.innerHTML=['ALL',...areas].map(a=>`<button class="chip${a==='ALL'?' on':''}" data-cat="${esc(a)}" onclick="setFilter('${esc(a)}')">${esc(a)}</button>`).join('');render(allItems);}).catch(()=>{list.innerHTML='<p class="empty">Feed not reachable.</p>';});
-  </script>
+<nav class="nav">
+  <div class="brand"><div class="mark">JP</div><div>Justice Pulse <span>· with Eve</span></div></div>
+  <a href="about.html">About</a>
+  <div class="live">LIVE MONITORING</div>
+</nav>
+<main class="wrap">
+  <aside class="side">
+    <div class="pic"><img src="site_assets/homepage_hero.jpg" alt="Eve R. Wright"></div>
+    <div class="st">
+      <div><span>System</span><strong class="ok">OPERATIONAL</strong></div>
+      <div><span>Last sweep</span><strong id="sweep">—</strong></div>
+      <div><span>Confirmed items</span><strong id="nconf">—</strong></div>
+      <div><span>Quiet threads</span><strong id="nquiet">—</strong></div>
+    </div>
+  </aside>
+  <section>
+    <h1>Monitor</h1>
+    <p class="sub">Four lanes. Confirmed public record in the first three. Quiet threads stay labeled quiet. No launch copy. No self-links.</p>
+    <div class="lanes">
+      <div class="lane" id="formal"><h2>Formal / SCJC</h2></div>
+      <div class="lane" id="orders"><h2>Orders</h2></div>
+      <div class="lane" id="legislative"><h2>Legislative & Rules</h2></div>
+      <div class="lane" id="watch"><h2>Watch (quiet until confirmed)</h2></div>
+    </div>
+  </section>
+</main>
+<footer>Justice Pulse · with Eve · Monitor. Analyze. Uphold. · <a href="https://texanoai.com">texanoai.com</a></footer>
+<script>
+function esc(s){return String(s||'').replace(/[&<>"']/g,c=>({'&':'&','<':'<','>':'>','"':'"',"'":'&#39;'}[c]))}
+fetch('entries.json?t='+Date.now()).then(r=>r.json()).then(d=>{
+  const items=d.items||[];
+  document.getElementById('sweep').textContent=d.updated||'—';
+  document.getElementById('nconf').textContent=items.filter(i=>i.status==='confirmed').length;
+  document.getElementById('nquiet').textContent=items.filter(i=>i.status==='quiet').length;
+  const lanes={formal:[],orders:[],legislative:[],watch:[]};
+  items.forEach(i=>{(lanes[i.lane]||lanes.watch).push(i)});
+  Object.keys(lanes).forEach(k=>{
+    const el=document.getElementById(k);
+    if(!lanes[k].length){el.innerHTML+='<p class="card"><span class="q">empty</span></p>';return}
+    el.innerHTML+=lanes[k].map(i=>`<article class="card">
+      <div class="meta">${esc(i.date)} · ${esc(i.source)} ${i.status==='quiet'?'<span class="q">quiet</span>':'<span class="c">confirmed</span>'}</div>
+      <h3>${esc(i.title)}</h3>
+      <p>${esc(i.summary)}</p>
+      ${i.url?`<a class="read" href="${esc(i.url)}" target="_blank" rel="noopener">Official source →</a>`:''}
+    </article>`).join('');
+  });
+}).catch(()=>{});
+</script>
 </body>
 </html>
