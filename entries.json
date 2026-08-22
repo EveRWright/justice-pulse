@@ -1,0 +1,36 @@
+{
+  "updated": "2026-08-22",
+  "note": "Living feed. Newest items first. Confirmed public-record sources only.",
+  "items": [
+    {
+      "date": "2026-08-22",
+      "title": "Justice Pulse public hub established under Eve R. Wright",
+      "source": "TexanoAI",
+      "url": "https://github.com/EveRWright",
+      "summary": "Public living aggregator stood up for Texas judicial ethics, formal SCJC actions, Chapter 87 matters, SCOTX orders with ethics implications, and related institutional signals. Continuous monitoring architecture in place.",
+      "area": "Operational",
+      "quality": "Internal structure",
+      "image": null
+    },
+    {
+      "date": "2026-08-21",
+      "title": "SCOTX orders list – petition dispositions and parental-rights matters",
+      "source": "Supreme Court of Texas",
+      "url": "https://www.txcourts.gov/supreme/",
+      "summary": "Routine petition dispositions published. Several matters touching parental rights and DFPS-related issues noted for further review under continuous monitoring.",
+      "area": "SCOTX",
+      "quality": "Official order list",
+      "image": null
+    },
+    {
+      "date": "2026-08-20",
+      "title": "SCJC formal sanction activity – ongoing docket watch",
+      "source": "State Commission on Judicial Conduct",
+      "url": "https://www.scjc.texas.gov/",
+      "summary": "Continuous monitoring of formal sanctions, public reprimands, and special court of review outcomes remains active. New dispositions will be added as they are published.",
+      "area": "SCJC",
+      "quality": "Official docket",
+      "image": null
+    }
+  ]
+}

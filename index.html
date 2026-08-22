@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Justice Pulse · with Eve</title>
+  <meta name="description" content="Living public record of Texas judicial ethics, formal orders, and institutional signals. Continuous monitoring. Neutral summaries. Direct sources.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Cormorant+Garamond:wght@500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #05070c;
+      --panel: #0b0f18;
+      --panel-2: #111827;
+      --border: rgba(198, 163, 90, 0.22);
+      --gold: #c6a35a;
+      --gold-2: #e0c27a;
+      --cyan: #5eead4;
+      --text: #e8e4d9;
+      --muted: #9ca3af;
+      --green: #34d399;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      min-height: 100vh;
+      background: var(--bg);
+      color: var(--text);
+      font-family: Inter, system-ui, sans-serif;
+      line-height: 1.5;
+      background-image:
+        radial-gradient(ellipse 80% 50% at 20% -10%, rgba(198,163,90,0.08), transparent),
+        radial-gradient(ellipse 60% 40% at 90% 10%, rgba(94,234,212,0.05), transparent);
+    }
+    a { color: inherit; text-decoration: none; }
+    .topnav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 1rem 2rem;
+      border-bottom: 1px solid var(--border);
+      background: rgba(5,7,12,0.85);
+      backdrop-filter: blur(12px);
+      position: sticky;
+      top: 0;
+      z-index: 50;
+    }
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      font-weight: 500;
+      letter-spacing: 0.02em;
+    }
+    .brand .mark {
+      width: 28px; height: 28px;
+      border: 1.5px solid var(--gold);
+      border-radius: 50%;
+      display: grid; place-items: center;
+      font-size: 0.7rem; color: var(--gold);
+    }
+    .brand span { color: var(--gold-2); font-size: 0.85rem; font-weight: 400; }
+    .nav-links {
+      display: flex;
+      gap: 1.75rem;
+      font-size: 0.8rem;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+    .nav-links a:hover { color: var(--gold-2); }
+    .live-pill {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      font-size: 0.7rem;
+      color: var(--green);
+      border: 1px solid rgba(52,211,153,0.35);
+      padding: 0.3rem 0.7rem;
+      border-radius: 999px;
+    }
+    .live-pill::before {
+      content: "";
+      width: 6px; height: 6px;
+      background: var(--green);
+      border-radius: 50%;
+      box-shadow: 0 0 8px var(--green);
+    }
+    .hero {
+      display: grid;
+      grid-template-columns: 340px 1fr;
+      gap: 2.5rem;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2.5rem 2rem 3rem;
+      align-items: start;
+    }
+    @media (max-width: 900px) {
+      .hero { grid-template-columns: 1fr; }
+      .portrait-col { order: -1; max-width: 320px; margin: 0 auto; }
+    }
+    .portrait-col {
+      position: sticky;
+      top: 5.5rem;
+    }
+    .portrait {
+      width: 100%;
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      overflow: hidden;
+      background: var(--panel);
+    }
+    .portrait img {
+      width: 100%;
+      display: block;
+      aspect-ratio: 3/4;
+      object-fit: cover;
+    }
+    .status-panel {
+      margin-top: 1rem;
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 0.9rem 1rem;
+      font-size: 0.75rem;
+    }
+    .status-row {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 0.45rem;
+      color: var(--muted);
+    }
+    .status-row strong { color: var(--cyan); font-weight: 500; }
+    .status-row .ok { color: var(--green); }
+    .feed-header {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      margin-bottom: 1.25rem;
+    }
+    .feed-header h1 {
+      font-family: "Cormorant Garamond", Georgia, serif;
+      font-size: 1.85rem;
+      font-weight: 600;
+      color: var(--gold-2);
+    }
+    .feed-header .meta {
+      font-size: 0.75rem;
+      color: var(--muted);
+      letter-spacing: 0.04em;
+    }
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1.15rem 1.25rem;
+      margin-bottom: 0.85rem;
+      transition: border-color 0.15s;
+    }
+    .card:hover { border-color: rgba(198,163,90,0.45); }
+    .card .meta {
+      display: flex;
+      gap: 0.6rem;
+      flex-wrap: wrap;
+      font-size: 0.68rem;
+      color: var(--muted);
+      margin-bottom: 0.45rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .card .meta .tag {
+      color: var(--gold);
+      border: 1px solid var(--border);
+      padding: 0.1rem 0.4rem;
+      border-radius: 4px;
+    }
+    .card h2 {
+      font-size: 1.05rem;
+      font-weight: 500;
+      margin-bottom: 0.35rem;
+      line-height: 1.35;
+    }
+    .card h2 a:hover { color: var(--gold-2); }
+    .card p {
+      font-size: 0.88rem;
+      color: var(--muted);
+      line-height: 1.55;
+    }
+    .card .read {
+      display: inline-block;
+      margin-top: 0.6rem;
+      font-size: 0.75rem;
+      color: var(--cyan);
+      letter-spacing: 0.03em;
+    }
+    .empty {
+      text-align: center;
+      padding: 3rem 1rem;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 1.5rem 2rem;
+      text-align: center;
+      font-size: 0.72rem;
+      color: var(--muted);
+      letter-spacing: 0.04em;
+    }
+    footer a { color: var(--gold); }
+  </style>
+</head>
+<body>
+  <nav class="topnav">
+    <div class="brand">
+      <div class="mark">JP</div>
+      <div>Justice Pulse <span>· with Eve</span></div>
+    </div>
+    <div class="nav-links">
+      <a href="#feed">Feed</a>
+      <a href="about.html">About</a>
+      <a href="#monitor">Monitor</a>
+    </div>
+    <div class="live-pill">LIVE</div>
+  </nav>
+
+  <main class="hero">
+    <aside class="portrait-col">
+      <div class="portrait">
+        <img src="site_assets/homepage_hero.jpg" alt="Eve R. Wright — Justice Pulse">
+      </div>
+      <div class="status-panel">
+        <div class="status-row"><span>System Status</span><strong class="ok">OPERATIONAL</strong></div>
+        <div class="status-row"><span>Data Stream</span><strong>LIVE</strong></div>
+        <div class="status-row"><span>Monitoring</span><strong>24 / 7</strong></div>
+        <div class="status-row"><span>Last Sweep</span><strong id="last-sweep">—</strong></div>
+      </div>
+    </aside>
+
+    <section id="feed">
+      <div class="feed-header">
+        <h1>Live Ethics Feed</h1>
+        <div class="meta" id="updated-stamp">Continuous collection</div>
+      </div>
+      <div id="feed-list">
+        <p class="empty">Loading feed…</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    Justice Pulse · with Eve &nbsp;·&nbsp; Monitor. Analyze. Uphold. &nbsp;·&nbsp;
+    <a href="https://texanoai.com" target="_blank" rel="noopener">texanoai.com</a>
+  </footer>
+
+  <script>
+    const list = document.getElementById('feed-list');
+    const stamp = document.getElementById('updated-stamp');
+    const lastSweep = document.getElementById('last-sweep');
+
+    fetch('entries.json?t=' + Date.now())
+      .then(r => r.ok ? r.json() : Promise.reject())
+      .then(data => {
+        const items = data.items || [];
+        if (data.updated) {
+          stamp.textContent = 'Updated ' + data.updated;
+          lastSweep.textContent = data.updated;
+        }
+        if (!items.length) {
+          list.innerHTML = '<p class="empty">The record is open. Daily entries will collect here.</p>';
+          return;
+        }
+        list.innerHTML = items.map(item => {
+          const tags = [item.area, item.quality].filter(Boolean)
+            .map(t => `<span class="tag">${esc(t)}</span>`).join('');
+          return `
+            <article class="card">
+              <div class="meta">
+                <span>${esc(item.date || '')}</span>
+                <span>${esc(item.source || '')}</span>
+                ${tags}
+              </div>
+              <h2><a href="${esc(item.url || '#')}" target="_blank" rel="noopener">${esc(item.title || 'Untitled')}</a></h2>
+              <p>${esc(item.summary || '')}</p>
+              ${item.url ? `<a class="read" href="${esc(item.url)}" target="_blank" rel="noopener">Read original →</a>` : ''}
+            </article>`;
+        }).join('');
+      })
+      .catch(() => {
+        list.innerHTML = '<p class="empty">Feed file not reachable yet. Enable GitHub Pages or open entries.json.</p>';
+      });
+
+    function esc(s) {
+      return String(s).replace(/[&<>"']/g, c =>
+        ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+    }
+  </script>
+</body>
+</html>
