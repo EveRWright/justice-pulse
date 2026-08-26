@@ -1,31 +1,356 @@
 {
   "updated": "2026-08-26",
-  "note": "Public watch wire. Stories on the feed must still be sourced and labeled. This list is the geography — not an endorsement of every outlet’s framing.",
+  "note": "Public watch wire. Stories on the feed must still be sourced and labeled. This list is the geography \u2014 not an endorsement of every outlet\u2019s framing.",
   "sources": [
-    {"id": "scjc", "name": "State Commission on Judicial Conduct", "region": "Statewide", "url": "https://www.scjc.texas.gov/discipline/", "kind": "official"},
-    {"id": "tec", "name": "Texas Ethics Commission", "region": "Statewide", "url": "https://www.ethics.state.tx.us/", "kind": "official"},
-    {"id": "oca", "name": "Office of Court Administration / txcourts.gov", "region": "Statewide", "url": "https://www.txcourts.gov/", "kind": "official"},
-    {"id": "sos", "name": "Texas Secretary of State — elections", "region": "Statewide", "url": "https://www.sos.state.tx.us/elections/", "kind": "official"},
-    {"id": "tribune", "name": "Texas Tribune", "region": "Statewide", "url": "https://www.texastribune.org/", "kind": "news"},
-    {"id": "legalnewsline", "name": "Southeast Texas Record / Legal Newsline", "region": "Houston / Gulf", "url": "https://www.legalnewsline.com/", "kind": "news"},
-    {"id": "chron", "name": "Houston Chronicle", "region": "Houston", "url": "https://www.houstonchronicle.com/", "kind": "news"},
-    {"id": "khou", "name": "KHOU", "region": "Houston", "url": "https://www.khou.com/", "kind": "news"},
-    {"id": "dmn", "name": "Dallas Morning News", "region": "DFW", "url": "https://www.dallasnews.com/", "kind": "news"},
-    {"id": "wfaa", "name": "WFAA", "region": "DFW", "url": "https://www.wfaa.com/", "kind": "news"},
-    {"id": "star-telegram", "name": "Fort Worth Star-Telegram", "region": "DFW", "url": "https://www.star-telegram.com/", "kind": "news"},
-    {"id": "statesman", "name": "Austin American-Statesman", "region": "Austin", "url": "https://www.statesman.com/", "kind": "news"},
-    {"id": "kxan", "name": "KXAN", "region": "Austin", "url": "https://www.kxan.com/", "kind": "news"},
-    {"id": "express-news", "name": "San Antonio Express-News / MySA", "region": "San Antonio", "url": "https://www.expressnews.com/", "kind": "news"},
-    {"id": "ksat", "name": "KSAT", "region": "San Antonio", "url": "https://www.ksat.com/", "kind": "news"},
-    {"id": "sa-report", "name": "San Antonio Report", "region": "San Antonio", "url": "https://sanantonioreport.org/", "kind": "news"},
-    {"id": "mrt", "name": "Midland Reporter-Telegram", "region": "West Texas", "url": "https://www.mrt.com/", "kind": "news"},
-    {"id": "kltv", "name": "KLTV", "region": "East Texas", "url": "https://www.kltv.com/", "kind": "news"},
-    {"id": "ketk", "name": "KETK", "region": "East Texas", "url": "https://www.ketk.com/", "kind": "news"},
-    {"id": "elpaso", "name": "El Paso Times", "region": "West Texas / Border", "url": "https://www.elpasotimes.com/", "kind": "news"},
-    {"id": "caller", "name": "Corpus Christi Caller-Times", "region": "Coast / South", "url": "https://www.caller.com/", "kind": "news"},
-    {"id": "laredo", "name": "Laredo Morning Times", "region": "Border", "url": "https://www.lmtonline.com/", "kind": "news"},
-    {"id": "scorecard", "name": "Texas Scorecard", "region": "Statewide", "url": "https://texasscorecard.com/", "kind": "news"},
-    {"id": "ballotpedia", "name": "Ballotpedia (Texas judicial / local)", "region": "Statewide", "url": "https://ballotpedia.org/", "kind": "reference"},
-    {"id": "aba", "name": "ABA Journal", "region": "National / Texas when on-point", "url": "https://www.abajournal.com/", "kind": "news"}
+    {
+      "id": "scjc",
+      "name": "State Commission on Judicial Conduct",
+      "region": "Statewide",
+      "url": "https://www.scjc.texas.gov/discipline/",
+      "kind": "official"
+    },
+    {
+      "id": "tec",
+      "name": "Texas Ethics Commission",
+      "region": "Statewide",
+      "url": "https://www.ethics.state.tx.us/",
+      "kind": "official"
+    },
+    {
+      "id": "oca",
+      "name": "Office of Court Administration / txcourts.gov",
+      "region": "Statewide",
+      "url": "https://www.txcourts.gov/",
+      "kind": "official"
+    },
+    {
+      "id": "sos",
+      "name": "Texas Secretary of State \u2014 elections",
+      "region": "Statewide",
+      "url": "https://www.sos.state.tx.us/elections/",
+      "kind": "official"
+    },
+    {
+      "id": "tribune",
+      "name": "Texas Tribune",
+      "region": "Statewide",
+      "url": "https://www.texastribune.org/",
+      "kind": "news"
+    },
+    {
+      "id": "legalnewsline",
+      "name": "Southeast Texas Record / Legal Newsline",
+      "region": "Houston / Gulf",
+      "url": "https://www.legalnewsline.com/",
+      "kind": "news"
+    },
+    {
+      "id": "chron",
+      "name": "Houston Chronicle",
+      "region": "Houston",
+      "url": "https://www.houstonchronicle.com/",
+      "kind": "news"
+    },
+    {
+      "id": "khou",
+      "name": "KHOU",
+      "region": "Houston",
+      "url": "https://www.khou.com/",
+      "kind": "news"
+    },
+    {
+      "id": "dmn",
+      "name": "Dallas Morning News",
+      "region": "DFW",
+      "url": "https://www.dallasnews.com/",
+      "kind": "news"
+    },
+    {
+      "id": "wfaa",
+      "name": "WFAA",
+      "region": "DFW",
+      "url": "https://www.wfaa.com/",
+      "kind": "news"
+    },
+    {
+      "id": "star-telegram",
+      "name": "Fort Worth Star-Telegram",
+      "region": "DFW",
+      "url": "https://www.star-telegram.com/",
+      "kind": "news"
+    },
+    {
+      "id": "statesman",
+      "name": "Austin American-Statesman",
+      "region": "Austin",
+      "url": "https://www.statesman.com/",
+      "kind": "news"
+    },
+    {
+      "id": "kxan",
+      "name": "KXAN",
+      "region": "Austin",
+      "url": "https://www.kxan.com/",
+      "kind": "news"
+    },
+    {
+      "id": "express-news",
+      "name": "San Antonio Express-News / MySA",
+      "region": "San Antonio",
+      "url": "https://www.expressnews.com/",
+      "kind": "news"
+    },
+    {
+      "id": "ksat",
+      "name": "KSAT",
+      "region": "San Antonio",
+      "url": "https://www.ksat.com/",
+      "kind": "news"
+    },
+    {
+      "id": "sa-report",
+      "name": "San Antonio Report",
+      "region": "San Antonio",
+      "url": "https://sanantonioreport.org/",
+      "kind": "news"
+    },
+    {
+      "id": "mrt",
+      "name": "Midland Reporter-Telegram",
+      "region": "West Texas",
+      "url": "https://www.mrt.com/",
+      "kind": "news"
+    },
+    {
+      "id": "kltv",
+      "name": "KLTV",
+      "region": "East Texas",
+      "url": "https://www.kltv.com/",
+      "kind": "news"
+    },
+    {
+      "id": "ketk",
+      "name": "KETK",
+      "region": "East Texas",
+      "url": "https://www.ketk.com/",
+      "kind": "news"
+    },
+    {
+      "id": "elpaso",
+      "name": "El Paso Times",
+      "region": "West Texas / Border",
+      "url": "https://www.elpasotimes.com/",
+      "kind": "news"
+    },
+    {
+      "id": "caller",
+      "name": "Corpus Christi Caller-Times",
+      "region": "Coast / South",
+      "url": "https://www.caller.com/",
+      "kind": "news"
+    },
+    {
+      "id": "laredo",
+      "name": "Laredo Morning Times",
+      "region": "Border",
+      "url": "https://www.lmtonline.com/",
+      "kind": "news"
+    },
+    {
+      "id": "scorecard",
+      "name": "Texas Scorecard",
+      "region": "Statewide",
+      "url": "https://texasscorecard.com/",
+      "kind": "news"
+    },
+    {
+      "id": "ballotpedia",
+      "name": "Ballotpedia (Texas judicial / local)",
+      "region": "Statewide",
+      "url": "https://ballotpedia.org/",
+      "kind": "reference"
+    },
+    {
+      "id": "aba",
+      "name": "ABA Journal",
+      "region": "National / Texas when on-point",
+      "url": "https://www.abajournal.com/",
+      "kind": "news"
+    },
+    {
+      "id": "san-antonio-express-news",
+      "name": "San Antonio Express-News",
+      "region": "Texas / national when on-point",
+      "url": "https://news.google.com/search?q=San%20Antonio%20Express-News%20Texas%20courts",
+      "kind": "news"
+    },
+    {
+      "id": "houston-public-media",
+      "name": "Houston Public Media",
+      "region": "Texas / national when on-point",
+      "url": "https://news.google.com/search?q=Houston%20Public%20Media%20Texas%20courts",
+      "kind": "news"
+    },
+    {
+      "id": "kera-news",
+      "name": "KERA News",
+      "region": "Texas / national when on-point",
+      "url": "https://news.google.com/search?q=KERA%20News%20Texas%20courts",
+      "kind": "news"
+    },
+    {
+      "id": "thetexan-news",
+      "name": "thetexan.news",
+      "region": "Texas / national when on-point",
+      "url": "https://news.google.com/search?q=thetexan.news%20Texas%20courts",
+      "kind": "news"
+    },
+    {
+      "id": "the-texas-tribune",
+      "name": "The Texas Tribune",
+      "region": "Texas / national when on-point",
+      "url": "https://news.google.com/search?q=The%20Texas%20Tribune%20Texas%20courts",
+      "kind": "news"
+    },
+    {
+      "id": "dallas-news",
+      "name": "Dallas News",
+      "region": "Texas / national when on-point",
+      "url": "https://news.google.com/search?q=Dallas%20News%20Texas%20courts",
+      "kind": "news"
+    },
+    {
+      "id": "abc13-houston",
+      "name": "ABC13 Houston",
+      "region": "Texas / national when on-point",
+      "url": "https://news.google.com/search?q=ABC13%20Houston%20Texas%20courts",
+      "kind": "news"
+    },
+    {
+      "id": "el-paso-matters",
+      "name": "El Paso Matters",
+      "region": "Texas / national when on-point",
+      "url": "https://news.google.com/search?q=El%20Paso%20Matters%20Texas%20courts",
+      "kind": "news"
+    },
+    {
+      "id": "click2houston",
+      "name": "Click2Houston",
+      "region": "Texas / national when on-point",
+      "url": "https://news.google.com/search?q=Click2Houston%20Texas%20courts",
+      "kind": "news"
+    },
+    {
+      "id": "kens5-com",
+      "name": "kens5.com",
+      "region": "Texas / national when on-point",
+      "url": "https://news.google.com/search?q=kens5.com%20Texas%20courts",
+      "kind": "news"
+    },
+    {
+      "id": "cbs-news",
+      "name": "CBS News",
+      "region": "Texas / national when on-point",
+      "url": "https://news.google.com/search?q=CBS%20News%20Texas%20courts",
+      "kind": "news"
+    },
+    {
+      "id": "nbc-5-dallas-fort-worth",
+      "name": "NBC 5 Dallas-Fort Worth",
+      "region": "Texas / national when on-point",
+      "url": "https://news.google.com/search?q=NBC%205%20Dallas-Fort%20Worth%20Texas%20courts",
+      "kind": "news"
+    },
+    {
+      "id": "fort-worth-report",
+      "name": "Fort Worth Report",
+      "region": "Texas / national when on-point",
+      "url": "https://news.google.com/search?q=Fort%20Worth%20Report%20Texas%20courts",
+      "kind": "news"
+    },
+    {
+      "id": "spectrum-news",
+      "name": "Spectrum News",
+      "region": "Texas / national when on-point",
+      "url": "https://news.google.com/search?q=Spectrum%20News%20Texas%20courts",
+      "kind": "news"
+    },
+    {
+      "id": "gibson-dunn",
+      "name": "Gibson Dunn",
+      "region": "Texas / national when on-point",
+      "url": "https://news.google.com/search?q=Gibson%20Dunn%20Texas%20courts",
+      "kind": "news"
+    },
+    {
+      "id": "bloomberg-law-news",
+      "name": "Bloomberg Law News",
+      "region": "Texas / national when on-point",
+      "url": "https://news.google.com/search?q=Bloomberg%20Law%20News%20Texas%20courts",
+      "kind": "news"
+    },
+    {
+      "id": "nbc-news",
+      "name": "NBC News",
+      "region": "Texas / national when on-point",
+      "url": "https://news.google.com/search?q=NBC%20News%20Texas%20courts",
+      "kind": "news"
+    },
+    {
+      "id": "scotusblog",
+      "name": "SCOTUSblog",
+      "region": "Texas / national when on-point",
+      "url": "https://news.google.com/search?q=SCOTUSblog%20Texas%20courts",
+      "kind": "news"
+    },
+    {
+      "id": "yahoo",
+      "name": "Yahoo",
+      "region": "Texas / national when on-point",
+      "url": "https://news.google.com/search?q=Yahoo%20Texas%20courts",
+      "kind": "news"
+    },
+    {
+      "id": "fox-26-houston",
+      "name": "FOX 26 Houston",
+      "region": "Texas / national when on-point",
+      "url": "https://news.google.com/search?q=FOX%2026%20Houston%20Texas%20courts",
+      "kind": "news"
+    },
+    {
+      "id": "kvue",
+      "name": "KVUE",
+      "region": "Texas / national when on-point",
+      "url": "https://news.google.com/search?q=KVUE%20Texas%20courts",
+      "kind": "news"
+    },
+    {
+      "id": "reuters",
+      "name": "Reuters",
+      "region": "Texas / national when on-point",
+      "url": "https://news.google.com/search?q=Reuters%20Texas%20courts",
+      "kind": "news"
+    },
+    {
+      "id": "fox-4-news-dallas-fort-worth",
+      "name": "FOX 4 News Dallas-Fort Worth",
+      "region": "Texas / national when on-point",
+      "url": "https://news.google.com/search?q=FOX%204%20News%20Dallas-Fort%20Worth%20Texas%20courts",
+      "kind": "news"
+    },
+    {
+      "id": "abc-news",
+      "name": "ABC News",
+      "region": "Texas / national when on-point",
+      "url": "https://news.google.com/search?q=ABC%20News%20Texas%20courts",
+      "kind": "news"
+    },
+    {
+      "id": "state-court-report",
+      "name": "State Court Report",
+      "region": "Texas / national when on-point",
+      "url": "https://news.google.com/search?q=State%20Court%20Report%20Texas%20courts",
+      "kind": "news"
+    }
   ]
 }

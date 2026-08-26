@@ -1,50 +1,32 @@
 {
   "updated": "2026-08-26",
-  "note": "Public judicial / county-judge races from named reporting and official cycle pages. Not a complete statewide map yet.",
+  "note": "Public 2026 judicial / county-judge races from Ballotpedia, Wikipedia, and named reporting. Not a complete map of every JP bench. General election Nov. 3, 2026 unless noted.",
   "races": [
-    {
-      "cycle": "2026",
-      "county": "Statewide",
-      "court": "Supreme Court of Texas",
-      "seat": "Chief Justice",
-      "candidates": ["Jimmy Blacklock (R, inc.)", "Maggie Ellis (D)"],
-      "party": "R vs D",
-      "contested": true,
-      "money_note": "Statewide judicial; Judicial Campaign Fairness Act applies. Detailed TEC trails not summarized here.",
-      "sources": ["https://en.wikipedia.org/wiki/2026_Texas_Supreme_Court_election"]
-    },
-    {
-      "cycle": "2026",
-      "county": "Harris",
-      "court": "County Judge (admin)",
-      "seat": "Harris County Judge",
-      "candidates": ["Letitia Plummer (D)", "Orlando Sanchez (R)"],
-      "party": "D vs R",
-      "contested": true,
-      "money_note": "Incumbent Lina Hidalgo not running. General Nov. 3, 2026.",
-      "sources": ["https://en.wikipedia.org/wiki/2026_Harris_County_Judge_election", "https://ballotpedia.org/Matt_Salazar"]
-    },
-    {
-      "cycle": "2026",
-      "county": "Bexar",
-      "court": "County Judge (admin)",
-      "seat": "Bexar County Judge",
-      "candidates": ["Ron Nirenberg (D nominee)", "Peter Sakai (D inc., lost primary)"],
-      "party": "D primary decided; general TBD on public guide",
-      "contested": true,
-      "money_note": "San Antonio Report 2026 voter guide.",
-      "sources": ["https://sanantonioreport.org/san-antonio-report-2026-voter-guide/"]
-    },
-    {
-      "cycle": "2026",
-      "county": "Bexar",
-      "court": "4th Court of Appeals",
-      "seat": "Chief Justice",
-      "candidates": ["Antonia Arteaga (D nominee)", "Rebecca Martinez (D inc., not seeking reelection)"],
-      "party": "Open seat",
-      "contested": true,
-      "money_note": "San Antonio Report 2026 voter guide.",
-      "sources": ["https://sanantonioreport.org/san-antonio-report-2026-voter-guide/"]
-    }
+    {"cycle":"2026","county":"Statewide","court":"Supreme Court of Texas","seat":"Place 1 · Chief Justice","candidates":["Jimmy Blacklock (R, inc.)","Maggie Ellis (D)"],"party":"R vs D","contested":true,"money_note":"Judicial Campaign Fairness Act.","sources":["https://ballotpedia.org/Texas_Supreme_Court_elections,_2026","https://en.wikipedia.org/wiki/2026_Texas_Supreme_Court_election"]},
+    {"cycle":"2026","county":"Statewide","court":"Supreme Court of Texas","seat":"Place 2","candidates":["James Sullivan (R, inc.)","Chari Kelly (D)"],"party":"R vs D","contested":true,"money_note":"","sources":["https://ballotpedia.org/Texas_Supreme_Court_elections,_2026"]},
+    {"cycle":"2026","county":"Statewide","court":"Court of Criminal Appeals","seat":"Place 3","candidates":["Thomas Smith (R)","Okey Anyiam (D)","Mark Ash (L)"],"party":"R vs D vs L","contested":true,"money_note":"Alison Fox lost R runoff May 26, 2026.","sources":["https://ballotpedia.org/State_judicial_elections,_2026"]},
+    {"cycle":"2026","county":"Statewide","court":"Court of Criminal Appeals","seat":"Place 4","candidates":["Kevin Patrick Yeary (R, inc.)","Audra Riley (D)"],"party":"R vs D","contested":true,"money_note":"","sources":["https://ballotpedia.org/State_judicial_elections,_2026"]},
+    {"cycle":"2026","county":"Statewide","court":"Court of Criminal Appeals","seat":"Place 9","candidates":["John Messinger (R)","Holly Taylor (D)"],"party":"R vs D","contested":true,"money_note":"","sources":["https://ballotpedia.org/State_judicial_elections,_2026"]},
+    {"cycle":"2026","county":"Travis / 3rd COA","court":"3rd Court of Appeals","seat":"Chief Justice","candidates":["Darlene Byrne (inc.)","Cory Liu"],"party":"contested","contested":true,"money_note":"","sources":["https://ballotpedia.org/Texas_intermediate_appellate_court_elections,_2026"]},
+    {"cycle":"2026","county":"Harris / 1st COA","court":"1st Court of Appeals","seat":"Place 3","candidates":["Veronica Rivas-Molloy (i)"],"party":"see Ballotpedia","contested":true,"money_note":"24 intermediate appellate seats statewide this cycle.","sources":["https://ballotpedia.org/Texas_intermediate_appellate_court_elections,_2026"]},
+    {"cycle":"2026","county":"Bexar","court":"4th Court of Appeals","seat":"Chief Justice","candidates":["Antonia Arteaga (D nominee)","Rebecca Martinez (D inc., not seeking reelection)"],"party":"open","contested":true,"money_note":"","sources":["https://sanantonioreport.org/san-antonio-report-2026-voter-guide/"]},
+    {"cycle":"2026","county":"El Paso","court":"8th Court of Appeals","seat":"Chief Justice","candidates":["Maria Salas-Mendoza (D, inc.)"],"party":"D","contested":true,"money_note":"Confirm opponents on Ballotpedia.","sources":["https://ballotpedia.org/State_intermediate_appellate_court_elections,_2026"]},
+    {"cycle":"2026","county":"Harris","court":"County Judge (admin)","seat":"Harris County Judge","candidates":["Letitia Plummer (D)","Orlando Sanchez (R)"],"party":"D vs R","contested":true,"money_note":"Hidalgo not running.","sources":["https://en.wikipedia.org/wiki/2026_Harris_County_Judge_election"]},
+    {"cycle":"2026","county":"Bexar","court":"County Judge (admin)","seat":"Bexar County Judge","candidates":["Ron Nirenberg (D nominee)","Peter Sakai (D inc., lost primary)"],"party":"D primary decided","contested":true,"money_note":"","sources":["https://sanantonioreport.org/san-antonio-report-2026-voter-guide/"]},
+    {"cycle":"2026","county":"Dallas","court":"Probate Court No. 1","seat":"Dallas County Probate 1","candidates":["Julia Malveaux (D, inc.)"],"party":"D","contested":false,"money_note":"On general ballot per Ballotpedia local trial courts.","sources":["https://ballotpedia.org/Local_trial_court_judicial_elections,_2026"]},
+    {"cycle":"2026","county":"Dallas","court":"Probate Court No. 2","seat":"Dallas County Probate 2","candidates":["Ingrid Michelle Warren (D, inc.)"],"party":"D","contested":false,"money_note":"","sources":["https://ballotpedia.org/Local_trial_court_judicial_elections,_2026"]},
+    {"cycle":"2026","county":"Dallas","court":"Probate Court No. 3","seat":"Dallas County Probate 3","candidates":["Margaret Jones-Johnson (D, inc.)"],"party":"D","contested":false,"money_note":"","sources":["https://ballotpedia.org/Local_trial_court_judicial_elections,_2026"]},
+    {"cycle":"2026","county":"El Paso","court":"Probate Court No. 1","seat":"El Paso Probate 1","candidates":["Patricia Chew (D, inc.)"],"party":"D","contested":false,"money_note":"","sources":["https://ballotpedia.org/Local_trial_court_judicial_elections,_2026"]},
+    {"cycle":"2026","county":"Harris","court":"Probate Court No. 4","seat":"Harris Probate 4","candidates":["Republican nominee on ballot","Lema Mousilli (D, lost primary)"],"party":"R vs D primary decided","contested":true,"money_note":"","sources":["https://ballotpedia.org/Local_trial_court_judicial_elections,_2026"]},
+    {"cycle":"2026","county":"Tarrant","court":"Probate Court No. 1","seat":"Tarrant Probate 1","candidates":["Patricia Burns (R, inc.)"],"party":"R","contested":false,"money_note":"","sources":["https://ballotpedia.org/Local_trial_court_judicial_elections,_2026"]},
+    {"cycle":"2026","county":"Tarrant","court":"Probate Court No. 2","seat":"Tarrant Probate 2","candidates":["Brook Bell (R)"],"party":"R","contested":false,"money_note":"","sources":["https://ballotpedia.org/Local_trial_court_judicial_elections,_2026"]},
+    {"cycle":"2026","county":"Harris","court":"55th District Court","seat":"55th District","candidates":["Latosha Payne (D, inc.)","Nile Copeland (R)"],"party":"D vs R","contested":true,"money_note":"","sources":["https://ballotpedia.org/Local_trial_court_judicial_elections,_2026"]},
+    {"cycle":"2026","county":"Harris","court":"113th District Court","seat":"113th District","candidates":["Rabeea Collier (D, inc.)","Paul Sullivan (R)"],"party":"D vs R","contested":true,"money_note":"","sources":["https://ballotpedia.org/Local_trial_court_judicial_elections,_2026"]},
+    {"cycle":"2026","county":"Harris","court":"157th District Court","seat":"157th District","candidates":["Tanya Garrison (D, inc.)","Gerald Fowler (R)"],"party":"D vs R","contested":true,"money_note":"","sources":["https://ballotpedia.org/Local_trial_court_judicial_elections,_2026"]},
+    {"cycle":"2026","county":"Harris","court":"180th District Court","seat":"180th District (criminal)","candidates":["Tami Pierce (R, inc.)","Stephanie Morales (D)"],"party":"R vs D","contested":true,"money_note":"","sources":["https://ballotpedia.org/Local_trial_court_judicial_elections,_2026"]},
+    {"cycle":"2026","county":"Harris","court":"182nd District Court","seat":"182nd District","candidates":["Danilo Lacayo (D, inc.)","Brent Haynes (R)"],"party":"D vs R","contested":true,"money_note":"","sources":["https://ballotpedia.org/Local_trial_court_judicial_elections,_2026"]},
+    {"cycle":"2026","county":"Harris","court":"183rd District Court","seat":"183rd District","candidates":["Lance Long (R, inc.)","Julia Maldonado (D)"],"party":"R vs D","contested":true,"money_note":"","sources":["https://ballotpedia.org/Local_trial_court_judicial_elections,_2026"]},
+    {"cycle":"2026","county":"Harris","court":"184th District Court","seat":"184th District","candidates":["Katherine Thomas (D, inc.)","Heather Hudson (R)"],"party":"D vs R","contested":true,"money_note":"","sources":["https://ballotpedia.org/Local_trial_court_judicial_elections,_2026"]},
+    {"cycle":"2026","county":"Harris","court":"185th District Court","seat":"185th District","candidates":["Andrea Beall (D, inc.)","Mark Goldberg (R)"],"party":"D vs R","contested":true,"money_note":"","sources":["https://ballotpedia.org/Local_trial_court_judicial_elections,_2026"]}
   ]
 }

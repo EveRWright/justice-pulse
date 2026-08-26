@@ -25,22 +25,24 @@
     <svg class="seal" viewBox="0 0 80 80" aria-hidden="true"><circle cx="40" cy="40" r="37" fill="none" stroke="currentColor" stroke-width="1.2"/><path d="M40 16l3.2 9.8h10.3l-8.3 6 3.2 9.8L40 35.6l-8.4 6 3.2-9.8-8.3-6h10.3z" fill="currentColor"/></svg>
     <p class="kicker">Texas · All court levels · Public record</p>
     <h1>Justice<br><em>Pulse</em></h1>
-    <p class="lede">A statewide aggregator of news and official public materials about Texas judges — ethics, orders, elections, and campaign-finance appearance. Neutral summaries. Eve reads the record and names the questions it actually raises. Fair courts are not optional.</p>
+    <p class="lede">Hundreds of sourced clips — family, criminal, probate, arbitration, appellate, elections, money next to dockets. Official ethics listings sit behind a filter so they don’t swallow the news. Eve reads what doesn’t add up. The watch is on.</p>
     <div class="rules">News first · sourced · Confirmed vs question</div>
     <div class="stats">
       <div class="stat"><b id="stat-count">—</b><span>Showing</span></div>
-      <div class="stat"><b>Daily</b><span>Watch cadence</span></div>
-      <div class="stat"><b>Sourced</b><span>No unsourced claims</span></div>
+      <div class="stat"><b id="stat-all">—</b><span>In catalog</span></div>
+      <div class="stat"><b>2023–26</b><span>News depth</span></div>
       <div class="stat"><b>Eve</b><span>Public-record read</span></div>
     </div>
   </header>
   <div class="filters">
+    <div class="fl">Lane</div><div class="chips" id="kinds"></div>
     <div class="fl">Category</div><div class="chips" id="cats"></div>
     <div class="fl">Region</div><div class="chips" id="regs"></div>
     <div class="fl">County</div><div class="chips" id="cos"></div>
   </div>
   <div class="section-label"><span>Latest from the watch</span><span id="updated-stamp">Newest first</span></div>
   <main id="feed"><p class="empty">Opening the record…</p></main>
+  <p style="text-align:center;padding:0 0 1.4rem"><button class="chip" id="more" type="button">Load more</button></p>
   <footer>
     Justice Pulse · with Eve. Public-record aid, not legal advice. Homepage is news-first. Commission PDFs stay in the archive, not dumped here.<br>
     <a href="method.html">How we label claims</a> · <a href="about.html">About Eve</a> · <a href="https://github.com/EveRWright/justice-pulse">GitHub</a>
@@ -48,46 +50,60 @@
 </div>
 <script>
 function esc(s){return String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
-let all=[], cat='ALL', co='ALL', reg='ALL';
-function chips(el, vals, cur, fn){
-  el.innerHTML=['ALL',...vals].map(v=>`<button class="chip${v===cur?' on':''}" data-v="${esc(v)}">${esc(v)}</button>`).join('');
+let all=[], cat='ALL', co='ALL', reg='ALL', kind='NEWS', shownN=25;
+const KIND_LABELS={NEWS:'News + Eve', official:'Official ethics', ALL:'All'};
+function chips(el, vals, cur, fn, labels){
+  el.innerHTML=vals.map(v=>`<button class="chip${v===cur?' on':''}" data-v="${esc(v)}">${esc((labels&&labels[v])||v)}</button>`).join('');
   el.querySelectorAll('.chip').forEach(b=>b.onclick=()=>fn(b.dataset.v));
 }
-function shown(){return all.filter(i=>(cat==='ALL'||i.area===cat)&&(reg==='ALL'||i.region===reg)&&(co==='ALL'||i.county===co));}
+function shown(){
+  return all.filter(i=>{
+    const k=i.kind||'news';
+    if(kind==='NEWS' && k==='official') return false;
+    if(kind==='official' && k!=='official') return false;
+    return (cat==='ALL'||i.area===cat)&&(reg==='ALL'||i.region===reg)&&(co==='ALL'||i.county===co);
+  });
+}
+function card(i){
+  const url=i.url||'#';
+  const eve=i.eve_read?`<div class="eve"><strong>Eve · public-record read</strong>${esc(i.eve_read)}</div>`:'';
+  return `<article class="clip"><div class="clip-inner"><div class="meta">
+    <span class="pill gold">${esc(i.date)}</span>
+    <span class="pill">${esc(i.area)}</span>
+    <span class="pill">${esc(i.region||'')}</span>
+    <span class="pill">${esc(i.county||'Statewide')}</span>
+    <span class="pill">${esc(i.source)}</span>
+    ${i.status?`<span class="pill gold">${esc(i.status)}</span>`:''}
+  </div>
+  <h2><a href="${esc(url)}" target="_blank" rel="noopener">${esc(i.title)}</a></h2>
+  <p class="sum">${esc(i.summary)}</p>
+  ${eve}
+  <a class="read" href="${esc(url)}" target="_blank" rel="noopener">Read the original</a>
+  </div></article>`;
+}
 function render(){
   const items=shown();
   document.getElementById('stat-count').textContent=items.length;
   const feed=document.getElementById('feed');
-  if(!items.length){feed.innerHTML='<p class="empty">Nothing in this filter.</p>';return}
-  feed.innerHTML=items.map(i=>{
-    const url=i.url||'#';
-    const eve=i.eve_read?`<div class="eve"><strong>Eve · public-record read</strong>${esc(i.eve_read)}</div>`:'';
-    return `<article class="clip"><div class="clip-inner"><div class="meta">
-      <span class="pill gold">${esc(i.date)}</span>
-      <span class="pill">${esc(i.area)}</span>
-      <span class="pill">${esc(i.region||'')}</span>
-      <span class="pill">${esc(i.county||'Statewide')}</span>
-      <span class="pill">${esc(i.source)}</span>
-      ${i.status?`<span class="pill gold">${esc(i.status)}</span>`:''}
-    </div>
-    <h2><a href="${esc(url)}" target="_blank" rel="noopener">${esc(i.title)}</a></h2>
-    <p class="sum">${esc(i.summary)}</p>
-    ${eve}
-    <a class="read" href="${esc(url)}" target="_blank" rel="noopener">Read the original</a>
-    </div></article>`;
-  }).join('');
+  const more=document.getElementById('more');
+  if(!items.length){feed.innerHTML='<p class="empty">Nothing in this filter.</p>'; more.style.display='none'; return}
+  feed.innerHTML=items.slice(0, shownN).map(card).join('');
+  more.style.display=shownN<items.length?'inline-block':'none';
 }
 fetch('entries.json?t='+Date.now()).then(r=>r.json()).then(d=>{
   all=d.items||[];
-  if(d.updated) document.getElementById('updated-stamp').textContent='Updated '+d.updated;
-  const areas=[...new Set(all.map(i=>i.area).filter(Boolean))];
+  document.getElementById('stat-all').textContent=all.length;
+  if(d.updated) document.getElementById('updated-stamp').textContent='Updated '+d.updated+' · '+all.length+' clips';
+  const areas=[...new Set(all.map(i=>i.area).filter(Boolean))].sort();
   const regions=[...new Set(all.map(i=>i.region).filter(Boolean))].sort();
   const counties=[...new Set(all.map(i=>i.county).filter(Boolean))].sort();
   function draw(){
-    chips(document.getElementById('cats'), areas, cat, v=>{cat=v;draw();render()});
-    chips(document.getElementById('regs'), regions, reg, v=>{reg=v;draw();render()});
-    chips(document.getElementById('cos'), counties, co, v=>{co=v;draw();render()});
+    chips(document.getElementById('kinds'), ['NEWS','official','ALL'], kind, v=>{kind=v; shownN=25; draw(); render();}, KIND_LABELS);
+    chips(document.getElementById('cats'), ['ALL',...areas], cat, v=>{cat=v; shownN=25; draw(); render();});
+    chips(document.getElementById('regs'), ['ALL',...regions], reg, v=>{reg=v; shownN=25; draw(); render();});
+    chips(document.getElementById('cos'), ['ALL',...counties], co, v=>{co=v; shownN=25; draw(); render();});
   }
+  document.getElementById('more').onclick=()=>{shownN+=25; render();};
   draw(); render();
 });
 </script>
