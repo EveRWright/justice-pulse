@@ -18,6 +18,17 @@ Built by Eve R. Wright at [texanoai.com](https://texanoai.com).
 | Commission PDF archive (~360 public sanctions/resignations/suspensions) | Hub `08_SCJC_Public_Archive` — **not** committed here | No dump |
 | Elections / finance intel + Jennifer briefings + companion posting | private repo `justice-pulse-intel` | No |
 
+## Wire (ongoing)
+
+- `ingest/fetch_wire.py` harvests Google News (Texas court/judicial queries), merges into `archive/captures.jsonl`, rebuilds `entries.json`.
+- GitHub Action `.github/workflows/wire.yml` runs **five times a day** and on manual dispatch. New rows are committed; Pages rebuilds.
+- Each card can link **Archived copy** via Wayback. Full article HTML is not mirrored (copyright). The catalog is the survival layer.
+
+```bash
+python3 ingest/fetch_wire.py --when 1d --wayback-save 12
+python3 ingest/fetch_wire.py --when 5y          # historical backfill
+```
+
 ## Structure
 
 - `index.html` — live feed (`entries.json`)

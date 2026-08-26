@@ -67,6 +67,7 @@ function shown(){
 function card(i){
   const url=i.url||'#';
   const eve=i.eve_read?`<div class="eve"><strong>Eve · public-record read</strong>${esc(i.eve_read)}</div>`:'';
+  const arch=i.archive_url?` · <a class="read" href="${esc(i.archive_url)}" target="_blank" rel="noopener">Archived copy</a>`:'';
   return `<article class="clip"><div class="clip-inner"><div class="meta">
     <span class="pill gold">${esc(i.date)}</span>
     <span class="pill">${esc(i.area)}</span>
@@ -78,7 +79,7 @@ function card(i){
   <h2><a href="${esc(url)}" target="_blank" rel="noopener">${esc(i.title)}</a></h2>
   <p class="sum">${esc(i.summary)}</p>
   ${eve}
-  <a class="read" href="${esc(url)}" target="_blank" rel="noopener">Read the original</a>
+  <a class="read" href="${esc(url)}" target="_blank" rel="noopener">Read the original</a>${arch}
   </div></article>`;
 }
 function render(){
