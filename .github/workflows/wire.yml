@@ -1,0 +1,41 @@
+name: Justice Pulse wire
+
+on:
+  schedule:
+    # ~ 5:20am, 9:20am, 1:20pm, 5:20pm, 9:20pm America/Chicago
+    - cron: "20 10,14,18,22 * * *"
+    - cron: "20 2 * * *"
+  workflow_dispatch:
+    inputs:
+      when:
+        description: "Google News window (1d, 7d, 1y)"
+        default: "2d"
+        required: false
+
+permissions:
+  contents: write
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Pull wire
+        run: |
+          WHEN="${{ github.event.inputs.when }}"
+          WHEN="${WHEN:-2d}"
+          python3 ingest/fetch_wire.py --when "$WHEN" --wayback-save 12
+      - name: Commit if the catalog moved
+        run: |
+          git config user.name "Justice Pulse wire"
+          git config user.email "eve@texanoai.com"
+          git add archive/captures.jsonl entries.json
+          if git diff --staged --quiet; then
+            echo "No catalog changes"
+          else
+            git commit -m "wire: refresh Texas court catalog $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
