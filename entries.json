@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-23",
+  "updated": "2026-08-26",
   "note": "Newest first. Confirmed public-record and published reporting only.",
   "items": [
+    {
+      "date": "2026-08-25",
+      "title": "Judges in malpractice case received $32,500 in contributions from Baker Botts and counsel",
+      "source": "Southeast Texas Record / legalnewsline.com",
+      "url": "https://www.legalnewsline.com/southeast-texas-record/judges-in-malpractice-case-received-32-500-in-contributions/article_293b145a-8db4-4661-b6be-2ee690f45031.html",
+      "summary": "A Houston appellate court (14th Court of Appeals) upheld a confidential arbitration award favoring Baker Botts in a malpractice suit after the firm and its lead counsel made at least $32,500 in campaign contributions to five judges connected to the case, including $6,500 to Justice Ken Wise while the appeal was pending. Timing raises questions about disclosure, recusal, and appearance of impartiality; contributions alone do not establish wrongdoing. One trial judge (Phillips) previously received an SCJC public warning in an unrelated matter involving failure to disclose contact with attorneys.",
+      "area": "Statewide / Harris County / 14th Court of Appeals",
+      "quality": "Investigative reporting based on campaign-finance records and court filings; neutral on outcome",
+      "image": null
+    },
+    {
+      "date": "2026-08-25",
+      "title": "Maverick County Judge Ramsey English Cantu resigns after suspension for alleged official misconduct and incompetency",
+      "source": "MySanAntonio / KSAT",
+      "url": "https://www.mysanantonio.com/news/local/article/ramsey-cantu-maverick-county-22402582.php",
+      "summary": "Suspended Maverick County Judge Ramsey English Cantu resigned via Facebook video; Commissioners Court accepted. Suspension stemmed from Chapter 87 petition alleging official misconduct and incompetency (financial mismanagement claims). Court restricted social-media commentary. Not a priority-county focus but Texas judicial removal track.",
+      "area": "Chapter 87 / County Judge",
+      "quality": "Published local reporting + court context",
+      "image": null
+    },
     {"date":"2026-08-20","title":"Maverick County Judge Ramsey Cantú resigns amid suspension for official misconduct and incompetency","source":"KSAT","url":"https://www.ksat.com/news/local/2026/08/20/maverick-county-judge-ramsey-cantu-resigns-from-office-amid-suspension-primary-runoff-loss/","summary":"Suspended Maverick County Judge Ramsey Cantú announced resignation via social media video after temporary suspension in May under Chapter 87 for alleged official misconduct and incompetency. Commissioners Court scheduled to accept resignation and appoint replacement for remainder of term ending Dec 31, 2026. Specific allegations in petition included procurement and fiscal issues; no SCJC public sanction noted.","area":"Chapter 87 / County Judge","county":"Maverick","quality":"Published local reporting + court context","status":"confirmed","image":null},
     {"date":"2026-08-20","title":"Midland County Judge Terry Johnson indicted; Chapter 87 removal pending","source":"Midland Reporter-Telegram","url":"https://www.mrt.com/news/crime/article/midland-county-tx-judge-indicted-22396839.php","summary":"Johnson surrendered Aug. 19 after indictment on two third-degree felonies. Chapter 87 removal petition filed Aug. 6 (Cause DCV-26-01527). Judge R. Shane Seaton assigned. No public SCJC sanction located as of 22 Aug.","area":"Chapter 87","county":"Midland","quality":"Published reporting + court filings","status":"confirmed"},
     {"date":"2026-08-18","title":"Outside prosecutor assigned in Johnson removal suit","source":"Midland Reporter-Telegram","url":"https://www.mrt.com/news/article/midland-tx-judge-removal-lawsuit-22393312.php","summary":"Judge Ben Woodward assigned Allison Palmer, 51st Judicial District Attorney, to represent the State in the Johnson removal suit.","area":"Chapter 87","county":"Midland","quality":"Published reporting","status":"confirmed"},
