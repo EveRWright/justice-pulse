@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Watch wire · Justice Pulse</title>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/pulse.css">
+</head>
+<body>
+<div class="wrap">
+  <div class="topbar">
+    <span>with Eve</span>
+    <nav>
+      <a href="index.html">Feed</a>
+      <a href="elections.html">Elections</a>
+      <a class="on" href="sources.html">Sources</a>
+      <a href="method.html">Method</a>
+      <a href="podcast.html">Podcast</a>
+      <a href="about.html">About</a>
+    </nav>
+  </div>
+  <header class="mast">
+    <p class="kicker">Houston · DFW · Austin · San Antonio · West · East · Border</p>
+    <h1>The<br><em>wire</em></h1>
+    <p class="lede">Official dockets plus newsrooms across Texas. A source on this list is a place we look. It is not a finding. Every clip on the feed still has to earn Confirmed.</p>
+  </header>
+  <div style="overflow:auto">
+    <table class="table" id="board">
+      <thead><tr><th>Source</th><th>Region</th><th>Kind</th></tr></thead>
+      <tbody></tbody>
+    </table>
+  </div>
+  <footer>Justice Pulse · with Eve. Public-record aid, not legal advice.</footer>
+</div>
+<script>
+function esc(s){return String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+fetch('sources.json?t='+Date.now()).then(r=>r.json()).then(d=>{
+  const tb=document.querySelector('#board tbody');
+  tb.innerHTML=(d.sources||[]).map(s=>`<tr>
+    <td><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a></td>
+    <td>${esc(s.region)}</td>
+    <td>${esc(s.kind)}</td>
+  </tr>`).join('');
+});
+</script>
+</body>
+</html>

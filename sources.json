@@ -1,0 +1,31 @@
+{
+  "updated": "2026-08-26",
+  "note": "Public watch wire. Stories on the feed must still be sourced and labeled. This list is the geography — not an endorsement of every outlet’s framing.",
+  "sources": [
+    {"id": "scjc", "name": "State Commission on Judicial Conduct", "region": "Statewide", "url": "https://www.scjc.texas.gov/discipline/", "kind": "official"},
+    {"id": "tec", "name": "Texas Ethics Commission", "region": "Statewide", "url": "https://www.ethics.state.tx.us/", "kind": "official"},
+    {"id": "oca", "name": "Office of Court Administration / txcourts.gov", "region": "Statewide", "url": "https://www.txcourts.gov/", "kind": "official"},
+    {"id": "sos", "name": "Texas Secretary of State — elections", "region": "Statewide", "url": "https://www.sos.state.tx.us/elections/", "kind": "official"},
+    {"id": "tribune", "name": "Texas Tribune", "region": "Statewide", "url": "https://www.texastribune.org/", "kind": "news"},
+    {"id": "legalnewsline", "name": "Southeast Texas Record / Legal Newsline", "region": "Houston / Gulf", "url": "https://www.legalnewsline.com/", "kind": "news"},
+    {"id": "chron", "name": "Houston Chronicle", "region": "Houston", "url": "https://www.houstonchronicle.com/", "kind": "news"},
+    {"id": "khou", "name": "KHOU", "region": "Houston", "url": "https://www.khou.com/", "kind": "news"},
+    {"id": "dmn", "name": "Dallas Morning News", "region": "DFW", "url": "https://www.dallasnews.com/", "kind": "news"},
+    {"id": "wfaa", "name": "WFAA", "region": "DFW", "url": "https://www.wfaa.com/", "kind": "news"},
+    {"id": "star-telegram", "name": "Fort Worth Star-Telegram", "region": "DFW", "url": "https://www.star-telegram.com/", "kind": "news"},
+    {"id": "statesman", "name": "Austin American-Statesman", "region": "Austin", "url": "https://www.statesman.com/", "kind": "news"},
+    {"id": "kxan", "name": "KXAN", "region": "Austin", "url": "https://www.kxan.com/", "kind": "news"},
+    {"id": "express-news", "name": "San Antonio Express-News / MySA", "region": "San Antonio", "url": "https://www.expressnews.com/", "kind": "news"},
+    {"id": "ksat", "name": "KSAT", "region": "San Antonio", "url": "https://www.ksat.com/", "kind": "news"},
+    {"id": "sa-report", "name": "San Antonio Report", "region": "San Antonio", "url": "https://sanantonioreport.org/", "kind": "news"},
+    {"id": "mrt", "name": "Midland Reporter-Telegram", "region": "West Texas", "url": "https://www.mrt.com/", "kind": "news"},
+    {"id": "kltv", "name": "KLTV", "region": "East Texas", "url": "https://www.kltv.com/", "kind": "news"},
+    {"id": "ketk", "name": "KETK", "region": "East Texas", "url": "https://www.ketk.com/", "kind": "news"},
+    {"id": "elpaso", "name": "El Paso Times", "region": "West Texas / Border", "url": "https://www.elpasotimes.com/", "kind": "news"},
+    {"id": "caller", "name": "Corpus Christi Caller-Times", "region": "Coast / South", "url": "https://www.caller.com/", "kind": "news"},
+    {"id": "laredo", "name": "Laredo Morning Times", "region": "Border", "url": "https://www.lmtonline.com/", "kind": "news"},
+    {"id": "scorecard", "name": "Texas Scorecard", "region": "Statewide", "url": "https://texasscorecard.com/", "kind": "news"},
+    {"id": "ballotpedia", "name": "Ballotpedia (Texas judicial / local)", "region": "Statewide", "url": "https://ballotpedia.org/", "kind": "reference"},
+    {"id": "aba", "name": "ABA Journal", "region": "National / Texas when on-point", "url": "https://www.abajournal.com/", "kind": "news"}
+  ]
+}

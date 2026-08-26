@@ -15,6 +15,7 @@
     <nav>
       <a class="on" href="index.html">Feed</a>
       <a href="elections.html">Elections</a>
+      <a href="sources.html">Sources</a>
       <a href="method.html">Method</a>
       <a href="podcast.html">Podcast</a>
       <a href="about.html">About</a>
@@ -35,7 +36,8 @@
   </header>
   <div class="filters">
     <div class="fl">Category</div><div class="chips" id="cats"></div>
-    <div class="fl">County / region</div><div class="chips" id="cos"></div>
+    <div class="fl">Region</div><div class="chips" id="regs"></div>
+    <div class="fl">County</div><div class="chips" id="cos"></div>
   </div>
   <div class="section-label"><span>Latest from the watch</span><span id="updated-stamp">Newest first</span></div>
   <main id="feed"><p class="empty">Opening the record…</p></main>
@@ -46,12 +48,12 @@
 </div>
 <script>
 function esc(s){return String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
-let all=[], cat='ALL', co='ALL';
+let all=[], cat='ALL', co='ALL', reg='ALL';
 function chips(el, vals, cur, fn){
   el.innerHTML=['ALL',...vals].map(v=>`<button class="chip${v===cur?' on':''}" data-v="${esc(v)}">${esc(v)}</button>`).join('');
   el.querySelectorAll('.chip').forEach(b=>b.onclick=()=>fn(b.dataset.v));
 }
-function shown(){return all.filter(i=>(cat==='ALL'||i.area===cat)&&(co==='ALL'||i.county===co||(!i.county && co==='ALL')));}
+function shown(){return all.filter(i=>(cat==='ALL'||i.area===cat)&&(reg==='ALL'||i.region===reg)&&(co==='ALL'||i.county===co));}
 function render(){
   const items=shown();
   document.getElementById('stat-count').textContent=items.length;
@@ -63,6 +65,7 @@ function render(){
     return `<article class="clip"><div class="clip-inner"><div class="meta">
       <span class="pill gold">${esc(i.date)}</span>
       <span class="pill">${esc(i.area)}</span>
+      <span class="pill">${esc(i.region||'')}</span>
       <span class="pill">${esc(i.county||'Statewide')}</span>
       <span class="pill">${esc(i.source)}</span>
       ${i.status?`<span class="pill gold">${esc(i.status)}</span>`:''}
@@ -78,9 +81,11 @@ fetch('entries.json?t='+Date.now()).then(r=>r.json()).then(d=>{
   all=d.items||[];
   if(d.updated) document.getElementById('updated-stamp').textContent='Updated '+d.updated;
   const areas=[...new Set(all.map(i=>i.area).filter(Boolean))];
+  const regions=[...new Set(all.map(i=>i.region).filter(Boolean))].sort();
   const counties=[...new Set(all.map(i=>i.county).filter(Boolean))].sort();
   function draw(){
     chips(document.getElementById('cats'), areas, cat, v=>{cat=v;draw();render()});
+    chips(document.getElementById('regs'), regions, reg, v=>{reg=v;draw();render()});
     chips(document.getElementById('cos'), counties, co, v=>{co=v;draw();render()});
   }
   draw(); render();

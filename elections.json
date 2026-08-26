@@ -1,16 +1,50 @@
 {
   "updated": "2026-08-26",
-  "note": "Public race board. Rows must be Confirmed judicial/county-judge elections from SOS, county, or named reporting. Operator finance trails stay off this site.",
-  "schema": {
-    "cycle": "YYYY",
-    "county": "string",
-    "court": "district | county | jp | municipal | appellate | supreme | cca",
-    "seat": "string",
-    "candidates": ["string"],
-    "party": "R | D | NP | mixed",
-    "contested": true,
-    "money_note": "optional public-summary only",
-    "sources": ["url"]
-  },
-  "races": []
+  "note": "Public judicial / county-judge races from named reporting and official cycle pages. Not a complete statewide map yet.",
+  "races": [
+    {
+      "cycle": "2026",
+      "county": "Statewide",
+      "court": "Supreme Court of Texas",
+      "seat": "Chief Justice",
+      "candidates": ["Jimmy Blacklock (R, inc.)", "Maggie Ellis (D)"],
+      "party": "R vs D",
+      "contested": true,
+      "money_note": "Statewide judicial; Judicial Campaign Fairness Act applies. Detailed TEC trails not summarized here.",
+      "sources": ["https://en.wikipedia.org/wiki/2026_Texas_Supreme_Court_election"]
+    },
+    {
+      "cycle": "2026",
+      "county": "Harris",
+      "court": "County Judge (admin)",
+      "seat": "Harris County Judge",
+      "candidates": ["Letitia Plummer (D)", "Orlando Sanchez (R)"],
+      "party": "D vs R",
+      "contested": true,
+      "money_note": "Incumbent Lina Hidalgo not running. General Nov. 3, 2026.",
+      "sources": ["https://en.wikipedia.org/wiki/2026_Harris_County_Judge_election", "https://ballotpedia.org/Matt_Salazar"]
+    },
+    {
+      "cycle": "2026",
+      "county": "Bexar",
+      "court": "County Judge (admin)",
+      "seat": "Bexar County Judge",
+      "candidates": ["Ron Nirenberg (D nominee)", "Peter Sakai (D inc., lost primary)"],
+      "party": "D primary decided; general TBD on public guide",
+      "contested": true,
+      "money_note": "San Antonio Report 2026 voter guide.",
+      "sources": ["https://sanantonioreport.org/san-antonio-report-2026-voter-guide/"]
+    },
+    {
+      "cycle": "2026",
+      "county": "Bexar",
+      "court": "4th Court of Appeals",
+      "seat": "Chief Justice",
+      "candidates": ["Antonia Arteaga (D nominee)", "Rebecca Martinez (D inc., not seeking reelection)"],
+      "party": "Open seat",
+      "contested": true,
+      "money_note": "San Antonio Report 2026 voter guide.",
+      "sources": ["https://sanantonioreport.org/san-antonio-report-2026-voter-guide/"]
+    }
+  ]
 }
