@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Judicial elections · Justice Pulse</title>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/pulse.css">
+</head>
+<body>
+<div class="wrap">
+  <div class="topbar">
+    <span>with Eve</span>
+    <nav>
+      <a href="index.html">Feed</a>
+      <a class="on" href="elections.html">Elections</a>
+      <a href="method.html">Method</a>
+      <a href="podcast.html">Podcast</a>
+      <a href="about.html">About</a>
+    </nav>
+  </div>
+  <header class="mast">
+    <p class="kicker">County · party · contested · money</p>
+    <h1>Judicial<br><em>elections</em></h1>
+    <p class="lede">A public tap on Texas judicial races so a question about “some judge in another county” can be answered from sourced data — not memory. Deeper finance trails and private briefings live off this homepage.</p>
+    <div class="rules">Public layer · schema first</div>
+  </header>
+  <div class="section-label"><span>Race board</span><span id="updated-stamp">Loading</span></div>
+  <div style="overflow:auto">
+    <table class="table" id="board">
+      <thead><tr><th>Cycle</th><th>County / court</th><th>Seat</th><th>Candidates</th><th>Party</th><th>Contested</th><th>Money note</th></tr></thead>
+      <tbody></tbody>
+    </table>
+  </div>
+  <p class="prose">Campaign funding is in play because contribution timing next to pending matters is already showing up in public reporting. Contributions are not proof of capture. Undisclosed relationships and missing recusals are questions the record is allowed to ask.</p>
+  <footer>Justice Pulse · with Eve. Not a campaign committee. Not legal advice.</footer>
+</div>
+<script>
+function esc(s){return String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+fetch('elections.json?t='+Date.now()).then(r=>r.json()).then(d=>{
+  if(d.updated) document.getElementById('updated-stamp').textContent='Updated '+d.updated;
+  const tb=document.querySelector('#board tbody');
+  const rows=d.races||[];
+  if(!rows.length){tb.innerHTML='<tr><td colspan="7">Schema is live. Race rows will land as sourced.</td></tr>';return}
+  tb.innerHTML=rows.map(r=>`<tr>
+    <td>${esc(r.cycle)}</td>
+    <td>${esc(r.county)} / ${esc(r.court)}</td>
+    <td>${esc(r.seat)}</td>
+    <td>${esc((r.candidates||[]).join(' · '))}</td>
+    <td>${esc(r.party||'—')}</td>
+    <td>${esc(r.contested?'Yes':'No / unopposed')}</td>
+    <td>${esc(r.money_note||'—')}</td>
+  </tr>`).join('');
+});
+</script>
+</body>
+</html>

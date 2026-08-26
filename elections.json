@@ -1,0 +1,16 @@
+{
+  "updated": "2026-08-26",
+  "note": "Public race board. Rows must be Confirmed judicial/county-judge elections from SOS, county, or named reporting. Operator finance trails stay off this site.",
+  "schema": {
+    "cycle": "YYYY",
+    "county": "string",
+    "court": "district | county | jp | municipal | appellate | supreme | cca",
+    "seat": "string",
+    "candidates": ["string"],
+    "party": "R | D | NP | mixed",
+    "contested": true,
+    "money_note": "optional public-summary only",
+    "sources": ["url"]
+  },
+  "races": []
+}
