@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-28",
+  "updated": "2026-08-29",
   "note": "Newest first. Durable catalog in archive/captures.jsonl. archive_url points at Wayback.",
   "items": [
+    {
+      "date": "2026-08-29",
+      "title": "Brazoria County judge apologizes for insulting residents with 'short bus' remark",
+      "source": "Houston Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWXYzeFRPUUdoT3gyMl81NEJ0N0FTUjNqejZQdmVmUWMwa1NPUmg3QTg1R0VNQUdIME9WY2hvM2lfTk1ibC1FaE9xR29FdWRvYWdaV2FJU2RNaHRaTXpmbWRzRG1VbE9mcVJDYzJWTDZnNDg2RWJ5TjMxcjVtRFpzQXJkZFZURV9WelpXZW9teE1qQldndHVsRzV5RWIzUndhR0M1d0NtUlJLd0cxVlE?oc=5",
+      "summary": "Brazoria County judge apologizes for insulting residents with 'short bus' remark Houston Chronicle",
+      "area": "Courts",
+      "county": "Harris",
+      "region": "Houston",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMirgFBVV95cUxQWXYzeFRPUUdoT3gyMl81NEJ0N0FTUjNqejZQdmVmUWMwa1NPUmg3QTg1R0VNQUdIME9WY2hvM2lfTk1ibC1FaE9xR29FdWRvYWdaV2FJU2RNaHRaTXpmbWRzRG1VbE9mcVJDYzJWTDZnNDg2RWJ5TjMxcjVtRFpzQXJkZFZURV9WelpXZW9teE1qQldndHVsRzV5RWIzUndhR0M1d0NtUlJLd0cxVlE%3Foc%3D5"
+    },
+    {
+      "date": "2026-08-29",
+      "title": "Brazoria County judge apologizes for offensive comments at commissioners court meeting",
+      "source": "ABC13 Houston",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdDNDZ3JtQ28wS0ZtNmVnWWpXbHFndUxiZS14Q3U3WWdSdXJvOXBISUNGcHJHMk80LU50eUlCRXNfYjlDOU91ZW9NVlBfbFNXTmtxQ0dqNmhuMG1IYld2ZFZSUERJd3BtUWRNS0VYS2djbTFTZU9VOG9fUVdWMkZOOW54R0M1a1Vyd09JY0w4UlFWTHpydkM0d1FWd0xHOGdGaXg4TlJWclBZSU9Yc3hWTU9n0gG3AUFVX3lxTE5EY0pvT0VnWDNtZFROVE1iZFdvVE01aTJrVndYN3FHQkdXX256WTU0MFZnTTRpbXR6YTNUTXM0WTA3cEN4ZWh1Q2Y1UGJDTUFSZmlOalpHVFBoM0lWUXN1ZzBjMUlfU1Z5dzNYWHJRbFlZcnJSY25LZ2dqZHhpMmRONlNLYnpEVGxBM3NVS0k2NmJQYjNhcFRJMzhLQnl0bVNpSlZjNFlsQmY3aUpDSVlaMEtGaEhCaw?oc=5",
+      "summary": "Brazoria County judge apologizes for offensive comments at commissioners court meeting ABC13 Houston",
+      "area": "Courts",
+      "county": "Harris",
+      "region": "Houston",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMisgFBVV95cUxQdDNDZ3JtQ28wS0ZtNmVnWWpXbHFndUxiZS14Q3U3WWdSdXJvOXBISUNGcHJHMk80LU50eUlCRXNfYjlDOU91ZW9NVlBfbFNXTmtxQ0dqNmhuMG1IYld2ZFZSUERJd3BtUWRNS0VYS2djbTFTZU9VOG9fUVdWMkZOOW54R0M1a1Vyd09JY0w4UlFWTHpydkM0d1FWd0xHOGdGaXg4TlJWclBZSU9Yc3hWTU9n0gG3AUFVX3lxTE5EY0pvT0VnWDNtZFROVE1iZFdvVE01aTJrVndYN3FHQkdXX256WTU0MFZnTTRpbXR6YTNUTXM0WTA3cEN4ZWh1Q2Y1UGJDTUFSZmlOalpHVFBoM0lWUXN1ZzBjMUlfU1Z5dzNYWHJRbFlZcnJSY25LZ2dqZHhpMmRONlNLYnpEVGxBM3NVS0k2NmJQYjNhcFRJMzhLQnl0bVNpSlZjNFlsQmY3aUpDSVlaMEtGaEhCaw%3Foc%3D5"
+    },
     {
       "date": "2026-08-28",
       "title": "Texas judge’s ruling on eligibility puts SEC’s new rule on hold",
@@ -351,6 +379,90 @@
       "kind": "news",
       "quality": "Published reporting via public news wire",
       "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMinAFBVV95cUxOdTEtZmdJY2U1anhEbDQ5V3R4WWFBbl9CVHd0MnhZWmlEWERIMVRDUThoWnNXUzhlWDlfWktyY2ZSYS1ncllrVFZPMmdWYXI4bkVNZ2I4MTQ3SEFPUjdOWE5UZF9DMEQ1XzV0bnlNcXZaX25ZYnhZTTduMHEycFZtd0ZycjI0V1FlYWJSZmQ1aVJDVUwxclA4bW9Va0M%3Foc%3D5"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Federal judge once again strikes down Texas drag show ban",
+      "source": "CultureMap Houston",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ1FqSnlhd0ZlcWNySE1hR1lMOVpRSEQ1MDNNQkFsSGpSeU5QRG1fVHB3T1Y0MkpYUlR5RTRWYXZvUWlwV0dKb2I4bUdWMl8yYUlLRFRiTmpDX1RvbzNycW1hMmltVHNfaS12VU1mR28zOEZMVmVKT3FEeGxZYVdZOER2MA?oc=5",
+      "summary": "Federal judge once again strikes down Texas drag show ban CultureMap Houston",
+      "area": "Rulings",
+      "county": "Harris",
+      "region": "Houston",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMigwFBVV95cUxOZ1FqSnlhd0ZlcWNySE1hR1lMOVpRSEQ1MDNNQkFsSGpSeU5QRG1fVHB3T1Y0MkpYUlR5RTRWYXZvUWlwV0dKb2I4bUdWMl8yYUlLRFRiTmpDX1RvbzNycW1hMmltVHNfaS12VU1mR28zOEZMVmVKT3FEeGxZYVdZOER2MA%3Foc%3D5"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Texas judge could soon allow hemp businesses to sell THC products again - FOX 4 News Dallas-Fort Worth",
+      "source": "FOX 4 News Dallas-Fort Worth",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHhuU3NXbnBxSWRUOHNMTW1nMVgzT1FuYkM2cy1TS1FhYm9lVW4yYjNWS190eWVjV1A3UXJTdjlqX3M0OEg0OUsxY3hpYTVjT3dPSEJuR3dwMFR4RlUzR2xkX3piU1hqdWxIbG1CQ2pwN2prUldCd3Rad2JQRmtGUjhfLVVwMFlmUXIyd05DMkJVYVpBS1VPd3ZaNXdGYnc?oc=5",
+      "summary": "Texas judge could soon allow hemp businesses to sell THC products again FOX 4 News Dallas-Fort Worth",
+      "area": "Courts",
+      "county": "Dallas",
+      "region": "DFW",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMinwFBVV95cUxNWHhuU3NXbnBxSWRUOHNMTW1nMVgzT1FuYkM2cy1TS1FhYm9lVW4yYjNWS190eWVjV1A3UXJTdjlqX3M0OEg0OUsxY3hpYTVjT3dPSEJuR3dwMFR4RlUzR2xkX3piU1hqdWxIbG1CQ2pwN2prUldCd3Rad2JQRmtGUjhfLVVwMFlmUXIyd05DMkJVYVpBS1VPd3ZaNXdGYnc%3Foc%3D5"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Both Harris County judge nominees oppose proposed property tax hike",
+      "source": "Houston Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR1NpZFUwU1dmbzZOUk1MUG8yUzEwWFVBRE1lX21mT1FMWXhXQUc3b0F4elBUNXZzaUFqN3FNaFVZTFdNUE1odkQyQnl5R2lyQ1lkcXpydTdtZEtWY1V5N2JNOXo5V3NGQVNlQ05xbzB2dlM3Y0p5ekRiVTR0UWJtZXBkamoxY2loOVk4VlVNUHFna09ZWnlpc2hJZ2x4RDRlSV9vTUtCSQ?oc=5",
+      "summary": "Both Harris County judge nominees oppose proposed property tax hike Houston Chronicle",
+      "area": "Courts",
+      "county": "Harris",
+      "region": "Houston",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMipwFBVV95cUxOR1NpZFUwU1dmbzZOUk1MUG8yUzEwWFVBRE1lX21mT1FMWXhXQUc3b0F4elBUNXZzaUFqN3FNaFVZTFdNUE1odkQyQnl5R2lyQ1lkcXpydTdtZEtWY1V5N2JNOXo5V3NGQVNlQ05xbzB2dlM3Y0p5ekRiVTR0UWJtZXBkamoxY2loOVk4VlVNUHFna09ZWnlpc2hJZ2x4RDRlSV9vTUtCSQ%3Foc%3D5"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Judge scolds 'impossible to reach' Texas agencies in THC ban hearing",
+      "source": "WFAA",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUmhScjhNdDlfYU82a2NJVFZQRktFUzZtcUlXLVZDMzJHSGFiMmswdHFubUkyRW5YdjVkT3Qtdk5Ubks2ZEpRSWowSEJWc25fYzFfM3pra0NXSi1HVUswRktfR0UwVVV2TVZWaUlIR3EyRExKTGxjR1YwelZHR0hScmo0WjhUOVlDQm9uTTQ2OU1KdkZHaFdfbnlSdjJOd19DaWlHbFJn?oc=5",
+      "summary": "Judge scolds 'impossible to reach' Texas agencies in THC ban hearing WFAA",
+      "area": "Courts",
+      "county": "Statewide",
+      "region": "Statewide",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMipgFBVV95cUxQUmhScjhNdDlfYU82a2NJVFZQRktFUzZtcUlXLVZDMzJHSGFiMmswdHFubUkyRW5YdjVkT3Qtdk5Ubks2ZEpRSWowSEJWc25fYzFfM3pra0NXSi1HVUswRktfR0UwVVV2TVZWaUlIR3EyRExKTGxjR1YwelZHR0hScmo0WjhUOVlDQm9uTTQ2OU1KdkZHaFdfbnlSdjJOd19DaWlHbFJn%3Foc%3D5"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Texas Judge Freezes SEC Pro-Athlete Ban, Clears NFL Players to Return to College",
+      "source": "Hoodline",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWlVBdF82c1k0VVloSHgzV0tVaFdLSGFSVzByenJZQ1dNRkswazFuT1VxZHdNaFBUR25pbl84TVpLNGU5T3pwYU1yYkhfZ3VNWlBSNWpNWG9adGZlNHlVZVh3X0g3aXBkQ0xaR1ZuZG50RGxhOXBlSWlINXZSX2x0MGY2TzN2UlhIZTBqc2NGalBybUxIeUJHSEZJeHd3MGwtWDlUR24xdlJDRHp4ZVE?oc=5",
+      "summary": "Texas Judge Freezes SEC Pro-Athlete Ban, Clears NFL Players to Return to College Hoodline",
+      "area": "Courts",
+      "county": "Statewide",
+      "region": "Statewide",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMirgFBVV95cUxNWlVBdF82c1k0VVloSHgzV0tVaFdLSGFSVzByenJZQ1dNRkswazFuT1VxZHdNaFBUR25pbl84TVpLNGU5T3pwYU1yYkhfZ3VNWlBSNWpNWG9adGZlNHlVZVh3X0g3aXBkQ0xaR1ZuZG50RGxhOXBlSWlINXZSX2x0MGY2TzN2UlhIZTBqc2NGalBybUxIeUJHSEZJeHd3MGwtWDlUR24xdlJDRHp4ZVE%3Foc%3D5"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Judge hears hemp testing lawsuit, calls out OAG over communications failures",
+      "source": "KXAN Austin",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWERObEJYZU1DM0gzSktaU3hCaVVGS1A1ZDlXdEhiMGxzcElGX1dyUERnVFNrM1hULXVZUXBhTjNVaWJoZmtuYmJYOXdxV0NaYzFleGdud21qMXJxWGJsSzdHckxLNGQySkJCRHV1WHJvcTVkUGdRclFBeUd0eUU3eUtXd0rSAYoBQVVfeXFMTU15NFJnVHh5NktMc2hGbnRPYXREcGQ2b2VhSnNIX3VQUmNLeUZ1S2ZaemV0b2QySFdURGV1T0l6bkJhQzF5eEFHZ2hORzlwUFRUeWZvaEU1YmZDWk40VS02MmdZVzY5aHpja3JITXgzWWpubkFqVU5CckxOTVk2dWJYcEhSdmxRUDFR?oc=5",
+      "summary": "Judge hears hemp testing lawsuit, calls out OAG over communications failures KXAN Austin",
+      "area": "Courts",
+      "county": "Travis",
+      "region": "Austin",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMihAFBVV95cUxOWERObEJYZU1DM0gzSktaU3hCaVVGS1A1ZDlXdEhiMGxzcElGX1dyUERnVFNrM1hULXVZUXBhTjNVaWJoZmtuYmJYOXdxV0NaYzFleGdud21qMXJxWGJsSzdHckxLNGQySkJCRHV1WHJvcTVkUGdRclFBeUd0eUU3eUtXd0rSAYoBQVVfeXFMTU15NFJnVHh5NktMc2hGbnRPYXREcGQ2b2VhSnNIX3VQUmNLeUZ1S2ZaemV0b2QySFdURGV1T0l6bkJhQzF5eEFHZ2hORzlwUFRUeWZvaEU1YmZDWk40VS02MmdZVzY5aHpja3JITXgzWWpubkFqVU5CckxOTVk2dWJYcEhSdmxRUDFR%3Foc%3D5"
     },
     {
       "date": "2026-08-27",
@@ -897,6 +1009,20 @@
       "kind": "news",
       "quality": "Published reporting via public news wire",
       "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMijwFBVV95cUxPcHpSYzNJREZIYlM5eTZLYTJVa01KREVBMlZnMUUzMWs4WGg2S0JWWWR4dnlhaG9oT1JQMlh5T0FkUktWWU8zS0lPMGx4U2dNMU5QaURabWhjMmw2Z1FCU0hDcm5sWk1NNGVhUkliRVJvY1ViM3ZkZVNWVG1pSVhvUmU4R1piTEh1M3RGTlhfSQ%3Foc%3D5"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "Judge says Minnesota can't extradite former ICE agent in Texas",
+      "source": "knewz.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRkxEeDBmeVVnSjVfOW5mLVRhMG8teDN6Zm9nZEk2OHdqMU5vM01ZVkFrbjJMZlI1MS01N2VGWEtMQlFzTXZsaGxIbXdBQUhvLXB1VF9oTVFhc25qeXBEQVBpM0NrQ045ZEg1RkZvSHo2aWFubmhPUlhfV2s1Z21WYmNLNkl3X3EwSUV3RDRVcnY1NXVlWk9yY3RuQTgxaW1PMmNsSzF6MkQzSFQzbVQ3akZVRm9jUFY0OWxzSHVLUW9xNW5jRDh2eEFOQnBmVjJoSHFLMVl3?oc=5",
+      "summary": "Judge says Minnesota can't extradite former ICE agent in Texas knewz.com",
+      "area": "Courts",
+      "county": "Statewide",
+      "region": "Statewide",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMi1gFBVV95cUxNRkxEeDBmeVVnSjVfOW5mLVRhMG8teDN6Zm9nZEk2OHdqMU5vM01ZVkFrbjJMZlI1MS01N2VGWEtMQlFzTXZsaGxIbXdBQUhvLXB1VF9oTVFhc25qeXBEQVBpM0NrQ045ZEg1RkZvSHo2aWFubmhPUlhfV2s1Z21WYmNLNkl3X3EwSUV3RDRVcnY1NXVlWk9yY3RuQTgxaW1PMmNsSzF6MkQzSFQzbVQ3akZVRm9jUFY0OWxzSHVLUW9xNW5jRDh2eEFOQnBmVjJoSHFLMVl3%3Foc%3D5"
     },
     {
       "date": "2026-08-26",
@@ -2196,7 +2322,7 @@
       "region": "West Texas",
       "status": "confirmed",
       "kind": "news",
-      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fwww.mrt.com%2Fnews%2Fcrime%2Farticle%2Fmidland-county-tx-judge-indicted-22396839.php"
+      "archive_url": "https://web.archive.org/web/20260829022410/https://www.mrt.com/news/crime/article/midland-county-tx-judge-indicted-22396839.php"
     },
     {
       "date": "2026-08-20",
