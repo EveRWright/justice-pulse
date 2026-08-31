@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-30",
+  "updated": "2026-08-31",
   "note": "Newest first. Durable catalog in archive/captures.jsonl. archive_url points at Wayback.",
   "items": [
+    {
+      "date": "2026-08-31",
+      "title": "Recovery efforts continue across Bexar County after severe storms, Judge Sakai says",
+      "source": "WOAI",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUFF4Ykp4cXJHQXQ2WkFEcE1rSEt4TXpEWHc4aVhJWUVvMkJOU3lqN1BCQnU1MjFfX0U2aDdGMVB3TlN4Y3I3RVg4U2pwRWo2dk8wbHZmUDZsU3VwRURtd0pMVXRyeHdpVldoUndPTVk2N0R0dXFjQUFybUVDeDRoY1pXR05xS2h5WjlrM0tfakpZaXUwRFdRTnlZdFB3UXNQRE9OS1UxUnh4UGRGMHVwVTI0OExNMUhqY2hDdHR3?oc=5",
+      "summary": "Recovery efforts continue across Bexar County after severe storms, Judge Sakai says WOAI",
+      "area": "Courts",
+      "county": "Bexar",
+      "region": "San Antonio",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMivgFBVV95cUxNUFF4Ykp4cXJHQXQ2WkFEcE1rSEt4TXpEWHc4aVhJWUVvMkJOU3lqN1BCQnU1MjFfX0U2aDdGMVB3TlN4Y3I3RVg4U2pwRWo2dk8wbHZmUDZsU3VwRURtd0pMVXRyeHdpVldoUndPTVk2N0R0dXFjQUFybUVDeDRoY1pXR05xS2h5WjlrM0tfakpZaXUwRFdRTnlZdFB3UXNQRE9OS1UxUnh4UGRGMHVwVTI0OExNMUhqY2hDdHR3%3Foc%3D5"
+    },
     {
       "date": "2026-08-30",
       "title": "Texas Judge Turns Heads With Decision On Whether Karmelo Anthony Will Have A New Trial",
