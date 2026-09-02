@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-01",
+  "updated": "2026-09-02",
   "note": "Newest first. Durable catalog in archive/captures.jsonl. archive_url points at Wayback.",
   "items": [
+    {
+      "date": "2026-09-02",
+      "title": "Kingsport Mayor Paul Montgomery shakes the hand of Sullivan County Circuit Court Judge Curt Rose after swearing in.",
+      "source": "Kingsport Times News",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRkh4VjM3MWNtNGhFNDR4b1RiVENONkRjZnpMZWlCbHF4bTlsWkoxdlYza21MSm1VTFBWbFJodmFWOVpEWDZodGMzVjd6cmw2NzFSLUNnVEVLLVpiNmkybFVB?oc=5",
+      "summary": "Kingsport Mayor Paul Montgomery shakes the hand of Sullivan County Circuit Court Judge Curt Rose after swearing in. Kingsport Times News",
+      "area": "Courts",
+      "county": "Montgomery",
+      "region": "Houston",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiYkFVX3lxTE9kRkh4VjM3MWNtNGhFNDR4b1RiVENONkRjZnpMZWlCbHF4bTlsWkoxdlYza21MSm1VTFBWbFJodmFWOVpEWDZodGMzVjd6cmw2NzFSLUNnVEVLLVpiNmkybFVB%3Foc%3D5"
+    },
     {
       "date": "2026-09-01",
       "title": "Judge to decide if Tyler Robinson will stand trial in Charlie Kirk's killing",
@@ -211,6 +225,34 @@
       "kind": "news",
       "quality": "Published reporting via public news wire",
       "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMijAFBVV95cUxOT3BNRnh4VDlBS2ZyM3NTX1YxRDRRNmc4SkNLS0hmdGNBaDRiS29UdklZVDdhdzNFZE9JVjE2c2pQT05rX1VDYmNiTjcwOWtfVzBZdDBlalFiby1IdmRQQ3JDOXpCbWFUSE5BbmdDQ0xjcFVfVW83T3VpajlfMTNSN3BUM0ZIclRNeUlxaQ%3Foc%3D5"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "3 Things To Know: Texas Judge Halts Abortion Drug Suit",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ0xTSVdyMFlsSzZoX2dXMkJTNmlXS1ktSW45U0FkWGR3cE1BSG9nZEJTMEp5U0lBdEtaaTJkVVNtOGpaNDUzZ1VZZlVMWU5ZYkRGVzNra09FT2pQaHZVbjJNbmpzN1JKTXNpM05zU3BVNk5Qd0ZEdy1OcnlCMnY1S2xuZHFNeHVxM3gtcHNMWDRBWUxDMmdRVnM2Y3dtZHBWZDRycnZNVWdpUHRLRS1ZWXVwSDFVY2hZb19VMFRnSE1OMm5Hd0Z4ZDF6SlTSAXJBVV95cUxQRHlwOG82TlZ3WmVUckQwdjdpSEYyaS1udlE4NDBtanpZZlVEM1hWTUVWQ2U0WGRkakxta3VQMzBjQWdPV0tVZ1dldTlUWkkwdmxLeS1kQkdwcGo5eEFBSWxQSmNGUWpfVkJTTU0xSk9HZVE?oc=5",
+      "summary": "3 Things To Know: Texas Judge Halts Abortion Drug Suit Law360",
+      "area": "Courts",
+      "county": "Statewide",
+      "region": "Statewide",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMizAFBVV95cUxPZ0xTSVdyMFlsSzZoX2dXMkJTNmlXS1ktSW45U0FkWGR3cE1BSG9nZEJTMEp5U0lBdEtaaTJkVVNtOGpaNDUzZ1VZZlVMWU5ZYkRGVzNra09FT2pQaHZVbjJNbmpzN1JKTXNpM05zU3BVNk5Qd0ZEdy1OcnlCMnY1S2xuZHFNeHVxM3gtcHNMWDRBWUxDMmdRVnM2Y3dtZHBWZDRycnZNVWdpUHRLRS1ZWXVwSDFVY2hZb19VMFRnSE1OMm5Hd0Z4ZDF6SlTSAXJBVV95cUxQRHlwOG82TlZ3WmVUckQwdjdpSEYyaS1udlE4NDBtanpZZlVEM1hWTUVWQ2U0WGRkakxta3VQMzBjQWdPV0tVZ1dldTlUWkkwdmxLeS1kQkdwcGo5eEFBSWxQSmNGUWpfVkJTTU0xSk9HZVE%3Foc%3D5"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "Jasmine Crockett to endorse Texas House, county judge candidates",
+      "source": "The Texas Tribune",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeWg2cDFNWGZEcGRmLUlVZkNMSFZydERVWXIxUkdhbmlRLVlyaGNrR1BKb3RLbVQ4OEU1X3NzUWlaVkN2VzQ2YnZaeFNldWZPRm5rMXdteHY3djNidU4tSjVXZkVEZW4zMUN6VUZrN2FucXNlZFo5M2RXS2NDQWV6UFF5Z0w4M1hpSE9PSU42ZWJEWHpoblJ1Wmp4amw1MjFZdkFqS1Y3Smt0U3lhVzRFQ1lQSy1LQQ?oc=5",
+      "summary": "Jasmine Crockett to endorse Texas House, county judge candidates The Texas Tribune",
+      "area": "Elections",
+      "county": "Statewide",
+      "region": "Statewide",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMitgFBVV95cUxPeWg2cDFNWGZEcGRmLUlVZkNMSFZydERVWXIxUkdhbmlRLVlyaGNrR1BKb3RLbVQ4OEU1X3NzUWlaVkN2VzQ2YnZaeFNldWZPRm5rMXdteHY3djNidU4tSjVXZkVEZW4zMUN6VUZrN2FucXNlZFo5M2RXS2NDQWV6UFF5Z0w4M1hpSE9PSU42ZWJEWHpoblJ1Wmp4amw1MjFZdkFqS1Y3Smt0U3lhVzRFQ1lQSy1LQQ%3Foc%3D5"
     },
     {
       "date": "2026-08-31",
