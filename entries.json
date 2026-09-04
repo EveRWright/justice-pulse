@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03",
+  "updated": "2026-09-04",
   "note": "Newest first. Durable catalog in archive/captures.jsonl. archive_url points at Wayback.",
   "items": [
     {
@@ -225,6 +225,34 @@
       "kind": "news",
       "quality": "Published reporting via public news wire",
       "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMirAFBVV95cUxOcWRqM3JQZHZiWVlhdXktNkpjY0FMWm5sQnBNX2tNSWlJTTA0RkVudjRDV0l1a1dNeTd2VDVmQXh0ZGhWU29xNmppT28tb3dZSjhVSG1aQTVpUWRET25wODFCdnpzNkVXVGp4ZUdZV1JLMHNxTWZSdnZYYVhJVWNVVFM5bWJEM0UwQ01leEFDTTNYQUZQVi1vWkxqT2xPVlBNVWtoRGppQ1NhLXlz%3Foc%3D5"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "Federal judge pauses case on mifepristone access until after midterm elections",
+      "source": "Jefferson City News Tribune",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUnU0bk93czZ5eEpUTTBzMTU0azdGUjVlMDEyNXljSHBsTEN4Tl9UaUlwMDVsV1VyN2VsNXdkZFdQdXNuMWhjSEF0RHdJcUo1YjdGbU5ub0xfZ1ZuVk1uTFM4Q3B2bWFqcElFVk95OWR3V0VCYWpsdXZUSmFrWXFvakFONkRQRzZFdkE4YjRmeE9fLVVNSklZdlZR?oc=5",
+      "summary": "Federal judge pauses case on mifepristone access until after midterm elections Jefferson City News Tribune",
+      "area": "Elections",
+      "county": "Jefferson",
+      "region": "Houston / Gulf",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMimgFBVV95cUxNUnU0bk93czZ5eEpUTTBzMTU0azdGUjVlMDEyNXljSHBsTEN4Tl9UaUlwMDVsV1VyN2VsNXdkZFdQdXNuMWhjSEF0RHdJcUo1YjdGbU5ub0xfZ1ZuVk1uTFM4Q3B2bWFqcElFVk95OWR3V0VCYWpsdXZUSmFrWXFvakFONkRQRzZFdkE4YjRmeE9fLVVNSklZdlZR%3Foc%3D5"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "Trump again appeals to Supreme Court on mail-voting restrictions with midterm elections looming",
+      "source": "Houston Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQWs2VXdNbXhoeDhteVdubDVsMWNSejF2R1BuVG5WOWVwMFB5eVNpMjhJaWxMQ2FXRTEtbnlPTExKSTB0bWt4RGRSWHVlaXc0TlIwbUt0Tld5NzhkMkpheVR4dWFLQUJ3cWhyQ1JhdkJQRmRUSVlDSUZsd1QtTWFNVDByQVdYT2g1RkoyOHFhX0ZRakVFcEZBVjZNVC1nQzFoaGJmWUtibjV1MDNYWXpQU0w0UQ?oc=5",
+      "summary": "Trump again appeals to Supreme Court on mail-voting restrictions with midterm elections looming Houston Chronicle",
+      "area": "Elections",
+      "county": "Harris",
+      "region": "Houston",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiswFBVV95cUxNQWs2VXdNbXhoeDhteVdubDVsMWNSejF2R1BuVG5WOWVwMFB5eVNpMjhJaWxMQ2FXRTEtbnlPTExKSTB0bWt4RGRSWHVlaXc0TlIwbUt0Tld5NzhkMkpheVR4dWFLQUJ3cWhyQ1JhdkJQRmRUSVlDSUZsd1QtTWFNVDByQVdYT2g1RkoyOHFhX0ZRakVFcEZBVjZNVC1nQzFoaGJmWUtibjV1MDNYWXpQU0w0UQ%3Foc%3D5"
     },
     {
       "date": "2026-09-02",
