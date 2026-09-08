@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-07",
+  "updated": "2026-09-08",
   "note": "Newest first. Durable catalog in archive/captures.jsonl. archive_url points at Wayback.",
   "items": [
+    {
+      "date": "2026-09-08",
+      "title": "Aaron Judge activated from 60-day injured list by New York Yankees",
+      "source": "Houston Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ3YzMlVlb21xSHc1UVRBS0lDX1RWU2Q4VktVa3dkZ0VJS0ZGbzFtakFyWVJsbE9rWncwTFRSYnl4SDdzYkpuVzlKZnpFLUgyMWNXRDFLUVpDLXdaTkV3bVpETzRSa0VHc281cnNFX2JOREo4akN1ejRsd3NSVW10S1BtWHlfNklOT1FDLXl2LU9GUFdEdk5lbGwyREZDSlYyUHY3Ync1SXVDZzBvZXk4?oc=5",
+      "summary": "Aaron Judge activated from 60-day injured list by New York Yankees Houston Chronicle",
+      "area": "Courts",
+      "county": "Harris",
+      "region": "Houston",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMirwFBVV95cUxOZ3YzMlVlb21xSHc1UVRBS0lDX1RWU2Q4VktVa3dkZ0VJS0ZGbzFtakFyWVJsbE9rWncwTFRSYnl4SDdzYkpuVzlKZnpFLUgyMWNXRDFLUVpDLXdaTkV3bVpETzRSa0VHc281cnNFX2JOREo4akN1ejRsd3NSVW10S1BtWHlfNklOT1FDLXl2LU9GUFdEdk5lbGwyREZDSlYyUHY3Ync1SXVDZzBvZXk4%3Foc%3D5"
+    },
     {
       "date": "2026-09-07",
       "title": "Harris County Judge calls for special session on Flock as governor pulls state funding",
@@ -141,6 +155,34 @@
       "kind": "news",
       "quality": "Published reporting via public news wire",
       "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMimAFBVV95cUxQTG9Qbm93TmRZTTFiM2RYdVNaVGFLbDNGNTJUQ3VxalJuamE3Y0VtNjZKbGdFM2JoRDc1b2hRcGFNYnJsUlZOWGItaWZlcTNLeWU2UUpsZHIxZU81NXd3cXNTczdmc0lzaE1OVG1VRHRaNm9NbUthbEpCR2lhQ1hlX2RhTThvaGpWeWQyUkFvOVIyMGIzQlphSA%3Foc%3D5"
+    },
+    {
+      "date": "2026-09-07",
+      "title": "Texas Supreme Court denies appeal in Lufkin subdivision RaceTrac case",
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZVI0MEk0dW5FOUpha3I2UjFleURkSXNnQUV3NmdocmE4T2dOaDZoNEQtbVdKYkFrMC1fWU5rU1ZWMkRMNk9PcktKbDRiME5UcklSRHg0NHNKN1NnenJJUC1sYXhMSWd6eHNqUVdNdWh4Z18yV3ozN0xfTU4wbXR1TTkyMkV0RHBQNTlKV0lUZzc?oc=5",
+      "summary": "Texas Supreme Court denies appeal in Lufkin subdivision RaceTrac case Yahoo",
+      "area": "Appellate",
+      "county": "Statewide",
+      "region": "Statewide",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMikAFBVV95cUxPZVI0MEk0dW5FOUpha3I2UjFleURkSXNnQUV3NmdocmE4T2dOaDZoNEQtbVdKYkFrMC1fWU5rU1ZWMkRMNk9PcktKbDRiME5UcklSRHg0NHNKN1NnenJJUC1sYXhMSWd6eHNqUVdNdWh4Z18yV3ozN0xfTU4wbXR1TTkyMkV0RHBQNTlKV0lUZzc%3Foc%3D5"
+    },
+    {
+      "date": "2026-09-07",
+      "title": "Texas Senate money gap grows, but recent Supreme Court ruling could help Paxton",
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTjFxLXh3RjVCY0hMVnQtRnBQMWR5bFF2ekFZYTJaNUNUNkpDZ3B3VGpWN1dnWWQ2SjZkVE1ydS0yVzR5UHFGR0xzY21rMEZXMXJSUktFaTlsOFAwSlN4YlJLWWhtRmhVTGRjNkllZEw0cWdZbThSRlFMbkpETWY5SE5FUQ?oc=5",
+      "summary": "Texas Senate money gap grows, but recent Supreme Court ruling could help Paxton Yahoo",
+      "area": "Appellate",
+      "county": "Statewide",
+      "region": "Statewide",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMigwFBVV95cUxPTjFxLXh3RjVCY0hMVnQtRnBQMWR5bFF2ekFZYTJaNUNUNkpDZ3B3VGpWN1dnWWQ2SjZkVE1ydS0yVzR5UHFGR0xzY21rMEZXMXJSUktFaTlsOFAwSlN4YlJLWWhtRmhVTGRjNkllZEw0cWdZbThSRlFMbkpETWY5SE5FUQ%3Foc%3D5"
     },
     {
       "date": "2026-09-06",
