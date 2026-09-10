@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-09",
+  "updated": "2026-09-10",
   "note": "Newest first. Durable catalog in archive/captures.jsonl. archive_url points at Wayback.",
   "items": [
+    {
+      "date": "2026-09-10",
+      "title": "Missouri's congressional map is back before the U.S. Supreme Court, sowing still more confusion - San Antonio Express-News",
+      "source": "San Antonio Express-News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWmZZY29GQWt6ZEFYNVFSb2M1Q1VTdXhad1dxX09wbjFna19UTC1KMWhXV04yUURpdnJBM0lFUWM5T1RBU3NmU1RBWHlad1ViNkhjM1JadVNlNHZLTDI0aEdzTURrWVJEVmxBb19qZkpCT1BFdVJOa1ZyN0x4MlhqdENfbGV4SFhTS09sZ3dBVndja2lWTG9vWFJKYzhRSEJjd09EQk9nX2gwTG81RFE?oc=5",
+      "summary": "Missouri's congressional map is back before the U.S. Supreme Court, sowing still more confusion San Antonio Express-News",
+      "area": "Appellate",
+      "county": "Bexar",
+      "region": "San Antonio",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMirgFBVV95cUxPWmZZY29GQWt6ZEFYNVFSb2M1Q1VTdXhad1dxX09wbjFna19UTC1KMWhXV04yUURpdnJBM0lFUWM5T1RBU3NmU1RBWHlad1ViNkhjM1JadVNlNHZLTDI0aEdzTURrWVJEVmxBb19qZkpCT1BFdVJOa1ZyN0x4MlhqdENfbGV4SFhTS09sZ3dBVndja2lWTG9vWFJKYzhRSEJjd09EQk9nX2gwTG81RFE%3Foc%3D5"
+    },
     {
       "date": "2026-09-09",
       "title": "Federal judge temporarily blocks Missouri from using old House map after Supreme Court declined case",
@@ -155,6 +169,20 @@
       "kind": "news",
       "quality": "Published reporting via public news wire",
       "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiqwFBVV95cUxQU1QzeUYxUlF3dWtiUkRCQ3BNSE05ZGFLVmdHbng5dVBwdlFrbS1CMTdqdzVOUEFuR0p1SnI1LTdCVmlZdkEtSm5hbzBEM0F1Nlk3OU9jWHpTdG9CZWktZTM3cHphaE8wSU9IYVVWUGJ3am1OSWRlUS1hbXF4aHFfY050QndTWU84T25aZVl3X0UtQ0h6djY4VUVOb3k2RnZhbk1nRWdRQjNKRTg%3Foc%3D5"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "Texas Justices Deny Bid To Undo $37M Arbitration Award",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdXBjcU1sdGhkQ0E2LXlvZURGWVF4cEE0dlhUOUVNMTRCWUJ5M3dhWUJQOE53QzNqVXQzMm8tU21NOGtCQTVqM3hJWmJreEt5TEtUVUFVdllqcDN3LUdZVllHSFBlVkxpNlVCNWU4c21WYU9rVnBld1lUbkxFV0sxQUVFMEtKQ3Y5cVUzRDhINVA2RGpJZ1A4btIBVkFVX3lxTE56SkZSV3doMDJOOUZPbzV5U213a3pJc1JuWXpwMHZUYXBoSnJXc0hIblBiLWdidWR1aG1tdm91X3BpSmJZc0pTOW1pVTdLbFd0LWJRYWxn?oc=5",
+      "summary": "Texas Justices Deny Bid To Undo $37M Arbitration Award Law360",
+      "area": "Arbitration",
+      "county": "Statewide",
+      "region": "Statewide",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMimAFBVV95cUxPdXBjcU1sdGhkQ0E2LXlvZURGWVF4cEE0dlhUOUVNMTRCWUJ5M3dhWUJQOE53QzNqVXQzMm8tU21NOGtCQTVqM3hJWmJreEt5TEtUVUFVdllqcDN3LUdZVllHSFBlVkxpNlVCNWU4c21WYU9rVnBld1lUbkxFV0sxQUVFMEtKQ3Y5cVUzRDhINVA2RGpJZ1A4btIBVkFVX3lxTE56SkZSV3doMDJOOUZPbzV5U213a3pJc1JuWXpwMHZUYXBoSnJXc0hIblBiLWdidWR1aG1tdm91X3BpSmJZc0pTOW1pVTdLbFd0LWJRYWxn%3Foc%3D5"
     },
     {
       "date": "2026-09-08",
