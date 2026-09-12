@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-11",
+  "updated": "2026-09-12",
   "note": "Newest first. Durable catalog in archive/captures.jsonl. archive_url points at Wayback.",
   "items": [
+    {
+      "date": "2026-09-12",
+      "title": "Judge rejects bid to release Arizona sheriff’s office from supervision in racial profiling case",
+      "source": "Houston Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMExkcjlsYkJYUENiV2F0SmhGQkIyNFU1S1ZDMHBEWEhfZlU5Mng5SU1xT0JoRGYyZUV3X3dVWnRuUVBlX0Zfbzlac1hzUW1WdGdBQmdUWmxyYkUxb0c4T1A3U1d6ZEtXWjZncWl2Y3NWMjBuTnd3bERSMGdveGFLNFpJX0xXVjJhY3dxWDhqWnRncWFZUDlpNHIyNGs0TUJra2hjTU1ucUo?oc=5",
+      "summary": "Judge rejects bid to release Arizona sheriff’s office from supervision in racial profiling case Houston Chronicle",
+      "area": "Courts",
+      "county": "Harris",
+      "region": "Houston",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiqAFBVV95cUxNMExkcjlsYkJYUENiV2F0SmhGQkIyNFU1S1ZDMHBEWEhfZlU5Mng5SU1xT0JoRGYyZUV3X3dVWnRuUVBlX0Zfbzlac1hzUW1WdGdBQmdUWmxyYkUxb0c4T1A3U1d6ZEtXWjZncWl2Y3NWMjBuTnd3bERSMGdveGFLNFpJX0xXVjJhY3dxWDhqWnRncWFZUDlpNHIyNGs0TUJra2hjTU1ucUo%3Foc%3D5"
+    },
     {
       "date": "2026-09-11",
       "title": "TikTok Lied About Harmful Content For Minors, Texas Judge Rules",
@@ -407,6 +421,62 @@
       "kind": "news",
       "quality": "Published reporting via public news wire",
       "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiowFBVV95cUxONTIwajZsd2M0UlJYN1VlSkYyNWg4cXJTbDNQbG5iN2ZkQXF6dW1Fa3FkeVFmZjdZYWVONUNvemw0Q21DRWh3WElTaGQ2Q1hTZEFjZnphcnIxTEx4UVZCbmJ1LUtCenlHTnFvNU8xUldBUFlNb3VNczVhMGplZnZIMFpXSmJWenZJZ2lDemVPaU5SaGpiT242bGNuek4yUkpQUUdF%3Foc%3D5"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "Texas Supreme Court rules against Galveston County new redistricting maps",
+      "source": "ABC13 Houston",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUkxKMDBpaDBmbnZDbWhub184aS0tTjNqMGxfMVlFNHNwVlpXbzRVQTAwZjMtbmkyelpwQTVGbGdPY3BoMkVoQS1rdHRxSTR0SF85dTlYbTdLbVM4dWlTSllnRTVOT3Z3OE55cVVkVTFrNlhqcVVROWpkU20tdHE2Q2xQZWd3a2tuOVRZVFlZb29tcHAyNWx5bUZobFUxdknSAaQBQVVfeXFMT1V4T1BOdzhXQWJia01fenc3dFdJYzlySkE1a1kzTnp4bGZjU2NwTm1fMVhhN1lHUnBXcVJUV0RaSkt2bmM4TmkyUHpFVlc1WXB4dkJTWlcyU3g0ckh1Y3FiRHV3b1hvcDUtZlMxc3hXWk5GTTg2b0lEWHJOUTNybWtza3F0aEVHVVJqZGFURDdZejZKcXIzUEpFTXQ2aUFlQU1fYUE?oc=5",
+      "summary": "Texas Supreme Court rules against Galveston County new redistricting maps ABC13 Houston",
+      "area": "Appellate",
+      "county": "Galveston",
+      "region": "Houston",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMinwFBVV95cUxOUkxKMDBpaDBmbnZDbWhub184aS0tTjNqMGxfMVlFNHNwVlpXbzRVQTAwZjMtbmkyelpwQTVGbGdPY3BoMkVoQS1rdHRxSTR0SF85dTlYbTdLbVM4dWlTSllnRTVOT3Z3OE55cVVkVTFrNlhqcVVROWpkU20tdHE2Q2xQZWd3a2tuOVRZVFlZb29tcHAyNWx5bUZobFUxdknSAaQBQVVfeXFMT1V4T1BOdzhXQWJia01fenc3dFdJYzlySkE1a1kzTnp4bGZjU2NwTm1fMVhhN1lHUnBXcVJUV0RaSkt2bmM4TmkyUHpFVlc1WXB4dkJTWlcyU3g0ckh1Y3FiRHV3b1hvcDUtZlMxc3hXWk5GTTg2b0lEWHJOUTNybWtza3F0aEVHVVJqZGFURDdZejZKcXIzUEpFTXQ2aUFlQU1fYUE%3Foc%3D5"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "Syracuse WR hauls in a legal Hail Mary to play vs. Cal after getting boot from Texas judge",
+      "source": "Syracuse.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUk01NTdsa0xCNzNQejcyaTlPdHpNU3l1b3hoZWNCa3R0LTBnQ1JETHNDVU4zY2o1cnJFNU5QaS1PdjE3b0dFVjMtRGpVUjVleElHWUNGU0hqMHdJXzBEYnRER05jbF9KSnNGVTZTWWlFNkdoTk9OdS1uQmlIWnZXOWo3Q2hBUDA3V3B1NmtsZmIxS0xpWEg1WTRNSmNoZ3NrOFcxUEFpVkl2V3pjd0t1bkhTclpCejRIZ1otWU50NUIwWC1WWXNEOVZfVmdoanBpSVVDWlh4dWYwQQ?oc=5",
+      "summary": "Syracuse WR hauls in a legal Hail Mary to play vs. Cal after getting boot from Texas judge Syracuse.com",
+      "area": "Courts",
+      "county": "Statewide",
+      "region": "Statewide",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMi2gFBVV95cUxNUk01NTdsa0xCNzNQejcyaTlPdHpNU3l1b3hoZWNCa3R0LTBnQ1JETHNDVU4zY2o1cnJFNU5QaS1PdjE3b0dFVjMtRGpVUjVleElHWUNGU0hqMHdJXzBEYnRER05jbF9KSnNGVTZTWWlFNkdoTk9OdS1uQmlIWnZXOWo3Q2hBUDA3V3B1NmtsZmIxS0xpWEg1WTRNSmNoZ3NrOFcxUEFpVkl2V3pjd0t1bkhTclpCejRIZ1otWU50NUIwWC1WWXNEOVZfVmdoanBpSVVDWlh4dWYwQQ%3Foc%3D5"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "Oklahoma judge admitted to citing fake ChatGPT cases in court order, investigators say",
+      "source": "CW39 Houston",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOemVuSlBzWjZGTDU3UjNUaTZjZUs2WWpwTGNKMlJwVGJySm9EdmUtV0VqUkx4ZnZHdGxzeGhVbUJOMjBSYTk4blNNUWw1TTZ3UU90MmxURlRpc2tSZEVzR3dNUFVvRHY4RzlaaUJad3FyOHVpZUZIMkpaSmR2UzhubTNtQkhNN2ZaYndMVTV3OWhacmNsLUZZRktBaGFNUWFPdmxBS2lPRkgwU2RO0gGyAUFVX3lxTE9ZeGxhanhoSVR5dVQxRDBfNVhXZU1RSjJFS2l4TjJPZEM4cUN2MFIwN2p2NHRGQzdvN094M2hBYlNxemlBbEZhOHM1bmNNWGxfR0cxTnlFRlN6a3BoNDJNOEJxUFZXQ29TbHVrVVpnYzZsWEZnaFI3amN3WUljZy00N0JEU3VJZzZraVVZS20tbHVPUXY0N2l1M2VjUzRMZlBKcHFuMk81Ny1pMHZFbjJBS0E?oc=5",
+      "summary": "Oklahoma judge admitted to citing fake ChatGPT cases in court order, investigators say CW39 Houston",
+      "area": "Courts",
+      "county": "Harris",
+      "region": "Houston",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMirAFBVV95cUxOemVuSlBzWjZGTDU3UjNUaTZjZUs2WWpwTGNKMlJwVGJySm9EdmUtV0VqUkx4ZnZHdGxzeGhVbUJOMjBSYTk4blNNUWw1TTZ3UU90MmxURlRpc2tSZEVzR3dNUFVvRHY4RzlaaUJad3FyOHVpZUZIMkpaSmR2UzhubTNtQkhNN2ZaYndMVTV3OWhacmNsLUZZRktBaGFNUWFPdmxBS2lPRkgwU2RO0gGyAUFVX3lxTE9ZeGxhanhoSVR5dVQxRDBfNVhXZU1RSjJFS2l4TjJPZEM4cUN2MFIwN2p2NHRGQzdvN094M2hBYlNxemlBbEZhOHM1bmNNWGxfR0cxTnlFRlN6a3BoNDJNOEJxUFZXQ29TbHVrVVpnYzZsWEZnaFI3amN3WUljZy00N0JEU3VJZzZraVVZS20tbHVPUXY0N2l1M2VjUzRMZlBKcHFuMk81Ny1pMHZFbjJBS0E%3Foc%3D5"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "Surrogate who fled to Texas asks Supreme Court to intervene in custody dispute - WNTZ-TV FOX 48",
+      "source": "WNTZ-TV FOX 48",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbWtaZUlFUlZIX2EzOWZtRjhqT0pNUExLTjB1UkdOR2szbW1lelprS3hYbFkxVnVzWmlGdndQcnR3Q0RhRDJxamJWM2JpeDQzb1hYTnRiRFROTWJYUHBjQTQwUG1SM05STVo0bm9vdEcwM3RTS1d2TkFuMjhZS0pUT0RkcE1IaFJVbzZjOTBpWUtlTUhTY3B2ODc5NW5WNkhHVXhPT09ycld4bE5QbGdkRV9KREIzNmdoOGfSAb8BQVVfeXFMTVVTbWZuQm9zY0hNSDJWTE1MSTl2c1FGU1MwbHl3MHpyUWdPSUktMDJyWTZpRFJzMHhlMGFkdHQwT1FRc0xtUHhtT2hVQ0g1eWRGcHlsNjZtMkRnMF8tVEZJY0pkV1RHNTlaOHdoUzd4LTlrR1dtNC1WYVFlX0drbElZakI2eFRxUE1FeTZUd2RtTmViVnZ5U3l6N2RTaVRKWHB1LWZucWFhNXVpWGRndHJnQVFyOEs1N2NkeEc2OGs?oc=5",
+      "summary": "Surrogate who fled to Texas asks Supreme Court to intervene in custody dispute WNTZ-TV FOX 48",
+      "area": "Family",
+      "county": "Statewide",
+      "region": "Statewide",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiugFBVV95cUxNbWtaZUlFUlZIX2EzOWZtRjhqT0pNUExLTjB1UkdOR2szbW1lelprS3hYbFkxVnVzWmlGdndQcnR3Q0RhRDJxamJWM2JpeDQzb1hYTnRiRFROTWJYUHBjQTQwUG1SM05STVo0bm9vdEcwM3RTS1d2TkFuMjhZS0pUT0RkcE1IaFJVbzZjOTBpWUtlTUhTY3B2ODc5NW5WNkhHVXhPT09ycld4bE5QbGdkRV9KREIzNmdoOGfSAb8BQVVfeXFMTVVTbWZuQm9zY0hNSDJWTE1MSTl2c1FGU1MwbHl3MHpyUWdPSUktMDJyWTZpRFJzMHhlMGFkdHQwT1FRc0xtUHhtT2hVQ0g1eWRGcHlsNjZtMkRnMF8tVEZJY0pkV1RHNTlaOHdoUzd4LTlrR1dtNC1WYVFlX0drbElZakI2eFRxUE1FeTZUd2RtTmViVnZ5U3l6N2RTaVRKWHB1LWZucWFhNXVpWGRndHJnQVFyOEs1N2NkeEc2OGs%3Foc%3D5"
     },
     {
       "date": "2026-09-10",
