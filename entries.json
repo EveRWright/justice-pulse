@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14",
+  "updated": "2026-09-15",
   "note": "Newest first. Durable catalog in archive/captures.jsonl. archive_url points at Wayback.",
   "items": [
     {
@@ -295,6 +295,90 @@
       "kind": "news",
       "quality": "Published reporting via public news wire",
       "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMi3gFBVV95cUxNQ0xPZ2k4SEQ2QU9uYTlyeXVXRXJ6M2VRUWIxVzRCMEVITlFCYUlFNEt4NGFKd2I0aFVHWHc4RDdydTRFYVk1aVQwYzlGUlVCemU5bFZMY25zbFRTWVFqdzY5aW13cjVoN2gyRFZDTENuazFCR2JrZlVLeGdFUHdkUmNhOFgzemFVbEp1QzZpTVduMTU5WmxlVTdaUkw3Z2pLZ1FCS2RIa2FVS0VvWVhZdkduYks0dk9vb0xTUEZXQ2JaeURncHZvQ2cxbWc2dmhSNzd3OG41MDBONHpoYkE%3Foc%3D5"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Supreme Court won’t restore Trump’s mail-in voting plan for midterms",
+      "source": "CW39 Houston",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSU9jaGJpcmxmenBwX0NaSUQ5RjMyZ3BSa21MbjFxWFYzVzRGdDBqT2pwVGxtUng4M1BVZGM5aXBVTklxS3JJZjJ2d3psV09vSjJMQlFVLWNnLWxWS0dvMXdHLUJmNEx4Z1JfTW16UjcyMEdUdWVqNVp6YkF4djFNdlR3S1pEZGI2dEJoRElyYTNWVVHSAZgBQVVfeXFMTmYyYjB4bEo0TzNOWGo0UmEzSmZqOXRDTnVHR0oyQzNubDdfZkViYVlnbkg4ak5jRUF1eUxjVjNhV1dzOHZmaDg5b3dsbDdtQ2R0MTA0YVFPa2FTSXpUWFRKZS1DcndKOEg3djAwSVlwTWMtZW8zRlVTNGRrN2ZZTTlRakNxZ1VhM2dMWWtjZW5PcVkxM1JaVVM?oc=5",
+      "summary": "Supreme Court won’t restore Trump’s mail-in voting plan for midterms CW39 Houston",
+      "area": "Appellate",
+      "county": "Harris",
+      "region": "Houston",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMikwFBVV95cUxOSU9jaGJpcmxmenBwX0NaSUQ5RjMyZ3BSa21MbjFxWFYzVzRGdDBqT2pwVGxtUng4M1BVZGM5aXBVTklxS3JJZjJ2d3psV09vSjJMQlFVLWNnLWxWS0dvMXdHLUJmNEx4Z1JfTW16UjcyMEdUdWVqNVp6YkF4djFNdlR3S1pEZGI2dEJoRElyYTNWVVHSAZgBQVVfeXFMTmYyYjB4bEo0TzNOWGo0UmEzSmZqOXRDTnVHR0oyQzNubDdfZkViYVlnbkg4ak5jRUF1eUxjVjNhV1dzOHZmaDg5b3dsbDdtQ2R0MTA0YVFPa2FTSXpUWFRKZS1DcndKOEg3djAwSVlwTWMtZW8zRlVTNGRrN2ZZTTlRakNxZ1VhM2dMWWtjZW5PcVkxM1JaVVM%3Foc%3D5"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Former Texas state lawmaker seeks removal of Tarrant County judge",
+      "source": "Dallas News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX05NOUdpMnRUbzdLOWswQkVfdVZob0dhQ2hCN1plaGd1Wk9fcTRRbGZiMmEzNWF2NWZEWVVQbmdMMVBLWHZyUFVVZXNZcGtZaEtSdUtab3pqMnN1Y2huQjRReUtpTERZRUQ1cG5FdTJ4d0g1YUpBLUtrYVd3bVROVFRvS2NicC1SYndnS2RmdzEtNWk0X2hCNkdFdFo2VUROYXRQMUlfTHJ4amRPZGc?oc=5",
+      "summary": "Former Texas state lawmaker seeks removal of Tarrant County judge Dallas News",
+      "area": "Courts",
+      "county": "Dallas",
+      "region": "DFW",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMirgFBVV95cUxOX05NOUdpMnRUbzdLOWswQkVfdVZob0dhQ2hCN1plaGd1Wk9fcTRRbGZiMmEzNWF2NWZEWVVQbmdMMVBLWHZyUFVVZXNZcGtZaEtSdUtab3pqMnN1Y2huQjRReUtpTERZRUQ1cG5FdTJ4d0g1YUpBLUtrYVd3bVROVFRvS2NicC1SYndnS2RmdzEtNWk0X2hCNkdFdFo2VUROYXRQMUlfTHJ4amRPZGc%3Foc%3D5"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Former Texas Rep. files lawsuit against Tarrant County Judge Tim O'Hare",
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaTBHYVluNXRyR21ZazRFbXhCMW0zTllnZXVSRlBXMEFwd3dyWHBhVXVXVldDdXpiYTJ3UzFwaUIyY3RqMkt3SDc4ZUpfX3JhWWRLR2E0SGZPX2dUZ00xMFdUZzVITmdyZlJIbmRhYkZFRG9WbmFJWk45djY3X04wUFEzZWppUkhwTk1lekp1R3ktZkI4?oc=5",
+      "summary": "Former Texas Rep. files lawsuit against Tarrant County Judge Tim O'Hare Yahoo",
+      "area": "Courts",
+      "county": "Tarrant",
+      "region": "DFW",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMilAFBVV95cUxNaTBHYVluNXRyR21ZazRFbXhCMW0zTllnZXVSRlBXMEFwd3dyWHBhVXVXVldDdXpiYTJ3UzFwaUIyY3RqMkt3SDc4ZUpfX3JhWWRLR2E0SGZPX2dUZ00xMFdUZzVITmdyZlJIbmRhYkZFRG9WbmFJWk45djY3X04wUFEzZWppUkhwTk1lekp1R3ktZkI4%3Foc%3D5"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Judge grants delay in Yella Beezy murder trial - NBC 5 Dallas-Fort Worth",
+      "source": "NBC 5 Dallas-Fort Worth",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTGdIRkdTYUdCRFFXRmMtNUx2WVo5enpYN09uZWpCUXZPa0hERlQ1bUo1T2IwTWFIYTl5bVlvRkJLVktxNGFPY1djMkJJR1dKNWNvWDlQc1VwNmhtSV9JTG0ybzlCczAweGFQZkFWNEszUHRZSnpkUnBFei1Ob056OFhMX0ZVUGx6b185THBnTUl1MGdXY25rMHNCb9IBowFBVV95cUxOWXp4MGJBdkd4VkNPdWJsckdzUFdMSmg4dXBtb2ZXd01Ma2IzYmgwRkRRbDRIaUM0bmNNTFVDSnZITU8wUEROSHI2bDdULUQ0Ym9oTVlFQ3BjWE4zYTJ5Wl9PQjdid3ZXQnB3UW9HSnh2VmlRNk5sbkZFWG1HRjlrN2FZVlBFNHJhMDRIU3J1UzBZb2hXVHN4TDdPZ2hzdVhDVmRr?oc=5",
+      "summary": "Judge grants delay in Yella Beezy murder trial NBC 5 Dallas-Fort Worth",
+      "area": "Courts",
+      "county": "Dallas",
+      "region": "DFW",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMimwFBVV95cUxPTGdIRkdTYUdCRFFXRmMtNUx2WVo5enpYN09uZWpCUXZPa0hERlQ1bUo1T2IwTWFIYTl5bVlvRkJLVktxNGFPY1djMkJJR1dKNWNvWDlQc1VwNmhtSV9JTG0ybzlCczAweGFQZkFWNEszUHRZSnpkUnBFei1Ob056OFhMX0ZVUGx6b185THBnTUl1MGdXY25rMHNCb9IBowFBVV95cUxOWXp4MGJBdkd4VkNPdWJsckdzUFdMSmg4dXBtb2ZXd01Ma2IzYmgwRkRRbDRIaUM0bmNNTFVDSnZITU8wUEROSHI2bDdULUQ0Ym9oTVlFQ3BjWE4zYTJ5Wl9PQjdid3ZXQnB3UW9HSnh2VmlRNk5sbkZFWG1HRjlrN2FZVlBFNHJhMDRIU3J1UzBZb2hXVHN4TDdPZ2hzdVhDVmRr%3Foc%3D5"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Supreme Court rejects Trump mail ballot restrictions for now ahead of midterms",
+      "source": "Houston Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZmJETWZaOE9zbG00R1BoeVlVcHBoeW9mVU8yU0liWm5aRXk5dk92S1UwVXpobG5DV3ZSMzUyTXp0MjNGOWFjLWJKS3V0VFZSTXoxZXR3eXJJbEotWUNLVGRyQ2lWVXFVZEFrdXpib2lQRDY3VGhKVFE0UGxRMmVlRTR1LXYxMkQwSW1jWEJxSUxadmNyYWJrWjZFdkFMXzFQQVlja09BbDJxd3M?oc=5",
+      "summary": "Supreme Court rejects Trump mail ballot restrictions for now ahead of midterms Houston Chronicle",
+      "area": "Elections",
+      "county": "Harris",
+      "region": "Houston",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiqwFBVV95cUxNZmJETWZaOE9zbG00R1BoeVlVcHBoeW9mVU8yU0liWm5aRXk5dk92S1UwVXpobG5DV3ZSMzUyTXp0MjNGOWFjLWJKS3V0VFZSTXoxZXR3eXJJbEotWUNLVGRyQ2lWVXFVZEFrdXpib2lQRDY3VGhKVFE0UGxRMmVlRTR1LXYxMkQwSW1jWEJxSUxadmNyYWJrWjZFdkFMXzFQQVlja09BbDJxd3M%3Foc%3D5"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Bankruptcy judge’s ruling could lower Whitewater Amphitheater auction price - San Antonio Express-News",
+      "source": "San Antonio Express-News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONmhTbTIzNmZEU0tGUDRoZ29seXUwbmlQUjBTOFhkQVpDbHkydWpPOTl2bmJkNHVGbWNBdDY0VENKNmdFOXBnRW9Od3ktNWJ1MlhpZXZBUmhOWGIxa2lCMFFvVjFQekNwVy1XUDI2bmF6ZXJJYUtURVZGc05BVTBldEFuZ1VmdjZQTzN3S1BsMGdrU0NJVDYtSThCdmdLUFhWekVmZU02RVptUQ?oc=5",
+      "summary": "Bankruptcy judge’s ruling could lower Whitewater Amphitheater auction price San Antonio Express-News",
+      "area": "Rulings",
+      "county": "Bexar",
+      "region": "San Antonio",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiqgFBVV95cUxONmhTbTIzNmZEU0tGUDRoZ29seXUwbmlQUjBTOFhkQVpDbHkydWpPOTl2bmJkNHVGbWNBdDY0VENKNmdFOXBnRW9Od3ktNWJ1MlhpZXZBUmhOWGIxa2lCMFFvVjFQekNwVy1XUDI2bmF6ZXJJYUtURVZGc05BVTBldEFuZ1VmdjZQTzN3S1BsMGdrU0NJVDYtSThCdmdLUFhWekVmZU02RVptUQ%3Foc%3D5"
     },
     {
       "date": "2026-09-13",
