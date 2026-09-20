@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19",
+  "updated": "2026-09-20",
   "note": "Newest first. Durable catalog in archive/captures.jsonl. archive_url points at Wayback.",
   "items": [
     {
@@ -57,6 +57,20 @@
       "kind": "news",
       "quality": "Published reporting via public news wire",
       "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMie0FVX3lxTE5zOE0yRzBvS05vc1N2cDR1cWVPQTFDTmJVOWRyQW9CNEFtTFpfMTFkMnJSZVhDZTY0MFU1aXlCMW5HNG43eXhSM0ZmV01helhDb0twdDhRZkFqanlENzBDU1hITml6TG9aUmttUHpPa1Y2VDhIMjBreGsxdw%3Foc%3D5"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Texas Supreme Court stays order dismissing Clemishires’ defamation claims",
+      "source": "roysreport.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOUwtc3psNHI0RWx1anB2LXpRX0o3UWxLSFMxWWd3QUp6akhkY3BBQVJXWjJ4VWZBMTdES1RyT1NsYktIbmlRVkNMR2FydVNQbF9IVGZBX3FDMFMzdmcxQlZaOXc1MTFlcXUwZHd3Tm16ZkNFT0ZVdF8wWEQtMXJBazBfdjRCT0gwQXZ6UUdlQlltcFk0MlBaOTQ0T0c?oc=5",
+      "summary": "Texas Supreme Court stays order dismissing Clemishires’ defamation claims roysreport.com",
+      "area": "Appellate",
+      "county": "Statewide",
+      "region": "Statewide",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMinAFBVV95cUxOOUwtc3psNHI0RWx1anB2LXpRX0o3UWxLSFMxWWd3QUp6akhkY3BBQVJXWjJ4VWZBMTdES1RyT1NsYktIbmlRVkNMR2FydVNQbF9IVGZBX3FDMFMzdmcxQlZaOXc1MTFlcXUwZHd3Tm16ZkNFT0ZVdF8wWEQtMXJBazBfdjRCT0gwQXZ6UUdlQlltcFk0MlBaOTQ0T0c%3Foc%3D5"
     },
     {
       "date": "2026-09-18",
