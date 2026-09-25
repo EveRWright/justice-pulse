@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24",
+  "updated": "2026-09-25",
   "note": "Newest first. Durable catalog in archive/captures.jsonl. archive_url points at Wayback.",
   "items": [
     {
@@ -379,6 +379,90 @@
       "kind": "news",
       "quality": "Published reporting via public news wire",
       "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMirAFBVV95cUxNdFpJREZSSk5xdk9IM3NYQUZQRV9UWXJHUFZZSldfWmxEN285ZWNBU0NmOXoxbG8xdVhITC1FMmVVWnZjVXVXbmpEc3dxU0RBMHdwQzZkZDJsb0VXWE1Gdmx2Q1hsOVBLdmQ4SlVkQzV0eTdacG4xWFRLUDZjYjdwVzVPS09ROGZXQTBoX2lrczI0VXB1dkljRU9LNk8ta1NVRTk0ZGMwZ2hmNGNl%3Foc%3D5"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Wife, friend ask judge for leniency ahead of Lubbock fraud sentencing",
+      "source": "KCBD",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVnZpX1pIOWprdE9sM3JkTFdaS3JjQnQ2b3A3ZEE4NDNNX0lmTC04d0QxZGp1dWRHSEpZS2xldUZSMHJCQ21wRmg1T0RNMHJBVFdPaFBxdVFPOFBGb3g4MGtrVHlkd3J3SmZFT2FZY1oyeWk4RWNfV1d1UUV6eXpnajJiU0RibW5HTE1MZlZCUldJZlVVWnFJYTNDQ25kYTRUVXE4bjJ2TDRva1ktamfSAa4BQVVfeXFMT1Z2aV9aSDlqa3RPbDNyZExXWktyY0J0Nm9wN2RBODQzTV9JZkwtOHdEMWRqdXVkR0hKWUtsZXVGUjByQkNtcEZoNU9ETTByQVRXT2hQcXVRTzhQRm94ODBra1R5ZHdyd0pmRU9hWWNaMnlpOEVjX1dXdVFFenl6Z2oyYlNEYm1uR0xNTGZWQlJXSWZVVVpxSWEzQ0NuZGE0VFVxOG4ydkw0b2tZLWpn?oc=5",
+      "summary": "Wife, friend ask judge for leniency ahead of Lubbock fraud sentencing KCBD",
+      "area": "Courts",
+      "county": "Lubbock",
+      "region": "West Texas",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMirgFBVV95cUxPVnZpX1pIOWprdE9sM3JkTFdaS3JjQnQ2b3A3ZEE4NDNNX0lmTC04d0QxZGp1dWRHSEpZS2xldUZSMHJCQ21wRmg1T0RNMHJBVFdPaFBxdVFPOFBGb3g4MGtrVHlkd3J3SmZFT2FZY1oyeWk4RWNfV1d1UUV6eXpnajJiU0RibW5HTE1MZlZCUldJZlVVWnFJYTNDQ25kYTRUVXE4bjJ2TDRva1ktamfSAa4BQVVfeXFMT1Z2aV9aSDlqa3RPbDNyZExXWktyY0J0Nm9wN2RBODQzTV9JZkwtOHdEMWRqdXVkR0hKWUtsZXVGUjByQkNtcEZoNU9ETTByQVRXT2hQcXVRTzhQRm94ODBra1R5ZHdyd0pmRU9hWWNaMnlpOEVjX1dXdVFFenl6Z2oyYlNEYm1uR0xNTGZWQlJXSWZVVVpxSWEzQ0NuZGE0VFVxOG4ydkw0b2tZLWpn%3Foc%3D5"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Texas Appeals Court rejects District court ruling on death row appeal",
+      "source": "KCENTV.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT3A1MW1uSVZ4c0duNmJwWmhJQ2pmMnZRX2FVUUg3TVRDYzB5bzhkV1BGalVqTHMtNHI2YzJUX253ZVVDWEhveHF0X3hEcDJvV2l2S0g1OHRTa0YxeWQ4NmNjX1p3RmtaeUJmNGRWSGFNX1ZaczB6bnlmUDBFWHZEUjRHSk01aUFfa3pCLW1OMjljanRfUHFCd1laeTZGZlBVT0xjNERITW55aXZpaTNGZTFmWUFXRWdFRUpHNnk1LTRNTTgtWmJSWTZuQXQwR2RYdzZYX0tjMXNYOTFXbktmSGVWa1k?oc=5",
+      "summary": "Texas Appeals Court rejects District court ruling on death row appeal KCENTV.com",
+      "area": "Rulings",
+      "county": "Statewide",
+      "region": "Statewide",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMi5AFBVV95cUxQT3A1MW1uSVZ4c0duNmJwWmhJQ2pmMnZRX2FVUUg3TVRDYzB5bzhkV1BGalVqTHMtNHI2YzJUX253ZVVDWEhveHF0X3hEcDJvV2l2S0g1OHRTa0YxeWQ4NmNjX1p3RmtaeUJmNGRWSGFNX1ZaczB6bnlmUDBFWHZEUjRHSk01aUFfa3pCLW1OMjljanRfUHFCd1laeTZGZlBVT0xjNERITW55aXZpaTNGZTFmWUFXRWdFRUpHNnk1LTRNTTgtWmJSWTZuQXQwR2RYdzZYX0tjMXNYOTFXbktmSGVWa1k%3Foc%3D5"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Travis County Judge Brown weighs in on Elon Musk’s Hyperloop idea",
+      "source": "KXAN Austin",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNemhOUzFkMEMwc3BvNDBPdGdoRVdoRjUtc0R1M0pfaFZpV0xfQXY5N0hQbFFMMjk1dHRVbk9lTi16QWtKSzVQTjE3aFJQeXRQU1p4Q28yVVQtQV9BejRkVFM0dmtGTmlac3dQWm1kYWszMlNEWGZsOTdqM1l2d1B3S2JiWnJiYldxOVpLSGVoNUNKLXNaNlBZWmkzRjM0V0tmeHM3OHNxckxYaVJ2RjAw?oc=5",
+      "summary": "Travis County Judge Brown weighs in on Elon Musk’s Hyperloop idea KXAN Austin",
+      "area": "Courts",
+      "county": "Travis",
+      "region": "Austin",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMirwFBVV95cUxNemhOUzFkMEMwc3BvNDBPdGdoRVdoRjUtc0R1M0pfaFZpV0xfQXY5N0hQbFFMMjk1dHRVbk9lTi16QWtKSzVQTjE3aFJQeXRQU1p4Q28yVVQtQV9BejRkVFM0dmtGTmlac3dQWm1kYWszMlNEWGZsOTdqM1l2d1B3S2JiWnJiYldxOVpLSGVoNUNKLXNaNlBZWmkzRjM0V0tmeHM3OHNxckxYaVJ2RjAw%3Foc%3D5"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Ellis County assistant district attorney and appellate specialist appointed to 10th Court of Appeals in Waco",
+      "source": "KWTX",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORXpUdmRJTDU2N2ZWZ2xBeXBBOTRNSC1TRDc3SnBsYlJVZFRzeVBnN3NDZ0wwSGhRV2ZBQVQ2TTBoaVRiYnlSNXdNQmhoQXd6NGtKMExzM0o5NGVFQlIxMmU5di1QVkRrZ3lLY3FLRTh5clVwNDlKeFNxWDlVSm5OdzVlR0Q0cnZCdWZ4U1NWMVpWdXVKbkgteFpqT284MGdtRlpVRDM5dVIySWVfTndvTDQ0ZTZxdk82dzRjY3hlR1RwMjBkSVIwVjZtM0hMMnI4RWgwODIya2I5MTjSAdsBQVVfeXFMTkV6VHZkSUw1NjdmVmdsQXlwQTk0TUgtU0Q3N0pwbGJSVWRUc3lQZzdzQ2dMMEhoUVdmQUFUNk0waGlUYmJ5UjV3TUJoaEF3ejRrSjBMczNKOTRlRUJSMTJlOXYtUFZEa2d5S2NxS0U4eXJVcDQ5SnhTcVg5VUpuTnc1ZUdENHJ2QnVmeFNTVjFaVnV1Sm5ILXhaak9vODBnbUZaVUQzOXVSMkllX053b0w0NGU2cXZPNnc0Y2N4ZUdUcDIwZElSMFY2bTNITDJyOEVoMDgyMmtiOTE4?oc=5",
+      "summary": "Ellis County assistant district attorney and appellate specialist appointed to 10th Court of Appeals in Waco KWTX",
+      "area": "Appellate",
+      "county": "Statewide",
+      "region": "Statewide",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMi2wFBVV95cUxORXpUdmRJTDU2N2ZWZ2xBeXBBOTRNSC1TRDc3SnBsYlJVZFRzeVBnN3NDZ0wwSGhRV2ZBQVQ2TTBoaVRiYnlSNXdNQmhoQXd6NGtKMExzM0o5NGVFQlIxMmU5di1QVkRrZ3lLY3FLRTh5clVwNDlKeFNxWDlVSm5OdzVlR0Q0cnZCdWZ4U1NWMVpWdXVKbkgteFpqT284MGdtRlpVRDM5dVIySWVfTndvTDQ0ZTZxdk82dzRjY3hlR1RwMjBkSVIwVjZtM0hMMnI4RWgwODIya2I5MTjSAdsBQVVfeXFMTkV6VHZkSUw1NjdmVmdsQXlwQTk0TUgtU0Q3N0pwbGJSVWRUc3lQZzdzQ2dMMEhoUVdmQUFUNk0waGlUYmJ5UjV3TUJoaEF3ejRrSjBMczNKOTRlRUJSMTJlOXYtUFZEa2d5S2NxS0U4eXJVcDQ5SnhTcVg5VUpuTnc1ZUdENHJ2QnVmeFNTVjFaVnV1Sm5ILXhaak9vODBnbUZaVUQzOXVSMkllX053b0w0NGU2cXZPNnc0Y2N4ZUdUcDIwZElSMFY2bTNITDJyOEVoMDgyMmtiOTE4%3Foc%3D5"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "UT-Austin didn’t violate student’s rights in handling of pro-Palestinian protest, judge rules",
+      "source": "The Texas Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYUdqaFE0WjFvQ05uT0VlTFlEeC1VS1hQbERZdXJPMEV2Q0xjOVF3VnRRam9LWkIwNWRfRFZQQlcwNkt0a25VeFRlV3VBWF81bWRmeWhFY29Ub2J5M1RzbHRZR3NCRm5IVXRoR1cxUXZDak9VQldDTWZCWGd4MFJVMzM3dUZpQVRh?oc=5",
+      "summary": "UT-Austin didn’t violate student’s rights in handling of pro-Palestinian protest, judge rules The Texas Tribune",
+      "area": "Courts",
+      "county": "Travis",
+      "region": "Austin",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiiAFBVV95cUxQYUdqaFE0WjFvQ05uT0VlTFlEeC1VS1hQbERZdXJPMEV2Q0xjOVF3VnRRam9LWkIwNWRfRFZQQlcwNkt0a25VeFRlV3VBWF81bWRmeWhFY29Ub2J5M1RzbHRZR3NCRm5IVXRoR1cxUXZDak9VQldDTWZCWGd4MFJVMzM3dUZpQVRh%3Foc%3D5"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Judge orders Texas prisons to install air conditioni­ng",
+      "source": "PressReader",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fTThPX0piWGZzVTJoV3dhMmVQaXZ4cVNienFaT19wX01Id0U5djF5Sm5DU0NTaThBVE5IRzZrSUhhTWJVWVdHem9VdXNTMkdFV1hicDIxdUxYQ2lfYU8wb3VTMGI3ekw1VXVpVlluT2h0Q2tuYmQyNGFPZFJscTQ?oc=5",
+      "summary": "Judge orders Texas prisons to install air conditioni­ng PressReader",
+      "area": "Courts",
+      "county": "Statewide",
+      "region": "Statewide",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMif0FVX3lxTE5fTThPX0piWGZzVTJoV3dhMmVQaXZ4cVNienFaT19wX01Id0U5djF5Sm5DU0NTaThBVE5IRzZrSUhhTWJVWVdHem9VdXNTMkdFV1hicDIxdUxYQ2lfYU8wb3VTMGI3ekw1VXVpVlluT2h0Q2tuYmQyNGFPZFJscTQ%3Foc%3D5"
     },
     {
       "date": "2026-09-23",
@@ -883,6 +967,20 @@
       "kind": "news",
       "quality": "Published reporting via public news wire",
       "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMipgFBVV95cUxPbmg2anZIX2FWbVhNazh6Q2h4aWdqYVlNdkRRbWxUYlhyR0NTclRUTW01NW1zOEp3UHlKeklJQVdhTkoyV1hHcXFRV1p6WUF5SE5IQkpQamNQOXdSbXRkVTdNOERBbHZfT2pNV1VrcjUySDdVS1owYm44bURQcEswVVlRWWx6MmpzTVBtM05YRjBKYW5iMEFpZEhIbmNIa0FhSENwSVdR%3Foc%3D5"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Tarrant County residents sue Judge Tim O'Hare over decorum policy",
+      "source": "nbcdfw.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVkpVaUNsLW9ZN3IyUEw3STBXbEd5cGVwaEhlLVZnajFZOVVPTWZybktFUWVOQzVRSzd5RXA3MFlteWQ4NTcxbXhqT3YzM3JDQXEyTHJmck9remJpR1F4Tjh2NXZIUE1lWW9rU1ZOTjMxSTVkRkpUbWNKLVVNWk9hMWt5eC1BN00yVm83REZiUm5SdHlySUtGRFFiQXFEWks5aVVKTGVtc0RVclHSAbMBQVVfeXFMUDhKbWNNWm9iZjNFcTFxNGVCbi1scWtOU3pzbmNUc0c3TTU3elhaMUZmY01McUQ5NVE1eHlFN0JJLU5ud0dRb0ttcUlCLUtIMVdMajNNajNkX2lGem8yaDMyWVJuUEw4cGVlQ3ZlQl9TXzIxUE5YOTRKaDU0R251SzJlQkVjTlAta2ZDMXQtdEt5UHJrY3RrRXI3bC0tTkNqWU15TmRhRVV6alRJc3J1alRpVWs?oc=5",
+      "summary": "Tarrant County residents sue Judge Tim O'Hare over decorum policy nbcdfw.com",
+      "area": "Courts",
+      "county": "Tarrant",
+      "region": "DFW",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiqwFBVV95cUxQVkpVaUNsLW9ZN3IyUEw3STBXbEd5cGVwaEhlLVZnajFZOVVPTWZybktFUWVOQzVRSzd5RXA3MFlteWQ4NTcxbXhqT3YzM3JDQXEyTHJmck9remJpR1F4Tjh2NXZIUE1lWW9rU1ZOTjMxSTVkRkpUbWNKLVVNWk9hMWt5eC1BN00yVm83REZiUm5SdHlySUtGRFFiQXFEWks5aVVKTGVtc0RVclHSAbMBQVVfeXFMUDhKbWNNWm9iZjNFcTFxNGVCbi1scWtOU3pzbmNUc0c3TTU3elhaMUZmY01McUQ5NVE1eHlFN0JJLU5ud0dRb0ttcUlCLUtIMVdMajNNajNkX2lGem8yaDMyWVJuUEw4cGVlQ3ZlQl9TXzIxUE5YOTRKaDU0R251SzJlQkVjTlAta2ZDMXQtdEt5UHJrY3RrRXI3bC0tTkNqWU15TmRhRVV6alRJc3J1alRpVWs%3Foc%3D5"
     },
     {
       "date": "2026-09-22",
