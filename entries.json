@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25",
+  "updated": "2026-09-26",
   "note": "Newest first. Durable catalog in archive/captures.jsonl. archive_url points at Wayback.",
   "items": [
     {
@@ -211,6 +211,48 @@
       "kind": "news",
       "quality": "Published reporting via public news wire",
       "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMirgFBVV95cUxQTnRMT3BjcUZ3dVdhTkM1MTBxZUFsdmZrM1dlaG05WjlKV3hwR09pSk82dEF6dGtCZG9FVVhXbDhkT08tSEl4SlZwMi0zQ1Y5MHNra0hudVdEWDJZSm9TS0JCN0lmeE9TM3Zpb2JkNFdyRW4wSENyX19fYVBodkx5V0JtcEZBY0dDdEdvaWk4WEVWbVpQb0U1dHR1Z1JaYVM2ODU4dTctUGNDdjFQUGc%3Foc%3D5"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Bexar County judge responds after San Antonio attorney’s viral courtroom attire post",
+      "source": "kens5.com",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOSmI5bjYzdllpZ1BXd2lqQkw0WUNBM05nWnBpcy1PSUhXN0pvZ0hxenByWHhJdmdvNl9CVDI0XzNSQkkxU2JkOF9FWnRXUVlZaVczOFdpNmxGTFBhTVQ5RlVmRy1tMGhITXNjNE5NOU14OGhDR3BqOFNFZXN1VndBOVowV0NnU1NMVVZpTXdUMVZCQk5fbEZiVW9UbjRzaUxTazR5Z0dEY0theFREeUxaNHRmV1hPaTNWbEhmZG9VX19fekJHeW0zRTdkTzBaX01oVldLZlhoaWpYTWl1ZWlVMXRDd2FaOXdfZVNzTU1rYlp3S2ZDQUpPcWRLeHJwdm1pWFdCOFNKVVMzaXZyZnZrbW1MYXJieEZWZGpfSDMyblBnZjJ1WHRoblVtMjVIbjRDallBSkxmeURaaUNGVnRUOGMtRHJDcUJlS1E?oc=5",
+      "summary": "Bexar County judge responds after San Antonio attorney’s viral courtroom attire post kens5.com",
+      "area": "Courts",
+      "county": "Bexar",
+      "region": "San Antonio",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiygJBVV95cUxOSmI5bjYzdllpZ1BXd2lqQkw0WUNBM05nWnBpcy1PSUhXN0pvZ0hxenByWHhJdmdvNl9CVDI0XzNSQkkxU2JkOF9FWnRXUVlZaVczOFdpNmxGTFBhTVQ5RlVmRy1tMGhITXNjNE5NOU14OGhDR3BqOFNFZXN1VndBOVowV0NnU1NMVVZpTXdUMVZCQk5fbEZiVW9UbjRzaUxTazR5Z0dEY0theFREeUxaNHRmV1hPaTNWbEhmZG9VX19fekJHeW0zRTdkTzBaX01oVldLZlhoaWpYTWl1ZWlVMXRDd2FaOXdfZVNzTU1rYlp3S2ZDQUpPcWRLeHJwdm1pWFdCOFNKVVMzaXZyZnZrbW1MYXJieEZWZGpfSDMyblBnZjJ1WHRoblVtMjVIbjRDallBSkxmeURaaUNGVnRUOGMtRHJDcUJlS1E%3Foc%3D5"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Supreme Court rejects a Trump-backed Missouri congressional map for the third time",
+      "source": "Houston Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcEN6RjE3ZUd6a19fV1BSNVFWbDh4RDhPQUVMUVpmX0p5NmROTG9yLUh1XzB2U19OSDI0TUFrR3kzQTB0YXRVZkczZGgzd3pVSUdrZmdRTGtCM25JeXVEcWF1ZGFZX1BUUEFGOFJrM1pSZ0RMZXIxX3Zkbll4bXdvMmxMeHdpUVpmdkg4T1k0X2xibjdrSFlaOVE4elItQjl4X2pEbGFpWDFicEdkZkZYZjNkaw?oc=5",
+      "summary": "Supreme Court rejects a Trump-backed Missouri congressional map for the third time Houston Chronicle",
+      "area": "Appellate",
+      "county": "Harris",
+      "region": "Houston",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiswFBVV95cUxPcEN6RjE3ZUd6a19fV1BSNVFWbDh4RDhPQUVMUVpmX0p5NmROTG9yLUh1XzB2U19OSDI0TUFrR3kzQTB0YXRVZkczZGgzd3pVSUdrZmdRTGtCM25JeXVEcWF1ZGFZX1BUUEFGOFJrM1pSZ0RMZXIxX3Zkbll4bXdvMmxMeHdpUVpmdkg4T1k0X2xibjdrSFlaOVE4elItQjl4X2pEbGFpWDFicEdkZkZYZjNkaw%3Foc%3D5"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Supreme Court rejects a Trump-backed Missouri congressional map for the third time - San Antonio Express-News",
+      "source": "San Antonio Express-News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbklHX3dlVGpaQ29jTVh0NUE1R1ZpOGJGLU9PUWV6N0g0QVRiOUY1UFlYeUxIUVNpVmVFQWpyV0E4WktISDdJOEdGa0FjT3owMkZqNE9KSG5JMjRkYWRrblFRUDYyLTVMUlhIeEpyVGlsOWtrVWdzM3dSc3ZlbXQ0b0V2QTdicHFiMjNLcDhQNzZQcndBZE13OVdZRnQxM2Q5OXBZczl0QmdzXzVW?oc=5",
+      "summary": "Supreme Court rejects a Trump-backed Missouri congressional map for the third time San Antonio Express-News",
+      "area": "Appellate",
+      "county": "Bexar",
+      "region": "San Antonio",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMirAFBVV95cUxQbklHX3dlVGpaQ29jTVh0NUE1R1ZpOGJGLU9PUWV6N0g0QVRiOUY1UFlYeUxIUVNpVmVFQWpyV0E4WktISDdJOEdGa0FjT3owMkZqNE9KSG5JMjRkYWRrblFRUDYyLTVMUlhIeEpyVGlsOWtrVWdzM3dSc3ZlbXQ0b0V2QTdicHFiMjNLcDhQNzZQcndBZE13OVdZRnQxM2Q5OXBZczl0QmdzXzVW%3Foc%3D5"
     },
     {
       "date": "2026-09-24",
@@ -701,6 +743,20 @@
       "kind": "news",
       "quality": "Published reporting via public news wire",
       "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiogFBVV95cUxQdm9RTGtIbTVxcXJITEF5VlFYMl9aNWU5T1RIRHp5ZjUycHZXSHlsd3RWZlplU1k0SXpIWGdhVDEwbEZHMEFvTjlOTzVxMGhYZ1BQdDVpRnd4cFRKRlY2OFFXUDRlS3ZEdXRCLVJ5WnNHV3hqMkhYRFkwQXFMd2RLenBLNmlLNkx3MmE2VHVuTENXeHl3MmFfMEE3QkhTcDRxSlE%3Foc%3D5"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "3 US news outlets return to White House after judge orders Trump to lift ban",
+      "source": "Dallas News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY292S29HQy1ObUtMS3ZXR2h6MVZ3d2xmYVl4OWpEWUJacDZaMXlualNFSUZlLVR2aE03WVAyY2JhckxfWW1PY01VNlJuUWlxeXRXNW9EX25kSFJsakVHTS1uMS1nSkhvZlQwM1lfQTRaWDc3QmFJUHFKVzdhanotRXRQcERGSU1uTVhTb0paUEdzeUxka2RFcktFZmtmVU0zLXZHZzVtOUE5Wk0?oc=5",
+      "summary": "3 US news outlets return to White House after judge orders Trump to lift ban Dallas News",
+      "area": "Courts",
+      "county": "Dallas",
+      "region": "DFW",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiqwFBVV95cUxOY292S29HQy1ObUtMS3ZXR2h6MVZ3d2xmYVl4OWpEWUJacDZaMXlualNFSUZlLVR2aE03WVAyY2JhckxfWW1PY01VNlJuUWlxeXRXNW9EX25kSFJsakVHTS1uMS1nSkhvZlQwM1lfQTRaWDc3QmFJUHFKVzdhanotRXRQcERGSU1uTVhTb0paUEdzeUxka2RFcktFZmtmVU0zLXZHZzVtOUE5Wk0%3Foc%3D5"
     },
     {
       "date": "2026-09-23",
