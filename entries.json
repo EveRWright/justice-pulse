@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-01",
+  "updated": "2026-10-02",
   "note": "Newest first. Durable catalog in archive/captures.jsonl. archive_url points at Wayback.",
   "items": [
+    {
+      "date": "2026-10-02",
+      "title": "Harris County judge candidates discuss property taxes, Flock cameras and public safety ahead of November election",
+      "source": "KHOU",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMENUSW9MeGhpWjZuRzdfbFpQMDFjRi1EX3lrRWxYeVFLbkNST2M2eUNacHFxLTEtY20tTU04dWlFQUFFQmE2b0IxV0tnTDE1X3JaZ0FHNktZS1RDOEdaYUtFVllpQ0xRV2s1UzRMNE56ZjdnTlFmUGhpZU5DYW96Rk9mbUFqaUZqNjlTcHotekpmSGN2ZWlhdU42UFhnSTNlUERQa0xuX0dQaUNYX2U5bGlyRFBqQnFwOElaMTdTMnlqc0VGak1KdkhfYlgyVFFM?oc=5",
+      "summary": "Harris County judge candidates discuss property taxes, Flock cameras and public safety ahead of November election KHOU",
+      "area": "Elections",
+      "county": "Harris",
+      "region": "Houston",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMi0AFBVV95cUxPMENUSW9MeGhpWjZuRzdfbFpQMDFjRi1EX3lrRWxYeVFLbkNST2M2eUNacHFxLTEtY20tTU04dWlFQUFFQmE2b0IxV0tnTDE1X3JaZ0FHNktZS1RDOEdaYUtFVllpQ0xRV2s1UzRMNE56ZjdnTlFmUGhpZU5DYW96Rk9mbUFqaUZqNjlTcHotekpmSGN2ZWlhdU42UFhnSTNlUERQa0xuX0dQaUNYX2U5bGlyRFBqQnFwOElaMTdTMnlqc0VGak1KdkhfYlgyVFFM%3Foc%3D5"
+    },
     {
       "date": "2026-10-01",
       "title": "Judge keeps Venezuelan delivery driver shot by ICE in Texas in custody for alleged assault",
@@ -267,6 +281,48 @@
       "kind": "news",
       "quality": "Published reporting via public news wire",
       "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMirAFBVV95cUxOY2k0Rk9SdU5RSE1tekxCeGZwSk56Rk5kUmVYQTh6U1ZoRHlGWTIzQ3c2X1BTaEFTZE1hTzFwZ2dIY29fUkhNTUJGR3c4cDk2VXhkRkswNVNXek5RY2pjUHZIYmM5TEJVNDVpZFhCbmlwSkI1djhPMEY5MjFDTHdwSXlVeDY0QWY0TGpTVk11aGVVZlVzR3EzU0VaVFhGNU5rTnJlNGtwQkVTWl9x%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Judge rules Galveston ISD has 10 days to display Ten Commandments in classrooms",
+      "source": "Houston Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcDdPdFlDYkxGaU42dXpyVVByRkVjMk9QMDdXSnN6MTRfaFZGSzdnZ2c2cVVIZkE5d0xFYnJHc211SW5raHlRamlTZl9xT3lZbThreklSeVZUR3NIam1LdU81OUdNUmZ1WVIzcU5zVU03ZWE3QXFhbEJlWEs2eUZGVUE0ZGVuQzYxdmI0d28xTEM4RENTQ1hHUVg5b21XMmdzS3ZlNXp2VjB4bG9Hb1EtREJOblM3YUhCVXRn?oc=5",
+      "summary": "Judge rules Galveston ISD has 10 days to display Ten Commandments in classrooms Houston Chronicle",
+      "area": "Courts",
+      "county": "Galveston",
+      "region": "Houston",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiuwFBVV95cUxOcDdPdFlDYkxGaU42dXpyVVByRkVjMk9QMDdXSnN6MTRfaFZGSzdnZ2c2cVVIZkE5d0xFYnJHc211SW5raHlRamlTZl9xT3lZbThreklSeVZUR3NIam1LdU81OUdNUmZ1WVIzcU5zVU03ZWE3QXFhbEJlWEs2eUZGVUE0ZGVuQzYxdmI0d28xTEM4RENTQ1hHUVg5b21XMmdzS3ZlNXp2VjB4bG9Hb1EtREJOblM3YUhCVXRn%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Middle schooler accused of stabbing classmate to remain in custody, judge orders - San Antonio Express-News",
+      "source": "San Antonio Express-News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONkc4cTh0RXd6NnZ5dmZxNFY4azBhQ1FzZEpHcUxnWHQtTFE2U000YktzR1RRckhWZzk2b2M3Z1ltb0RyQjRfczBmLU5BelViRGJmc3FiQ2RaUXJ5bW9mdzlvbVRyTXU2NW55RUY2OHNyNXBveGlWMFlfMUNsMXMtUC13c3BrY2pJVHVTd3dzaXB6dw?oc=5",
+      "summary": "Middle schooler accused of stabbing classmate to remain in custody, judge orders San Antonio Express-News",
+      "area": "Family",
+      "county": "Bexar",
+      "region": "San Antonio",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMikgFBVV95cUxONkc4cTh0RXd6NnZ5dmZxNFY4azBhQ1FzZEpHcUxnWHQtTFE2U000YktzR1RRckhWZzk2b2M3Z1ltb0RyQjRfczBmLU5BelViRGJmc3FiQ2RaUXJ5bW9mdzlvbVRyTXU2NW55RUY2OHNyNXBveGlWMFlfMUNsMXMtUC13c3BrY2pJVHVTd3dzaXB6dw%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Galveston ISD Must Post Ten Commandments in 10 Days, Judge Orders",
+      "source": "hoodline.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRWlXZzF3cHRLOU5IdmpUMXBxN0RseVV2dHU5XzQ0WmFZVE1QcDM5SDQtU1VEQmhybHhQTlZibjNVVWVxUkFtWm9wWUhDVW5UWVlqRjMyMVdsV09wX2NaTDUzU3BnNjJudkk4U09FRFUwdlh4bmxuRHBZb1lsdEhKbU5vV1R5Tk9HTGY0c0tiZ0twdVVwdjNRTDlB?oc=5",
+      "summary": "Galveston ISD Must Post Ten Commandments in 10 Days, Judge Orders hoodline.com",
+      "area": "Courts",
+      "county": "Galveston",
+      "region": "Houston",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMimgFBVV95cUxNRWlXZzF3cHRLOU5IdmpUMXBxN0RseVV2dHU5XzQ0WmFZVE1QcDM5SDQtU1VEQmhybHhQTlZibjNVVWVxUkFtWm9wWUhDVW5UWVlqRjMyMVdsV09wX2NaTDUzU3BnNjJudkk4U09FRFUwdlh4bmxuRHBZb1lsdEhKbU5vV1R5Tk9HTGY0c0tiZ0twdVVwdjNRTDlB%3Foc%3D5"
     },
     {
       "date": "2026-09-30",
