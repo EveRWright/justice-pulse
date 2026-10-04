@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03",
+  "updated": "2026-10-04",
   "note": "Newest first. Durable catalog in archive/captures.jsonl. archive_url points at Wayback.",
   "items": [
     {
@@ -463,6 +463,20 @@
       "kind": "news",
       "quality": "Published reporting via public news wire",
       "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMi0AFBVV95cUxPMENUSW9MeGhpWjZuRzdfbFpQMDFjRi1EX3lrRWxYeVFLbkNST2M2eUNacHFxLTEtY20tTU04dWlFQUFFQmE2b0IxV0tnTDE1X3JaZ0FHNktZS1RDOEdaYUtFVllpQ0xRV2s1UzRMNE56ZjdnTlFmUGhpZU5DYW96Rk9mbUFqaUZqNjlTcHotekpmSGN2ZWlhdU42UFhnSTNlUERQa0xuX0dQaUNYX2U5bGlyRFBqQnFwOElaMTdTMnlqc0VGak1KdkhfYlgyVFFM%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "2026 Texas 15th Court of Appeals election guide",
+      "source": "The Texas Tribune",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSjIzZ2o3NTFlRFdkVVBPSmZJemFjV0dMRW1VcUNiM2tuMkJyeF9EZFFWU0dxZzZ4ZWNSb0JLb1dnRlpXWjNDb2RWM01EMTJGVDJXNVFSZUV4WHZ1ZEs4blpGLWJHUXdzVFJDYXdhY1Z2ZmM1YzhWNFJQSXZMbDVPMEktUEJRcTZjUVVSN2xBZzJEeHc?oc=5",
+      "summary": "2026 Texas 15th Court of Appeals election guide The Texas Tribune",
+      "area": "Elections",
+      "county": "Statewide",
+      "region": "Statewide",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMikwFBVV95cUxPSjIzZ2o3NTFlRFdkVVBPSmZJemFjV0dMRW1VcUNiM2tuMkJyeF9EZFFWU0dxZzZ4ZWNSb0JLb1dnRlpXWjNDb2RWM01EMTJGVDJXNVFSZUV4WHZ1ZEs4blpGLWJHUXdzVFJDYXdhY1Z2ZmM1YzhWNFJQSXZMbDVPMEktUEJRcTZjUVVSN2xBZzJEeHc%3Foc%3D5"
     },
     {
       "date": "2026-10-01",
