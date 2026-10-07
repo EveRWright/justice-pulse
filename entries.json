@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "note": "Newest first. Durable catalog in archive/captures.jsonl. archive_url points at Wayback.",
   "items": [
     {
@@ -155,6 +155,48 @@
       "kind": "news",
       "quality": "Published reporting via public news wire",
       "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiugFBVV95cUxOZEJieHZyN3g3YUd5NHpJVEctNlVmNExpWEJrY1F1NFBzYjhaSDhUZm5rTzctMXU1bk1CelBpa0ZQdlNyNlhlZjdmTEdjeXBUVFlYWE1OT2xCbVlvaWJlaVNCRVJOT2FhWmdLRXpxbVpuVXBKVXgtTEg3R01ZQU5QaEJzV3JEQ1dzWnphRWd2bk5ySl85QklFMDFhTWp2SHVPd3JJLXZYRkJtdWExam9VNDgzbkhzS3ZucFE%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "Federal judge rules against Klein ISD",
+      "source": "FOX 26 Houston",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ0RETDhTVE55YWZtOXowbnJqUWtBMlJGbnpfV2RqeVVsdktpVjNoOTEwcE1PRTZCWldaeXQ4NXBxSUt3STktMnJEWk1oRWpRWVFRRHgxNlBTdm1pM0pWUnZra2xvaEtKX19ORUQyLWo0Q0x4VGNuRUYyNFl3UHBna253WC1FeDBQVzJ2dEZkYXZkOER0QmtKbmxDNi1kMDRFRFVOWlFwTjAxQ2NYeTljZlNmS1RmaXZVYXZjSGNnTDLSAcYBQVVfeXFMT2UyUnlsNjNNaTgwYUNMcm9OV2dXd1ZpNTM4RzFhRms0UkFvMTkzU0YxNS15YWNBNXR0RncwVXZWN0I3RFpnb1RNbmtTOTZ4NEsta0dOcVQ5a29YLVp5Y0YyYk1qWnpWMExiWXRNS0hzMFY0Q1F6UWVLMUx6NjlrYS0ybzY3OWNwTjF1VmlmZGVYM3VidEQ2VHI5T09OWUIyNV9VZWExY3FaZzBOVlliM25XcW4wNEVQUklWaHE5VXFETUNqc2Jn?oc=5",
+      "summary": "Federal judge rules against Klein ISD FOX 26 Houston",
+      "area": "Courts",
+      "county": "Harris",
+      "region": "Houston",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiwAFBVV95cUxNQ0RETDhTVE55YWZtOXowbnJqUWtBMlJGbnpfV2RqeVVsdktpVjNoOTEwcE1PRTZCWldaeXQ4NXBxSUt3STktMnJEWk1oRWpRWVFRRHgxNlBTdm1pM0pWUnZra2xvaEtKX19ORUQyLWo0Q0x4VGNuRUYyNFl3UHBna253WC1FeDBQVzJ2dEZkYXZkOER0QmtKbmxDNi1kMDRFRFVOWlFwTjAxQ2NYeTljZlNmS1RmaXZVYXZjSGNnTDLSAcYBQVVfeXFMT2UyUnlsNjNNaTgwYUNMcm9OV2dXd1ZpNTM4RzFhRms0UkFvMTkzU0YxNS15YWNBNXR0RncwVXZWN0I3RFpnb1RNbmtTOTZ4NEsta0dOcVQ5a29YLVp5Y0YyYk1qWnpWMExiWXRNS0hzMFY0Q1F6UWVLMUx6NjlrYS0ybzY3OWNwTjF1VmlmZGVYM3VidEQ2VHI5T09OWUIyNV9VZWExY3FaZzBOVlliM25XcW4wNEVQUklWaHE5VXFETUNqc2Jn%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "Von Dohlen vs. Nirenberg: Bexar County judge race puts jail, spending and growth in focus",
+      "source": "Texas Public Radio | TPR",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQM0RUOHRvQ3RXelhISVhtRWoyNHBXR2k2TXlFb0dQVzV5U2xkWUg4T3YtcTh0VlRYcDZPYVNIeTUzazVtWVZJVW50djRTaEdTNzBHZHQwRy1UZFVRbEozOXlhS3BjQURvaG5BUFJYckNPWFhWTVY4SjRRT1NSSEJxWjFOekxXdGN3WVdrUDgzRGJvM3Q3TkdoQ1FmaVJmR0w0ZEZYUzBBc1N6T3g1ZW5Na0l0MUZRcVE3VVV1WEc5WFh2a0pKeXhHZUM4VVdTSWY4YVE?oc=5",
+      "summary": "Von Dohlen vs. Nirenberg: Bexar County judge race puts jail, spending and growth in focus Texas Public Radio | TPR",
+      "area": "Courts",
+      "county": "Bexar",
+      "region": "San Antonio",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMi0gFBVV95cUxQM0RUOHRvQ3RXelhISVhtRWoyNHBXR2k2TXlFb0dQVzV5U2xkWUg4T3YtcTh0VlRYcDZPYVNIeTUzazVtWVZJVW50djRTaEdTNzBHZHQwRy1UZFVRbEozOXlhS3BjQURvaG5BUFJYckNPWFhWTVY4SjRRT1NSSEJxWjFOekxXdGN3WVdrUDgzRGJvM3Q3TkdoQ1FmaVJmR0w0ZEZYUzBBc1N6T3g1ZW5Na0l0MUZRcVE3VVV1WEc5WFh2a0pKeXhHZUM4VVdTSWY4YVE%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "A Henrico Juvenile Court judge found Laressa Jefferson, former director of KinderCare on Cedar Fork Road, guilty on one of two counts of failing to report suspected child abuse, is",
+      "source": "Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hcGUtd0t0QzhxYmpZQkFWX1lYdG5hUDBrOVVkLXY4cmdJMUVHdEw0UUoyaTkxMVRFMUNHN3NDdXBrTXZ5NTU1dXIzSWJIUzVYcFE?oc=5",
+      "summary": "A Henrico Juvenile Court judge found Laressa Jefferson, former director of KinderCare on Cedar Fork Road, guilty on one of two counts of failing to report suspected child abuse, issuing a split ruling Monday. Jefferson was fined $500 as required by state law. Instagram",
+      "area": "Rulings",
+      "county": "Jefferson",
+      "region": "Houston / Gulf",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiUkFVX3lxTE1hcGUtd0t0QzhxYmpZQkFWX1lYdG5hUDBrOVVkLXY4cmdJMUVHdEw0UUoyaTkxMVRFMUNHN3NDdXBrTXZ5NTU1dXIzSWJIUzVYcFE%3Foc%3D5"
     },
     {
       "date": "2026-10-05",
