@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10",
+  "updated": "2026-10-11",
   "note": "Newest first. Durable catalog in archive/captures.jsonl. archive_url points at Wayback.",
   "items": [
     {
@@ -43,6 +43,20 @@
       "kind": "news",
       "quality": "Published reporting via public news wire",
       "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMi0AFBVV95cUxQcVZReWR0V2xXRFZtS2xWQ1AtNkJGX2RocUJhLVVBbnNUbHRDaFpUZm1JZFFKSGE0TEtVYzhwMDZFVkl0cUxGbDlkaXN6dUs4Vk1PQlNQVTMtTG8yZ1pzaV9ZREdBb2JKTzNLcUFiYmpsWFoyNnpQc2M2bzk3WV9FMmhwcE0xaTVYYTBJWFpPNnJ3ek9vWkNYYVpIYTNXLUlYOVBYLXE3VENMbXBOMC1kNm9Za0laeEVMN0V2bnE3ZUtuV01tT3htalRBVy1aMmRq%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Bankruptcy judge greenlights lawsuits against Camp Mystic - San Antonio Express-News",
+      "source": "San Antonio Express-News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb24tbDFrUXJxSU4zTjg3Sk9KNTVIM2RWcmN3OW1jREtLN2RUZWNBUWRnWWRYa3N3NGRneXprMWo3cDJwdFNzYktybXBGYWtGZ2tHRzlnT2xIakpiM1JhcHVqWlZtLVRKX3ZOak9LcGdrQzY0cE1URGRlSk5Tc1Blc1FUVWtibHZoQkJ6MG9aelBRTGlTVVVuZVFKVEs?oc=5",
+      "summary": "Bankruptcy judge greenlights lawsuits against Camp Mystic San Antonio Express-News",
+      "area": "Courts",
+      "county": "Bexar",
+      "region": "San Antonio",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMinAFBVV95cUxPb24tbDFrUXJxSU4zTjg3Sk9KNTVIM2RWcmN3OW1jREtLN2RUZWNBUWRnWWRYa3N3NGRneXprMWo3cDJwdFNzYktybXBGYWtGZ2tHRzlnT2xIakpiM1JhcHVqWlZtLVRKX3ZOak9LcGdrQzY0cE1URGRlSk5Tc1Blc1FUVWtibHZoQkJ6MG9aelBRTGlTVVVuZVFKVEs%3Foc%3D5"
     },
     {
       "date": "2026-10-09",
