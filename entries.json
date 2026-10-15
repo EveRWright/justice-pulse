@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14",
+  "updated": "2026-10-15",
   "note": "Newest first. Durable catalog in archive/captures.jsonl. archive_url points at Wayback.",
   "items": [
     {
@@ -309,6 +309,62 @@
       "kind": "news",
       "quality": "Published reporting via public news wire",
       "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMinAFBVV95cUxONGN6N21lSlN5MVBrQXY3OV91LVBJa3N3T092Rm5TVEdmWHZZc2MwekpNaFRSelNiYWtYc0RXazVzQ2l4Smd2cDU2WWc0U25TcWVYMDkzUzQ5OFlKdmlHSXA4aG05ZUI3eThnd0ZmRkRJR3BFSmNZZWFfVnF6aFEwVnhVQlhkelUzdHNyU2NOOWZ1UUpic1lrSUxvaEs%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Peter Sakai makes final appearance as Bexar Co. Judge during his last State of the County",
+      "source": "KSAT",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYWtOc0FLdHZhYmhSYkdLSVZkVTZuLVdBclpORUhNbU5oeWdYc0VpN1Jzdmp0RVI1dVRac09kVk41VUo5ZFA1cDFuUFJKNWxMYTJ6dVBLakE0bGtjd0dYMDBSUWtZdkwtQlBNOUFuYnhhTk1VX05aRi1FMTZpTDRYT2cyWnhRdUpkdlFZblRTemZQSlJDbXdGc1F2d2x2ZWdLZmFUa2t3US11cnVGbVhaNVVkNlBVd1hySWpZRk5EV2ZGak5MNTlKNDgzUTAyck1KRXh5M04zSQ?oc=5",
+      "summary": "Peter Sakai makes final appearance as Bexar Co. Judge during his last State of the County KSAT",
+      "area": "Courts",
+      "county": "Bexar",
+      "region": "San Antonio",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMi1wFBVV95cUxOYWtOc0FLdHZhYmhSYkdLSVZkVTZuLVdBclpORUhNbU5oeWdYc0VpN1Jzdmp0RVI1dVRac09kVk41VUo5ZFA1cDFuUFJKNWxMYTJ6dVBLakE0bGtjd0dYMDBSUWtZdkwtQlBNOUFuYnhhTk1VX05aRi1FMTZpTDRYT2cyWnhRdUpkdlFZblRTemZQSlJDbXdGc1F2d2x2ZWdLZmFUa2t3US11cnVGbVhaNVVkNlBVd1hySWpZRk5EV2ZGak5MNTlKNDgzUTAyck1KRXh5M04zSQ%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "State Supreme Court: Dallas Rice should be allowed to change plea, be considered for bond - KFYR-TV",
+      "source": "KFYR-TV",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQlR6RlhLeHZIZDVvazlrV0N6YktwWnhmWFREa3FxWENwWXdRYmhUcC1JUE0yamlfVzJHaUJWaUt0M25qWjJCXzZBZnlsNWtxWThPNDVvU0VpN0lGdGIxRGo4UkZYSjV1WVM1SXRPeVVOT0VJVHo1V0RJNW1XSTY1VmJzN3F1OU1tWjFETTFHYmJwT2hKbWZoYUh0TTNTbzBvWTZYS3FKbXNROEY3M2NIR0FlNkJDRHN5MldRX0ttTUhOSDFoM3dsbklB0gHKAUFVX3lxTFBCVHpGWEt4dkhkNW9rOWtXQ3piS3BaeGZYVERrcXFYQ3BZd1FiaFRwLUlQTTJqaV9XMkdpQlZpS3QzbmpaMkJfNkFmeWw1a3FZOE80NW9TRWk3SUZ0YjFEajhSRlhKNXVZUzVJdE95VU5PRUlUejVXREk1bVdJNjVWYnM3cXU5TW1aMURNMUdiYnBPaEptZmhhSHRNM1NvMG9ZNlhLcUptc1E4RjczY0hHQWU2QkNEc3kyV1FfS21NSE5IMWgzd2xuSUE?oc=5",
+      "summary": "State Supreme Court: Dallas Rice should be allowed to change plea, be considered for bond KFYR-TV",
+      "area": "Appellate",
+      "county": "Dallas",
+      "region": "DFW",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiygFBVV95cUxQQlR6RlhLeHZIZDVvazlrV0N6YktwWnhmWFREa3FxWENwWXdRYmhUcC1JUE0yamlfVzJHaUJWaUt0M25qWjJCXzZBZnlsNWtxWThPNDVvU0VpN0lGdGIxRGo4UkZYSjV1WVM1SXRPeVVOT0VJVHo1V0RJNW1XSTY1VmJzN3F1OU1tWjFETTFHYmJwT2hKbWZoYUh0TTNTbzBvWTZYS3FKbXNROEY3M2NIR0FlNkJDRHN5MldRX0ttTUhOSDFoM3dsbklB0gHKAUFVX3lxTFBCVHpGWEt4dkhkNW9rOWtXQ3piS3BaeGZYVERrcXFYQ3BZd1FiaFRwLUlQTTJqaV9XMkdpQlZpS3QzbmpaMkJfNkFmeWw1a3FZOE80NW9TRWk3SUZ0YjFEajhSRlhKNXVZUzVJdE95VU5PRUlUejVXREk1bVdJNjVWYnM3cXU5TW1aMURNMUdiYnBPaEptZmhhSHRNM1NvMG9ZNlhLcUptc1E4RjczY0hHQWU2QkNEc3kyV1FfS21NSE5IMWgzd2xuSUE%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Tarrant County judge vows to keep prioritizing public safety, lowering taxes",
+      "source": "Fort Worth Report",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObUt5VU1pb0lHeS00eWxmYVhOUkl4ZUkyUU1MTWJLVy05ZGFEQW1WOEY3SzdLYTlYNnZtZ1BIOG05MEI2Ym9RUVdrLTBWT3piQS02YTNnZ0hFcF9rZnBBb2hDY0ZLcEhGejRVOUZmT0RyV1h2Q005SlI1U01zaXZzWkFkSkFESVBrV2lJRDVTSnVqSWkzampHc0lKb0tsUG9weGprbzlCaHpMNWVzMXV2ME9Od2UxQQ?oc=5",
+      "summary": "Tarrant County judge vows to keep prioritizing public safety, lowering taxes Fort Worth Report",
+      "area": "Courts",
+      "county": "Tarrant",
+      "region": "DFW",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMitgFBVV95cUxObUt5VU1pb0lHeS00eWxmYVhOUkl4ZUkyUU1MTWJLVy05ZGFEQW1WOEY3SzdLYTlYNnZtZ1BIOG05MEI2Ym9RUVdrLTBWT3piQS02YTNnZ0hFcF9rZnBBb2hDY0ZLcEhGejRVOUZmT0RyV1h2Q005SlI1U01zaXZzWkFkSkFESVBrV2lJRDVTSnVqSWkzampHc0lKb0tsUG9weGprbzlCaHpMNWVzMXV2ME9Od2UxQQ%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Mexican judge closes the case against immigration chief Francisco Garduño over 2023 Juarez fire",
+      "source": "Houston Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN2UtSXVqUGx5ZWVuNThOQW9wZDFLdzVGT203dlpKQ1U1Skd0bHJxSzVpTUtuWFVvNUpCTFRncnB4SnV6MmRlaEo1SmtyMnJnOVhJVG1oT2UxQTF2ejVFdm92RHlKTUxEbDlhYUllOHA4ajJTODYtRVZCc0UyQ0FyeHBsMlZTUTJaOVpwUU51X25aTEZ4eVM4WmYtYU5WdnVCNmZ1OUowRUY2Mmx3R2p1Uy1BekY?oc=5",
+      "summary": "Mexican judge closes the case against immigration chief Francisco Garduño over 2023 Juarez fire Houston Chronicle",
+      "area": "Courts",
+      "county": "Harris",
+      "region": "Houston",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMitAFBVV95cUxNN2UtSXVqUGx5ZWVuNThOQW9wZDFLdzVGT203dlpKQ1U1Skd0bHJxSzVpTUtuWFVvNUpCTFRncnB4SnV6MmRlaEo1SmtyMnJnOVhJVG1oT2UxQTF2ejVFdm92RHlKTUxEbDlhYUllOHA4ajJTODYtRVZCc0UyQ0FyeHBsMlZTUTJaOVpwUU51X25aTEZ4eVM4WmYtYU5WdnVCNmZ1OUowRUY2Mmx3R2p1Uy1BekY%3Foc%3D5"
     },
     {
       "date": "2026-10-13",
@@ -715,6 +771,20 @@
       "kind": "news",
       "quality": "Published reporting via public news wire",
       "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiggFBVV95cUxQU0QwektzQXJQV3AyNVdiclFnbTYySV8zQWtVZEhCem9zcGMtRE93Y2o2dVAtYi0zbzZJSm5lOU95V0VTSnllWEF5cDV4TTlJY2VpNHJjTXV6RDVhU0g4NUpmMmhKeUQzV1d2WFB6TlJyQ2p2RUZCR3gxRFdxUnAwLVJ30gGCAUFVX3lxTE1iTjNBMzduS0RUMnhpNG9kSFF5RXFLaWUybDE3Q2hzN1ktdjJEX080WkdUUUQwdWJnS1dSaW1IREctcFJDOUI0cEZzQ25kTV9wVkVOLTNoWlRZY1JZZjI1bzBkZGZ6blRvaDA2ZHlmQ3lFdFQwbWgtdXhENFJGaHBsS3c%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-13",
+      "title": "Ceremony set to honor Judge Juan Jasso's years of service in Dallas County",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNTJXdVFrVC1RREhEZ2c5YzVzVS1ONTcyX0FrXzIzZFB4cE16QUV5WWI1dWI1VldHRTQyS1RTcE5iQnJaWjExSjZkdWhFYzk0RUVhMi1uUkJKVmtxc1dJNTFUZjhodlNFNjBUZHlYY1lSVldRNFQxVkwzN0tadjFCSkRnTUxvYlhhUXVuMTBMNW9ET050bkJlWFhlVEJVa0lhNVMzN2hJOVU2VTdLd0xN?oc=5",
+      "summary": "Ceremony set to honor Judge Juan Jasso's years of service in Dallas County CBS News",
+      "area": "Courts",
+      "county": "Dallas",
+      "region": "DFW",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMirwFBVV95cUxQNTJXdVFrVC1RREhEZ2c5YzVzVS1ONTcyX0FrXzIzZFB4cE16QUV5WWI1dWI1VldHRTQyS1RTcE5iQnJaWjExSjZkdWhFYzk0RUVhMi1uUkJKVmtxc1dJNTFUZjhodlNFNjBUZHlYY1lSVldRNFQxVkwzN0tadjFCSkRnTUxvYlhhUXVuMTBMNW9ET050bkJlWFhlVEJVa0lhNVMzN2hJOVU2VTdLd0xN%3Foc%3D5"
     },
     {
       "date": "2026-10-12",
