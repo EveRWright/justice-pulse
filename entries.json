@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-10-16",
   "note": "Newest first. Durable catalog in archive/captures.jsonl. archive_url points at Wayback.",
   "items": [
     {
@@ -239,6 +239,48 @@
       "kind": "news",
       "quality": "Published reporting via public news wire",
       "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMipAFBVV95cUxNUEhodW9heWZnYUJ4T1NUR3B6WmdUTmM5Nnl4V0hpWlNEVWs5ZW8yemhOOUJwZE11Q3pKMU12bGRpdmhxbDdXd2kyWWNGMWxHVDZTTWNkVk9waVNXTEE2N1hiNEhLaFAtbTI2Z1VXS2pUUVN0aGZ6ZWJveDJHYW9zNXZIdkFHOHhHSmdCTHludk9PdDdCS053ZmMxam5FYkZqWlM2Wg%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "6 candidates vie for 3 Montgomery County judge seats: Election 2026",
+      "source": "Dayton Daily News",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZUpVYkpfZURPWGtPWEZoQUN6UThCalkwdGdjMk1Qcl9wM3EzZ2hJb3JhWjZUSW5zaWJSQ0lIdXNJbU00SFp2YUFlci1ucmlCUjBHWTlTMnJ5UThaS2RwWWN3VmxONGNpNHhMczhNR0ZDLXlLWkhIUXZmTWtXdDNua3VqY21MNjhGbWRQd0hMUjRRMFVYUWJxYUhzYUJkTFU4a0JRZV9GSHFIbm42WVJsYjB4cl82anpkNm9iMkU1bFNhOGgwYkkzSE14bHFBWVFFS0d1OUlDV1VrcEdIeHNGaTRuNjB6VllXUXc?oc=5",
+      "summary": "6 candidates vie for 3 Montgomery County judge seats: Election 2026 Dayton Daily News",
+      "area": "Elections",
+      "county": "Montgomery",
+      "region": "Houston",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMi6gFBVV95cUxQZUpVYkpfZURPWGtPWEZoQUN6UThCalkwdGdjMk1Qcl9wM3EzZ2hJb3JhWjZUSW5zaWJSQ0lIdXNJbU00SFp2YUFlci1ucmlCUjBHWTlTMnJ5UThaS2RwWWN3VmxONGNpNHhMczhNR0ZDLXlLWkhIUXZmTWtXdDNua3VqY21MNjhGbWRQd0hMUjRRMFVYUWJxYUhzYUJkTFU4a0JRZV9GSHFIbm42WVJsYjB4cl82anpkNm9iMkU1bFNhOGgwYkkzSE14bHFBWVFFS0d1OUlDV1VrcEdIeHNGaTRuNjB6VllXUXc%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Judge declares mistrial in child indecency case after McLennan County jury deadlocks",
+      "source": "KWTX",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOczQ4cWM2Zl9IZFQtQUFfV0dFN2t1Z0ZJb3E2dF9SZEpzYkdLU1Q4R0oxd0JKVGJpSEt1bUVRVzg0elRZdE15UlpSZmtqQTVYS2JMQl81eWVJQkVXYTJ5cF95Zlc2UzAyUjRmZkI3Nll4Ri1FV1hnZVJwWTNBWlNfanl4VzdhdHVXSDZmTmRiNkRyc2VUYnhjbFl0SlgydDFQVzRCellSbDlhbzF4cnJ2dTBxNnXSAcgBQVVfeXFMUFBOdERWYjBwRi1jY2hLbHIzUzhQb3BrMnJwcUtfMXRrd3JXUVRXQ3ZoeTRFY3V4eDF2cENJb2xXVXlQc3hzbldmRmpLUXJOZVRUMlNLSXV2NzdxUkVjcVdHbzlzbWIwTWdBb3ZIM3puQUZfRU4xR3R4RExDZHA2WFdWQW9GSGZXRkd4YmU0SDFiQ29VLUFJMU14YTM2ZjVtTVJYWUZNTmhYdzB1dlAzNmJQV0NseXdKUG1aZjFsOWZEV0tzdzg1b3M?oc=5",
+      "summary": "Judge declares mistrial in child indecency case after McLennan County jury deadlocks KWTX",
+      "area": "Courts",
+      "county": "McLennan",
+      "region": "Central Texas",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMitAFBVV95cUxOczQ4cWM2Zl9IZFQtQUFfV0dFN2t1Z0ZJb3E2dF9SZEpzYkdLU1Q4R0oxd0JKVGJpSEt1bUVRVzg0elRZdE15UlpSZmtqQTVYS2JMQl81eWVJQkVXYTJ5cF95Zlc2UzAyUjRmZkI3Nll4Ri1FV1hnZVJwWTNBWlNfanl4VzdhdHVXSDZmTmRiNkRyc2VUYnhjbFl0SlgydDFQVzRCellSbDlhbzF4cnJ2dTBxNnXSAcgBQVVfeXFMUFBOdERWYjBwRi1jY2hLbHIzUzhQb3BrMnJwcUtfMXRrd3JXUVRXQ3ZoeTRFY3V4eDF2cENJb2xXVXlQc3hzbldmRmpLUXJOZVRUMlNLSXV2NzdxUkVjcVdHbzlzbWIwTWdBb3ZIM3puQUZfRU4xR3R4RExDZHA2WFdWQW9GSGZXRkd4YmU0SDFiQ29VLUFJMU14YTM2ZjVtTVJYWUZNTmhYdzB1dlAzNmJQV0NseXdKUG1aZjFsOWZEV0tzdzg1b3M%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "BBC asks judge to force Trump to sit for deposition in his own lawsuit against the channel",
+      "source": "Daily Jefferson County Union",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZWd5N1Z2Z2lNekhKSGRzUVhoOFRfQjBnOXJkSGZKOWF1b2RvbTdmZ2tiSVV1X2lSN1FqX1habUlzbThoTC1FNGRQVGVVOWdoN2RKTWloZFF0TUdYcmVFekd0MUxGby1Nam81OV9qQ0ktMHpOdkxKekJYQmI2VEpEeDduRDJsc0g1endkblc4RDQyYzdDbmpXSjlUWWUwSG4xLXRxQ1ZFcUNDZWdLU1FsN3hDZVY3d0RwWVRaX0paWWhValZNV1Bad3BoWEJ5MHF5cFY2VHpzYW0tXzhvNW1FdUVFZjRsVUJ4SjZUWDQ2U2ZnQmMtdnAzd2FvVm5VUXJqTVZV?oc=5",
+      "summary": "BBC asks judge to force Trump to sit for deposition in his own lawsuit against the channel Daily Jefferson County Union",
+      "area": "Courts",
+      "county": "Jefferson",
+      "region": "Houston / Gulf",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMigwJBVV95cUxQZWd5N1Z2Z2lNekhKSGRzUVhoOFRfQjBnOXJkSGZKOWF1b2RvbTdmZ2tiSVV1X2lSN1FqX1habUlzbThoTC1FNGRQVGVVOWdoN2RKTWloZFF0TUdYcmVFekd0MUxGby1Nam81OV9qQ0ktMHpOdkxKekJYQmI2VEpEeDduRDJsc0g1endkblc4RDQyYzdDbmpXSjlUWWUwSG4xLXRxQ1ZFcUNDZWdLU1FsN3hDZVY3d0RwWVRaX0paWWhValZNV1Bad3BoWEJ5MHF5cFY2VHpzYW0tXzhvNW1FdUVFZjRsVUJ4SjZUWDQ2U2ZnQmMtdnAzd2FvVm5VUXJqTVZV%3Foc%3D5"
     },
     {
       "date": "2026-10-14",
