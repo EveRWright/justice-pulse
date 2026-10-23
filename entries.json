@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22",
+  "updated": "2026-10-23",
   "note": "Newest first. Durable catalog in archive/captures.jsonl. archive_url points at Wayback.",
   "items": [
     {
@@ -211,6 +211,62 @@
       "kind": "news",
       "quality": "Published reporting via public news wire",
       "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMisgFBVV95cUxPS3d0Wk1MSllhZ1hzNkpTVlRibU56blVMT0c0VWZKX1VVbWxJT3V4RVRFOTcyTUp2N3ZITDFzeTI2My10R1N4WEJsTzFEQ0xIcDFLSHJEeDJpLTB1RGV6ZzQyd1gzZkRxUndOcU1xZkpDdkhJaTVqSFlZYmZJMkY3WnFxb3VvUUV4dm1Cb1g0LVhSNnFVRDhPMUdjZF85d0ZfQ3ZZdkNtdnB6Zmw1am4tLUh3%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Texas Judge Finds Treasure Hunter Entitled To Booty",
+      "source": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR2xYN3FXSVBhb1hOTHE1TGVMZGl3cGVoYzA2SEFTdW1SWWpRZkRPNE9MbzlkNkN2dXBaQVFBSHpMblR5NnZXcUFkYl9sdGF2dVRxb2d0b0Q4cVZUdEtudWdmanN4R3J3UTdNRUZla250S2J1ZWZJQzBCaGlUMFU3SVJkMzRyM3p6akxnUmp3R1VDVjMwZUpLb1dhM0t0d9IBVkFVX3lxTFBiUE1VaFg5NnhYMjFweU5saWNuRjQ5NWloc1lCQnJVdUp1Vm5tbTlXRU1MZVJlLXllV0VSbXhoZUZQRHNfUE1VZXN2bWUwdHE3YUcwbTNn?oc=5",
+      "summary": "Texas Judge Finds Treasure Hunter Entitled To Booty Law360",
+      "area": "Courts",
+      "county": "Statewide",
+      "region": "Statewide",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMingFBVV95cUxQR2xYN3FXSVBhb1hOTHE1TGVMZGl3cGVoYzA2SEFTdW1SWWpRZkRPNE9MbzlkNkN2dXBaQVFBSHpMblR5NnZXcUFkYl9sdGF2dVRxb2d0b0Q4cVZUdEtudWdmanN4R3J3UTdNRUZla250S2J1ZWZJQzBCaGlUMFU3SVJkMzRyM3p6akxnUmp3R1VDVjMwZUpLb1dhM0t0d9IBVkFVX3lxTFBiUE1VaFg5NnhYMjFweU5saWNuRjQ5NWloc1lCQnJVdUp1Vm5tbTlXRU1MZVJlLXllV0VSbXhoZUZQRHNfUE1VZXN2bWUwdHE3YUcwbTNn%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "El Paso County Judge candidates: Ricardo Samaniego and Minerva Torres Shelton",
+      "source": "KFOX",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVmJEdmQ2ZkFKdW1xMXVlRnhuYlZ6WjFMSzVBWEVFVGN5T25OdmJMNm12RlZFSEt3bkVvZzMtb1hqY3FaZlhKTHdwNGF4dS01SlEtanBXWUtGNGVUZ3Vfd3UzeFZCS0diRHRiVmRjckR4aGNkZXpnN1hPbDA4WjVsejNPUE43Vy0yTlNwQVg4T1pEVE1rSktUUF9tUHRtMkdRQm4zd0JVTHlrUQ?oc=5",
+      "summary": "El Paso County Judge candidates: Ricardo Samaniego and Minerva Torres Shelton KFOX",
+      "area": "Elections",
+      "county": "El Paso",
+      "region": "West Texas / Border",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiqgFBVV95cUxPVmJEdmQ2ZkFKdW1xMXVlRnhuYlZ6WjFMSzVBWEVFVGN5T25OdmJMNm12RlZFSEt3bkVvZzMtb1hqY3FaZlhKTHdwNGF4dS01SlEtanBXWUtGNGVUZ3Vfd3UzeFZCS0diRHRiVmRjckR4aGNkZXpnN1hPbDA4WjVsejNPUE43Vy0yTlNwQVg4T1pEVE1rSktUUF9tUHRtMkdRQm4zd0JVTHlrUQ%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Texas Judge Rejects Bid to Remove Westlake Ethylene Pipeline",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdEFRQnJvbFhLQWlQel9GMHloMkRwaVZXTEJsaVRZNjdJc1hQTW1JSVZkOWVJWERkUEdiSUNmY2hFTXk1dnRZMDB3WlJqVnZLTTd5VS1FcThocHktY2s1WWJHNlNfTXdJaURzYTdxUExJcFc2UzB0WUpxb3FIRzl3UEpVTTFHRzQ2anNJQnRPeEQ1YnVwbG9IRWtLanYzdHFwTkhNc2kxSQ?oc=5",
+      "summary": "Texas Judge Rejects Bid to Remove Westlake Ethylene Pipeline Law.com",
+      "area": "Courts",
+      "county": "Statewide",
+      "region": "Statewide",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMipwFBVV95cUxPdEFRQnJvbFhLQWlQel9GMHloMkRwaVZXTEJsaVRZNjdJc1hQTW1JSVZkOWVJWERkUEdiSUNmY2hFTXk1dnRZMDB3WlJqVnZLTTd5VS1FcThocHktY2s1WWJHNlNfTXdJaURzYTdxUExJcFc2UzB0WUpxb3FIRzl3UEpVTTFHRzQ2anNJQnRPeEQ1YnVwbG9IRWtLanYzdHFwTkhNc2kxSQ%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Trump Takes Big Bend Border Wall Fight To Supreme Court",
+      "source": "Dallas Express",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTk45bkhFTXVRajdDaDh2NFVDSklxWUFNY1Fhamd5Q0l0VHByQXdQQVR3R1JLRTVZMzZwbHdTU1pLaXdhR0IzTGwtWkFBc2E1NXZ1Y1hJZ3JRajJGTHR2eE52a2ZEU3F2djI4YmZSemdvN1FUbmtUbFFCZzFVMTNOS0xWTE82aGlWb2lvYkJBa3hsUQ?oc=5",
+      "summary": "Trump Takes Big Bend Border Wall Fight To Supreme Court Dallas Express",
+      "area": "Appellate",
+      "county": "Dallas",
+      "region": "DFW",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMikgFBVV95cUxOTk45bkhFTXVRajdDaDh2NFVDSklxWUFNY1Fhamd5Q0l0VHByQXdQQVR3R1JLRTVZMzZwbHdTU1pLaXdhR0IzTGwtWkFBc2E1NXZ1Y1hJZ3JRajJGTHR2eE52a2ZEU3F2djI4YmZSemdvN1FUbmtUbFFCZzFVMTNOS0xWTE82aGlWb2lvYkJBa3hsUQ%3Foc%3D5"
     },
     {
       "date": "2026-10-21",
