@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23",
+  "updated": "2026-10-24",
   "note": "Newest first. Durable catalog in archive/captures.jsonl. archive_url points at Wayback.",
   "items": [
     {
@@ -169,6 +169,76 @@
       "kind": "news",
       "quality": "Published reporting via public news wire",
       "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMitAFBVV95cUxPRjIzejB0VmJqMHJQSnNtSGZoT2lBckItOHBJVkt0RGh6OTFXQmdxVmhoMk8xOXJtVzdWcERzREZJc2NSRV9oaHhPWnhwRlFDQlk5M2pHSGRwQ05kSXZFU0hkaXAzdlljYU53OGNPOTNTYjRISFRmM0I0NUhoUXBtRXZxNHNGeWZ6RmljcHFuMXZLMkk0NGJzNGVCeDFubFVnaW84SnhBd0tHR3YyNzFfSl83OHA%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Election 2026: What to know about Ron Nirenberg, the Democratic candidate for Bexar County judge",
+      "source": "kens5.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQY0t4RTR1cGYtUktVemlaVjJFYW15QUloT0RrdnlBdWZfNjdTejB5Y3VWNHo1bFN0Y240X2ZPMXl1VTE3bFhibjRjRlR4Zmlfc2EwWmxadWdCRURMVDBscmdkM1NNdEROV2NKcHBwZXN5eXRSb214Xy1UOE1OWDI1SWY3WnlndlJWcmc3NWZyZm5rVlg2TGExT0p0U21QWjF2TU4wdm1lWWlQU19Ob3lIQ3EzeTR1Znk1eHFMQ2RqbFpYLXVnWUZPcC1DV09seThsbFNwMG9pbFVsTjM4S0RYZWpXSnhZYWlMcFJ6aG9UTzQ1dVNkS3RILURPbjEzT0s3OFJpeDhBMXhPWXc?oc=5",
+      "summary": "Election 2026: What to know about Ron Nirenberg, the Democratic candidate for Bexar County judge kens5.com",
+      "area": "Elections",
+      "county": "Bexar",
+      "region": "San Antonio",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiiwJBVV95cUxQY0t4RTR1cGYtUktVemlaVjJFYW15QUloT0RrdnlBdWZfNjdTejB5Y3VWNHo1bFN0Y240X2ZPMXl1VTE3bFhibjRjRlR4Zmlfc2EwWmxadWdCRURMVDBscmdkM1NNdEROV2NKcHBwZXN5eXRSb214Xy1UOE1OWDI1SWY3WnlndlJWcmc3NWZyZm5rVlg2TGExT0p0U21QWjF2TU4wdm1lWWlQU19Ob3lIQ3EzeTR1Znk1eHFMQ2RqbFpYLXVnWUZPcC1DV09seThsbFNwMG9pbFVsTjM4S0RYZWpXSnhZYWlMcFJ6aG9UTzQ1dVNkS3RILURPbjEzT0s3OFJpeDhBMXhPWXc%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Election 2026: What to know about Patrick Von Dohlen, the Republican candidate for Bexar County judge",
+      "source": "kens5.com",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPUTQwNUF5TVFUNnRDRHdyYkRIYnFkUXZxR0RZX3pJOGQyd0lHeE80OHVMMTJUa1RsWW5ZaDJRbVdUVnhLREZPR19abWtEN0tzTkZqdVhnYTRXSEFkTEhJbFE5RHhhYWp2QUtFOE9WLTZFbklzZFVtUUtSdjRPYWRpU2RBVG1tcDV4bUtkdGc5XzlldmxhN3QxaGFyUDZBVkhLVjI2REZ3ZjBGaUF1Y3EzbWE5ZjBHTUNJOVZHZ0JEUE1GQmNkdk9wVlVZaTBIVmd0VWcySnpPRjVMUmlTZnF0TDlueVAzaXZKbUk4WE1tWTZaV2h3RkFDUTVuZk0wWlc0SmdPODBlNTdsUngyQnJKZ1Z4N0U?oc=5",
+      "summary": "Election 2026: What to know about Patrick Von Dohlen, the Republican candidate for Bexar County judge kens5.com",
+      "area": "Elections",
+      "county": "Bexar",
+      "region": "San Antonio",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMilAJBVV95cUxPUTQwNUF5TVFUNnRDRHdyYkRIYnFkUXZxR0RZX3pJOGQyd0lHeE80OHVMMTJUa1RsWW5ZaDJRbVdUVnhLREZPR19abWtEN0tzTkZqdVhnYTRXSEFkTEhJbFE5RHhhYWp2QUtFOE9WLTZFbklzZFVtUUtSdjRPYWRpU2RBVG1tcDV4bUtkdGc5XzlldmxhN3QxaGFyUDZBVkhLVjI2REZ3ZjBGaUF1Y3EzbWE5ZjBHTUNJOVZHZ0JEUE1GQmNkdk9wVlVZaTBIVmd0VWcySnpPRjVMUmlTZnF0TDlueVAzaXZKbUk4WE1tWTZaV2h3RkFDUTVuZk0wWlc0SmdPODBlNTdsUngyQnJKZ1Z4N0U%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Fort Worth Officer Dragging Case: Judge Expected to Decide on Aguilar's Release",
+      "source": "Hoodline",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOUxIbE1zZVpOX3A4S1NveGpRUVEyZ0lVUmZ6bm5VaUJ3MGxSZlR0U2ZOemVoR1piMTRfbTVkZV9JcmJRWDZsY0k2SGhIU3Q1bF9WRVMxbVJVZ0tRc3VTZTJpZ01ST1ZGa0NlTk50eTFNdGZCTTV3T25CQlJkZHlWbFZSVjU3cVJqc1RTZ1RqSzRXMXNQdklsY2tDamhDeGNrdUlmaHFtSXJwLVVnVFREaGszM0Qtb3ppWVBF?oc=5",
+      "summary": "Fort Worth Officer Dragging Case: Judge Expected to Decide on Aguilar's Release Hoodline",
+      "area": "Courts",
+      "county": "Tarrant",
+      "region": "DFW",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiuwFBVV95cUxOOUxIbE1zZVpOX3A4S1NveGpRUVEyZ0lVUmZ6bm5VaUJ3MGxSZlR0U2ZOemVoR1piMTRfbTVkZV9JcmJRWDZsY0k2SGhIU3Q1bF9WRVMxbVJVZ0tRc3VTZTJpZ01ST1ZGa0NlTk50eTFNdGZCTTV3T25CQlJkZHlWbFZSVjU3cVJqc1RTZ1RqSzRXMXNQdklsY2tDamhDeGNrdUlmaHFtSXJwLVVnVFREaGszM0Qtb3ppWVBF%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "A Texas Judge Wiped Out ATF’s Dealer Rule in June. On October 9, the Justice Department Filed Two Pages to Bring It Back.",
+      "source": "USA Carry",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNFlNOWduWHZwaFFrcXM2TklqRGFmTFhxbWk3d1BIdjJwVV9jVVlkV1ZnSGNaRzNaNEdUWDN2bVUyQk9pRUhmUGdPMU1aQ1BWUVFlVXlLbDZFcjNPQTMtRGpxYU5UdGZCSE1Id3liLVRkRmw5aVE5RUlTaDNIVkZualVNYmtXZFFSeEhVd2FXMjZyTnotWVNuQjA1ZUpuSkxGb0I2LW5rbklhMk11VjM0cnhpUTFOcVp6cl9Zbk1rSWtWV1g3TWp1ZHdOU2JINGMyM3dZcE5aQS1JYjA?oc=5",
+      "summary": "A Texas Judge Wiped Out ATF’s Dealer Rule in June. On October 9, the Justice Department Filed Two Pages to Bring It Back. USA Carry",
+      "area": "Courts",
+      "county": "Statewide",
+      "region": "Statewide",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMi2wFBVV95cUxNNFlNOWduWHZwaFFrcXM2TklqRGFmTFhxbWk3d1BIdjJwVV9jVVlkV1ZnSGNaRzNaNEdUWDN2bVUyQk9pRUhmUGdPMU1aQ1BWUVFlVXlLbDZFcjNPQTMtRGpxYU5UdGZCSE1Id3liLVRkRmw5aVE5RUlTaDNIVkZualVNYmtXZFFSeEhVd2FXMjZyTnotWVNuQjA1ZUpuSkxGb0I2LW5rbklhMk11VjM0cnhpUTFOcVp6cl9Zbk1rSWtWV1g3TWp1ZHdOU2JINGMyM3dZcE5aQS1JYjA%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Fort Bend County judge calls for Tax Assessor Carmen Turner’s resignation after federal payroll fraud indictment",
+      "source": "Click2Houston",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZWRqSE9aUVVaTGRlMmNMeFNJODFiR0Z2NllERmItR25NQUU1ZWhLcFNmaU1DcjB4THBmZ0V6U0gwc2l1Q2Y0U0wwSXQxa3ppbG5BMHdYeFNoWjl4YWpBMmJqMUdaQTU1UllyN005U3ZaUGt5TmRCR0JBV3hWYW96ZkM5RTNuTE9aYk9CaEZSTkVaMFZtbkFEb0JfbGVRNUQ3Y09jQ1pVOUw4SnppMjdoVlRJYkZuRTJuc0Y1TW8xUGJUWklnSmloUDgxNnREclFySWotdVFvN3V5NnNJdGFPdTJUdWtmZw?oc=5",
+      "summary": "Fort Bend County judge calls for Tax Assessor Carmen Turner’s resignation after federal payroll fraud indictment Click2Houston",
+      "area": "Courts",
+      "county": "Fort Bend",
+      "region": "Houston",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMi5gFBVV95cUxOZWRqSE9aUVVaTGRlMmNMeFNJODFiR0Z2NllERmItR25NQUU1ZWhLcFNmaU1DcjB4THBmZ0V6U0gwc2l1Q2Y0U0wwSXQxa3ppbG5BMHdYeFNoWjl4YWpBMmJqMUdaQTU1UllyN005U3ZaUGt5TmRCR0JBV3hWYW96ZkM5RTNuTE9aYk9CaEZSTkVaMFZtbkFEb0JfbGVRNUQ3Y09jQ1pVOUw4SnppMjdoVlRJYkZuRTJuc0Y1TW8xUGJUWklnSmloUDgxNnREclFySWotdVFvN3V5NnNJdGFPdTJUdWtmZw%3Foc%3D5"
     },
     {
       "date": "2026-10-22",
