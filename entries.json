@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24",
+  "updated": "2026-10-25",
   "note": "Newest first. Durable catalog in archive/captures.jsonl. archive_url points at Wayback.",
   "items": [
     {
@@ -29,6 +29,20 @@
       "kind": "news",
       "quality": "Published reporting via public news wire",
       "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMid0FVX3lxTFA0cGFJNU9vVnZfeGdGa2FEcnVIWHVBMDVxWEYwY1BXZDBxOGRCZEhsNDRSWDNtRGtCeWFxV1FWRk5uSldEVEhfbDI4YTZIS0RoNlJSTlhuX3ByUzItNEZaNWE0c2Fabm0wZHNmWm5SdklVdU12VjI0%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "George Allen, longtime McLennan County judge, dies at 89",
+      "source": "KWTX",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYVU1eHNhWGlJdUpqLWE1LWY2OWE4MEpWbFZtenFlNzNBQlVuTEdSNnBTYmJyd2FkRXhZLUVwQ3kzRTdzcmJNR1c5UXo5czFjTXVHVy1jc1ptWXkwR2w1OS1mNU1kVFB4S2FUY1g3bV9kZFBQNU5lc0ZOR211NmJYQ0dSZzNrRmhzXzdrUWlKYXdVdVcyYWR6NTBpVVJ4YnBr0gGgAUFVX3lxTE1hVTV4c2FYaUl1SmotYTUtZjY5YTgwSlZsVm16cWU3M0FCVW5MR1I2cFNiYnJ3YWRFeFktRXBDeTNFN3NyYk1HVzlRejlzMWNNdUdXLWNzWm1ZeTBHbDU5LWY1TWRUUHhLYVRjWDdtX2RkUFA1TmVzRk5HbXU2YlhDR1JnM2tGaHNfN2tRaUphd1V1VzJhZHo1MGlVUnhicGs?oc=5",
+      "summary": "George Allen, longtime McLennan County judge, dies at 89 KWTX",
+      "area": "Courts",
+      "county": "McLennan",
+      "region": "Central Texas",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMioAFBVV95cUxNYVU1eHNhWGlJdUpqLWE1LWY2OWE4MEpWbFZtenFlNzNBQlVuTEdSNnBTYmJyd2FkRXhZLUVwQ3kzRTdzcmJNR1c5UXo5czFjTXVHVy1jc1ptWXkwR2w1OS1mNU1kVFB4S2FUY1g3bV9kZFBQNU5lc0ZOR211NmJYQ0dSZzNrRmhzXzdrUWlKYXdVdVcyYWR6NTBpVVJ4YnBr0gGgAUFVX3lxTE1hVTV4c2FYaUl1SmotYTUtZjY5YTgwSlZsVm16cWU3M0FCVW5MR1I2cFNiYnJ3YWRFeFktRXBDeTNFN3NyYk1HVzlRejlzMWNNdUdXLWNzWm1ZeTBHbDU5LWY1TWRUUHhLYVRjWDdtX2RkUFA1TmVzRk5HbXU2YlhDR1JnM2tGaHNfN2tRaUphd1V1VzJhZHo1MGlVUnhicGs%3Foc%3D5"
     },
     {
       "date": "2026-10-23",
