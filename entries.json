@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "note": "Newest first. Durable catalog in archive/captures.jsonl. archive_url points at Wayback.",
   "items": [
+    {
+      "date": "2026-10-29",
+      "title": "Judge denies delay after lawyer collapses on eve of Fort Worth illegal voting trial - Fort Worth Star-Telegram",
+      "source": "Fort Worth Star-Telegram",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMblE5Rmpxb3BsZXYyUWhNMHJ0X1VOVjRkWlhlUVhCNHdMWDhVTTRqellISkJBR2RQaU9EcC1GTVg4SEptWnJNeTVhVHNtLTh1RlNmZkpMWmFBWUNQN1RJUVZTVzNOMFRsR3Vjc3JiNTRCZEtiTGtz0gF3QVVfeXFMTWNLQmhqZGVFRDdpNElYX2xDZGp1N0F3cjRHdkV5elBTNy1oanByMXZRTHBKbTBpTUpEdnJDaUhDaW9nZHhQcmhFcE5LVG9zUFBrY3FhRE1jZ3hNaDNZRGZWWDhSUFBQYTVWbVJqM1VBVFRnTk5CLXc?oc=5",
+      "summary": "Judge denies delay after lawyer collapses on eve of Fort Worth illegal voting trial Fort Worth Star-Telegram",
+      "area": "Courts",
+      "county": "Tarrant",
+      "region": "DFW",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMid0FVX3lxTFBMblE5Rmpxb3BsZXYyUWhNMHJ0X1VOVjRkWlhlUVhCNHdMWDhVTTRqellISkJBR2RQaU9EcC1GTVg4SEptWnJNeTVhVHNtLTh1RlNmZkpMWmFBWUNQN1RJUVZTVzNOMFRsR3Vjc3JiNTRCZEtiTGtz0gF3QVVfeXFMTWNLQmhqZGVFRDdpNElYX2xDZGp1N0F3cjRHdkV5elBTNy1oanByMXZRTHBKbTBpTUpEdnJDaUhDaW9nZHhQcmhFcE5LVG9zUFBrY3FhRE1jZ3hNaDNZRGZWWDhSUFBQYTVWbVJqM1VBVFRnTk5CLXc%3Foc%3D5"
+    },
     {
       "date": "2026-10-28",
       "title": "Justices run for reelection to Texas' 15th Court of Appeals",
@@ -379,6 +393,48 @@
       "kind": "news",
       "quality": "Published reporting via public news wire",
       "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiowFBVV95cUxOdEx6c2Q5enR0bFdHRG1MQm5UOHJjaVFFMHU0Y1Fibkw0T1ZnZlNUUDZBU1lCQ052MkpiUGhXRGNvZTZGWWF4YTZ4NVlqVmR6c1RGYk5pX3JzR3k2c1FZNy1pWC1WdGhnZE1kcnRsU0w4a3FXY0xFTTIxdTRBX0JYVnB1OE80T1dUNmE3azJOQmxKQUZwd3VZMG40MWRkdEJnYnU0%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Central Texas Judge Resigns To Avoid Disciplinary Action",
+      "source": "Texas Scorecard",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONGRYdDNqV054c2JEVk1GN3E5TkxiZFFudnYtd3lPbkZpRGQ4ODFYVTc3ckVWT3V3d3AxYk9VOUNZLUMxSnJNd2hMQVBqdVdWcV8teDE4SmoxRTFiMVZ6NjRFU25rTUhzT0N6T1hGTzdBVThWd3hNZENjWWM3WTI3em1vUVF2bnJHV0IySTJvUlhsOEZC?oc=5",
+      "summary": "Central Texas Judge Resigns To Avoid Disciplinary Action Texas Scorecard",
+      "area": "Courts",
+      "county": "Statewide",
+      "region": "Statewide",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMilAFBVV95cUxONGRYdDNqV054c2JEVk1GN3E5TkxiZFFudnYtd3lPbkZpRGQ4ODFYVTc3ckVWT3V3d3AxYk9VOUNZLUMxSnJNd2hMQVBqdVdWcV8teDE4SmoxRTFiMVZ6NjRFU25rTUhzT0N6T1hGTzdBVThWd3hNZENjWWM3WTI3em1vUVF2bnJHV0IySTJvUlhsOEZC%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Louisiana judge temporarily blocks the SEC from sanctioning LSU for playing ex-pro RJ Luis Jr.",
+      "source": "Houston Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZllYM0YtNC1QUHg2R0Z6alU2TzB6dENfVnZYRklDQ1h3dWtkRGFWNlhHQ0dCTzNqbzZaZjFoQnpJMVN2eDZVcjBQdFJ1VXRyNk16Y1Ftbll1RzNlZ0pFN1V0ZTlZNTN2TmN0aUVieDc5VVlELXBKX2hkUnQ5bFlYR2JOTlljenBlOTJ0aFdKMWd3MEFzMGlnYUx6S3h0RUtQbGFTNnZ0Y2luRXdm?oc=5",
+      "summary": "Louisiana judge temporarily blocks the SEC from sanctioning LSU for playing ex-pro RJ Luis Jr. Houston Chronicle",
+      "area": "Courts",
+      "county": "Harris",
+      "region": "Houston",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMirAFBVV95cUxNZllYM0YtNC1QUHg2R0Z6alU2TzB6dENfVnZYRklDQ1h3dWtkRGFWNlhHQ0dCTzNqbzZaZjFoQnpJMVN2eDZVcjBQdFJ1VXRyNk16Y1Ftbll1RzNlZ0pFN1V0ZTlZNTN2TmN0aUVieDc5VVlELXBKX2hkUnQ5bFlYR2JOTlljenBlOTJ0aFdKMWd3MEFzMGlnYUx6S3h0RUtQbGFTNnZ0Y2luRXdm%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Texas Trans Mailers: Judge Orders Depositions for TENT",
+      "source": "Gayety",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TWXRtMFF5eWxjdkJxaWNTOEI2V3V1VjJEYXp4a29FVGVHR3RMZnZGTHBIZVFIRk1aV3QtVC1nbkhlVHo1aDdKRDV5OUNfeWVrci1idVhtYW9jOXU2Wi1DeVZmcGtCUTd3UFBwX1pWZ0ZXdm92My1lWTMzYw?oc=5",
+      "summary": "Texas Trans Mailers: Judge Orders Depositions for TENT Gayety",
+      "area": "Courts",
+      "county": "Statewide",
+      "region": "Statewide",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMie0FVX3lxTE1TWXRtMFF5eWxjdkJxaWNTOEI2V3V1VjJEYXp4a29FVGVHR3RMZnZGTHBIZVFIRk1aV3QtVC1nbkhlVHo1aDdKRDV5OUNfeWVrci1idVhtYW9jOXU2Wi1DeVZmcGtCUTd3UFBwX1pWZ0ZXdm92My1lWTMzYw%3Foc%3D5"
     },
     {
       "date": "2026-10-27",
@@ -841,6 +897,20 @@
       "kind": "news",
       "quality": "Published reporting via public news wire",
       "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMizgFBVV95cUxPUV9ELXAtZHNSc19XTzdJYkZGS1RtQUZZQ081a0l5eDdUWHU4VW5IU2FGdG1teHJNMlNad0RSUkdaYmhrTmUyNDhkNFg4eU5IZ0VBRTc4eTlpUnBQTTdXdjFtcHdkdWU5VFQxRHoxOUFFR3hjclNYelNuREZ4dHdQMXZjYzEyTkVMLTBjcWk2VHZwQmVBcy04NGx1VVJGandKMk9zMm93dDVBcV9haVlrTjBjQ0lYbENEVzVndGpXa1lsUGQ1T09RQnNCa0ZIUQ%3Foc%3D5"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "\"Know Before You Go\": Montgomery Co. probate judge gives voting tips one week before election",
+      "source": "WAKA 8",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMmZ2SWczbERWeDYzaTI4YnpQRXRGUkpDdEp4OXdXSXExN0xhbWkyWVVsMVZuRVFMb3plbWZKbDl1UFF4X0V4dF9fWktOdnYyZ0dDWGpMLVNfMVNyaXUyZnNxQjZ2QTRVNjBIS3pWYXdSQUF3ajVsbUh5Y2pjbGc0YUpRSVI1MnhQdmZ1VTNhelZ0d293MzF3Q1dESEx1TTdQRlluR1dETEJfRG1iYVB5YmZWX2ZhWEhDU3FZ?oc=5",
+      "summary": "\"Know Before You Go\": Montgomery Co. probate judge gives voting tips one week before election WAKA 8",
+      "area": "Probate",
+      "county": "Montgomery",
+      "region": "Houston",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiuwFBVV95cUxQMmZ2SWczbERWeDYzaTI4YnpQRXRGUkpDdEp4OXdXSXExN0xhbWkyWVVsMVZuRVFMb3plbWZKbDl1UFF4X0V4dF9fWktOdnYyZ0dDWGpMLVNfMVNyaXUyZnNxQjZ2QTRVNjBIS3pWYXdSQUF3ajVsbUh5Y2pjbGc0YUpRSVI1MnhQdmZ1VTNhelZ0d293MzF3Q1dESEx1TTdQRlluR1dETEJfRG1iYVB5YmZWX2ZhWEhDU3FZ%3Foc%3D5"
     },
     {
       "date": "2026-10-26",
