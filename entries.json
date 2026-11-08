@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "note": "Newest first. Durable catalog in archive/captures.jsonl. archive_url points at Wayback.",
   "items": [
     {
@@ -407,6 +407,20 @@
       "kind": "news",
       "quality": "Published reporting via public news wire",
       "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMi8gFBVV95cUxOUjE0T25LMnkyaWItQUU4S2l4YUd4VV85Tnk1UUpqLVNIcmd0VTJfLWJiUVB2TWp1ZUhTYk5iaGc1dFFNSVFkMUVDUmVoZjRQZE1lR3AxTGlqWGtJZHdwQmo2eDNzdFZEczZCVURBZXN1NVZGOFZvYUZfOWp5SnRWTmxqVVVFSVRPaERjU1dpX0RBb2ZlbTJaaXoyQ3RsZlYxSng0UG9DMUhaeWcwVHVjVWY3VnRSZ0JHT3g2VmtrVTViMklaZVJCN2g3eGcxWTJWZVV6OWpUZTQ3UDhvZjhoRzU4eVp2c3h0UnYyMXZES3cyQQ%3Foc%3D5"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Houston Loses Fight With Food Not Bombs, Judge Says Rights Were Violated",
+      "source": "Hoodline",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNXpQNWV5OGdqaXozUEktTjN3MDR6STRHMm1ja3kzRUY5YXFvVHpXRV9yeW95WV9fVXFEZjNKUExrRlg2ZFNjdlNJRGY2ZEdnaFRjUXF3SEF5V2h4R2c0cUVPUUdwSlRpUXVyUmhxazJ6X0NQTktuTWxTalRMNkozT3JRQkhzUHZsWHJMYVQySUlDNHhCd09UZzBWMkptUkpOcko4?oc=5",
+      "summary": "Houston Loses Fight With Food Not Bombs, Judge Says Rights Were Violated Hoodline",
+      "area": "Courts",
+      "county": "Harris",
+      "region": "Houston",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiowFBVV95cUxNNXpQNWV5OGdqaXozUEktTjN3MDR6STRHMm1ja3kzRUY5YXFvVHpXRV9yeW95WV9fVXFEZjNKUExrRlg2ZFNjdlNJRGY2ZEdnaFRjUXF3SEF5V2h4R2c0cUVPUUdwSlRpUXVyUmhxazJ6X0NQTktuTWxTalRMNkozT3JRQkhzUHZsWHJMYVQySUlDNHhCd09UZzBWMkptUkpOcko4%3Foc%3D5"
     },
     {
       "date": "2026-11-05",
