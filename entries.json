@@ -1,7 +1,21 @@
 {
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "note": "Newest first. Durable catalog in archive/captures.jsonl. archive_url points at Wayback.",
   "items": [
+    {
+      "date": "2026-11-08",
+      "title": "Ethics Commission refers alleged ethics violation by Montgomery County Circuit Judge Tiffany McCord to AG Marshall",
+      "source": "1819 News",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVFBNeU9mTXJrRjhIR3ZiaUFSU3BhUTlXeFhUM1c3MDdWNmV5UExrTU9NNW91clJjM2p1UmlYcXdfU0NLcTQ4elVMVTlvSUpoS2wxTEdpUHo4N0VuVXNOQmE5cFAyVTZDSTRRdEl2bjNicXV0QUJ4RXVmbTJRVVhHTWVMTGpsbzY5cXpLbFlvQ2x1N2VjV251elJ6OE9TTllWYy1LRFhVMHk0N2lPZGpIaGg5WVVtb09EMnZGLUlxX0FKYjBOeFBuY1NINkhXVmZoNEZDc0FnMHVBMEY3blE?oc=5",
+      "summary": "Ethics Commission refers alleged ethics violation by Montgomery County Circuit Judge Tiffany McCord to AG Marshall 1819 News",
+      "area": "Courts",
+      "county": "Montgomery",
+      "region": "Houston",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMi3gFBVV95cUxOVFBNeU9mTXJrRjhIR3ZiaUFSU3BhUTlXeFhUM1c3MDdWNmV5UExrTU9NNW91clJjM2p1UmlYcXdfU0NLcTQ4elVMVTlvSUpoS2wxTEdpUHo4N0VuVXNOQmE5cFAyVTZDSTRRdEl2bjNicXV0QUJ4RXVmbTJRVVhHTWVMTGpsbzY5cXpLbFlvQ2x1N2VjV251elJ6OE9TTllWYy1LRFhVMHk0N2lPZGpIaGg5WVVtb09EMnZGLUlxX0FKYjBOeFBuY1NINkhXVmZoNEZDc0FnMHVBMEY3blE%3Foc%3D5"
+    },
     {
       "date": "2026-11-07",
       "title": "ND Supreme Court declines to change judge in Dallas Rice case, affirms previous ruling - KFYR-TV",
