@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "note": "Newest first. Durable catalog in archive/captures.jsonl. archive_url points at Wayback.",
   "items": [
     {
@@ -85,6 +85,90 @@
       "kind": "news",
       "quality": "Published reporting via public news wire",
       "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMihwFBVV95cUxOaU14WlJWbU5fOXNkWlozYkRyUHBtMzNxd3Q0M0RwWmNWMFJDeDdFQU5Gd0o5ci1oc2x3OUplYko3cEp4cmJJUXlkallDOGNZbVozcmxwNjA4MjNBZlNkcUhRWGJYeG1KTFZTRlBfejFhZ1VWYmFjTVBKaDQ0QlVpQk4zWjAtWW8%3Foc%3D5"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Texas Land Commissioner says Big Bend doesn't need border wall after Supreme Court ruling",
+      "source": "crossroadstoday.com",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPaDhGbkFIQTc4QTZXMXFMQml0aFRGbnI3eFZvaWNaRllVdHJOWUFuaHVsU0NHV21QbllxblFCclFCMjRJRG9JTXA1S05ENTJKUmlhUFBKOVp2MDA5b1pzaGhqejVfNGNEUThoamlLT3lxaERNUlNRMkxCY3dkNXlYVVlOa2dVVG9mR1d6SWVkdnlucEdsYk1tam8xQWpLTjJCTzFQUHRURjRQMWVMVFpPS21aMzZKYkFfR09DcERfZGFGMzg0MGlHRkoycG05X1FIS1BpSEl3dVlWYWlhdXA5VEltR0x5ZGdaME5PNnlRb2ozM3pmTDdsMU8yTXJaUTRXaXBzYWRGTzNURW9BRnc1RkdYM1JVZw?oc=5",
+      "summary": "Texas Land Commissioner says Big Bend doesn't need border wall after Supreme Court ruling crossroadstoday.com",
+      "area": "Appellate",
+      "county": "Statewide",
+      "region": "Statewide",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMilgJBVV95cUxPaDhGbkFIQTc4QTZXMXFMQml0aFRGbnI3eFZvaWNaRllVdHJOWUFuaHVsU0NHV21QbllxblFCclFCMjRJRG9JTXA1S05ENTJKUmlhUFBKOVp2MDA5b1pzaGhqejVfNGNEUThoamlLT3lxaERNUlNRMkxCY3dkNXlYVVlOa2dVVG9mR1d6SWVkdnlucEdsYk1tam8xQWpLTjJCTzFQUHRURjRQMWVMVFpPS21aMzZKYkFfR09DcERfZGFGMzg0MGlHRkoycG05X1FIS1BpSEl3dVlWYWlhdXA5VEltR0x5ZGdaME5PNnlRb2ozM3pmTDdsMU8yTXJaUTRXaXBzYWRGTzNURW9BRnc1RkdYM1JVZw%3Foc%3D5"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Judge denies Texas’ request to pause order requiring it to air condition its prisons",
+      "source": "San Antonio Current",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2l1WkxBd2NLZy0tOU9HWjVnbmozbHROUnh6MzJhUEpUU24zX0ZmZGQ3SDBBcktnZVRjemtEd2ZEeHZzRVJvQU9jalhDcHFyaVhyRFZUQkVfdV9mSDJmTDMxbzZSeFp3bVMwYU5HNTJERy04SGozSVdZOXhUck9BdWxlNjhMcFA4QVhBN1k1cUlpb3oyNkxMZGJnaW40UkdnSXNNSkpCS1AtaHhvNlNCU0R4SldZLUJtdEN4Q2x1RHVOQVpW?oc=5",
+      "summary": "Judge denies Texas’ request to pause order requiring it to air condition its prisons San Antonio Current",
+      "area": "Courts",
+      "county": "Bexar",
+      "region": "San Antonio",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMixAFBVV95cUxNN2l1WkxBd2NLZy0tOU9HWjVnbmozbHROUnh6MzJhUEpUU24zX0ZmZGQ3SDBBcktnZVRjemtEd2ZEeHZzRVJvQU9jalhDcHFyaVhyRFZUQkVfdV9mSDJmTDMxbzZSeFp3bVMwYU5HNTJERy04SGozSVdZOXhUck9BdWxlNjhMcFA4QVhBN1k1cUlpb3oyNkxMZGJnaW40UkdnSXNNSkpCS1AtaHhvNlNCU0R4SldZLUJtdEN4Q2x1RHVOQVpW%3Foc%3D5"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Texas Supreme Court Justice Refutes Retirement Rumors",
+      "source": "Texas Scorecard",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPanRCODM4VkVMYXU2OUkzd0x6UXRfZWNyRGs3SjhHV08zTUZYbDUzdmEzVldheUx0aFFER2xqWlJPa1lZcjdDODQ4NlRsZjVFSnEwdE1JYzNDZmhyQTFRdk5PUzBLS0VRUENPSTZxMG5RNUU2VElpVUVUWHpJU0tMall6Vm9hczRSem9iVmxxR18?oc=5",
+      "summary": "Texas Supreme Court Justice Refutes Retirement Rumors Texas Scorecard",
+      "area": "Appellate",
+      "county": "Statewide",
+      "region": "Statewide",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMikAFBVV95cUxPanRCODM4VkVMYXU2OUkzd0x6UXRfZWNyRGs3SjhHV08zTUZYbDUzdmEzVldheUx0aFFER2xqWlJPa1lZcjdDODQ4NlRsZjVFSnEwdE1JYzNDZmhyQTFRdk5PUzBLS0VRUENPSTZxMG5RNUU2VElpVUVUWHpJU0tMall6Vm9hczRSem9iVmxxR18%3Foc%3D5"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Prosecutor ‘indifferent’ on request for judge to recuse himself in Dallas Rice theft case - KFYR-TV",
+      "source": "KFYR-TV",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT3FOLXl0RzBYNmNuS0JzeE13OTFUWFFTZUZVd1Y5MUxoNmp5TlFWLTdJbDRIRldGczRNT2l3MjZqSmI5SEJPMjd5UUFYZ3RLN2JyWTYyYzlmeGVILXZtX0hnbU5LckpvNHRLcHdCVVZDTFJ3eUxjUkJhU1VCLVg1a1NMcW9ITFVQeWdPMFNOZzdLMlY0VjVtZ0RjWnZFamkyU0FacWU0cUxHQm1PbHfSAcIBQVVfeXFMTVpVME92Qk5jc3BrNGxYQjVldGxEQUZHTXdsVk42d1VMS3czZjVHb2ZlUEx4dEUwT1hjR0FEb1ctQzNmUFUtUVdYR3FtRVFPcGI1Y1RLckhyc0F1TmRSOHdxQmJVc0ZKZmRUN3hzZTJoZ3ZkNElzdWVvUGZ5eDhCZ1R2Mmx1Tm5oN24wS1JCYXVyTkllRlFmWmh0MWlYQ3EtN3piSklJWERVMGN1dHlYWFlyOXdMdlNXVnlnRGhQemNuX3c?oc=5",
+      "summary": "Prosecutor ‘indifferent’ on request for judge to recuse himself in Dallas Rice theft case KFYR-TV",
+      "area": "Courts",
+      "county": "Dallas",
+      "region": "DFW",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMirgFBVV95cUxQT3FOLXl0RzBYNmNuS0JzeE13OTFUWFFTZUZVd1Y5MUxoNmp5TlFWLTdJbDRIRldGczRNT2l3MjZqSmI5SEJPMjd5UUFYZ3RLN2JyWTYyYzlmeGVILXZtX0hnbU5LckpvNHRLcHdCVVZDTFJ3eUxjUkJhU1VCLVg1a1NMcW9ITFVQeWdPMFNOZzdLMlY0VjVtZ0RjWnZFamkyU0FacWU0cUxHQm1PbHfSAcIBQVVfeXFMTVpVME92Qk5jc3BrNGxYQjVldGxEQUZHTXdsVk42d1VMS3czZjVHb2ZlUEx4dEUwT1hjR0FEb1ctQzNmUFUtUVdYR3FtRVFPcGI1Y1RLckhyc0F1TmRSOHdxQmJVc0ZKZmRUN3hzZTJoZ3ZkNElzdWVvUGZ5eDhCZ1R2Mmx1Tm5oN24wS1JCYXVyTkllRlFmWmh0MWlYQ3EtN3piSklJWERVMGN1dHlYWFlyOXdMdlNXVnlnRGhQemNuX3c%3Foc%3D5"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Texas judge rejects restraining order to allow Argyle Liberty Christian to be in TAPPS playoffs",
+      "source": "Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMUd1SU9JRWR3aWhfd1BkZ0FDUVdyY0lGS0hUYUZnWmRGRjhEY1FRNEpiUDZZM0RJeEdlNzVrdzB4RlBiV2k3NkxweDJ1cERBMVZNQjZaVDlDR3FuTDlHYXZNZUhPLTg3a2VrQXhiR1dLM1JjSzVUYXVPZE94WW9oZ1pHOGllczMxRk1vejZzYmFQT3NEbVdMejc4MEtmUFNvWkRTN09LYkNXd0hnQTIwYTBZWFNvYnp1QTNBd1dZSXQyU1ZYU0QtTHB0NFk1V1g4LWNwbjhQS2E3QWdGMEE?oc=5",
+      "summary": "Texas judge rejects restraining order to allow Argyle Liberty Christian to be in TAPPS playoffs Sports Illustrated",
+      "area": "Courts",
+      "county": "Statewide",
+      "region": "Statewide",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMi3gFBVV95cUxOMUd1SU9JRWR3aWhfd1BkZ0FDUVdyY0lGS0hUYUZnWmRGRjhEY1FRNEpiUDZZM0RJeEdlNzVrdzB4RlBiV2k3NkxweDJ1cERBMVZNQjZaVDlDR3FuTDlHYXZNZUhPLTg3a2VrQXhiR1dLM1JjSzVUYXVPZE94WW9oZ1pHOGllczMxRk1vejZzYmFQT3NEbVdMejc4MEtmUFNvWkRTN09LYkNXd0hnQTIwYTBZWFNvYnp1QTNBd1dZSXQyU1ZYU0QtTHB0NFk1V1g4LWNwbjhQS2E3QWdGMEE%3Foc%3D5"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Richard Posner, prolific legal scholar and outspoken appeals court judge, dies at 87 - San Antonio Express-News",
+      "source": "San Antonio Express-News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc2lsWGlYUjRhRG9sR2FyYThhNnBId3VYUFpnQlUwb0E0alctZUdNLUJUcndDbEVKVkhFaU9oU1p0NHhxdDNfa3d0bmJrcUFBV3lFTFR0WkxTNUZWZTZfMGhmc1Q5MzZTTHVlY2JmS0VNYklEekhWS2lGSUlyeEJqcTZLaEowdGl5Q1JvYTFlM0U4NnpwcFEtZnVybw?oc=5",
+      "summary": "Richard Posner, prolific legal scholar and outspoken appeals court judge, dies at 87 San Antonio Express-News",
+      "area": "Courts",
+      "county": "Bexar",
+      "region": "San Antonio",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMimwFBVV95cUxOc2lsWGlYUjRhRG9sR2FyYThhNnBId3VYUFpnQlUwb0E0alctZUdNLUJUcndDbEVKVkhFaU9oU1p0NHhxdDNfa3d0bmJrcUFBV3lFTFR0WkxTNUZWZTZfMGhmc1Q5MzZTTHVlY2JmS0VNYklEekhWS2lGSUlyeEJqcTZLaEowdGl5Q1JvYTFlM0U4NnpwcFEtZnVybw%3Foc%3D5"
     },
     {
       "date": "2026-11-11",
