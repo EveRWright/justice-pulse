@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "note": "Newest first. Durable catalog in archive/captures.jsonl. archive_url points at Wayback.",
   "items": [
     {
@@ -43,6 +43,34 @@
       "kind": "news",
       "quality": "Published reporting via public news wire",
       "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMikgFBVV95cUxOaEtrZWk5dGpPdU5aeElrTzNJb0ZHZlM5M2dDZGZGckRWVUF2WEplaC1tNXgyX2JxVk9KZ0JwNmFic21DTnotNnVnOWVScFYzQnlKMEdGUTRIbjkzWk43d2JYbzNDNUZHd0NrTUhzdEo0U3gydFBuQXNVTHZUZGlxbG9kMzdMRG1ERHlfbXZiMnFQZw%3Foc%3D5"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "Future of Benton County judge seat still unclear as Austin McCollum faces felony charges - Northwest Arkansas Democrat-Gazette",
+      "source": "Northwest Arkansas Democrat-Gazette",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbmpRcVYyUzA3Wld0UVZNR0lpMnZZMHBmZWI5RnR5MV9LNEc1NTF2eFM0S0Z4NFpqRHNiSkVHeG1WY0hfNVQxekxtbktLUHpRNlFUcFZ3eVFPMUZOQzdVWjEwUzNPTGd1ajN2b3ZXajMxbzhjOHV4eWFqVG9uQ3B6X2FvTTVvcmN3T0YxTVI4bVJXTDFuRFMw?oc=5",
+      "summary": "Future of Benton County judge seat still unclear as Austin McCollum faces felony charges Northwest Arkansas Democrat-Gazette",
+      "area": "Courts",
+      "county": "Travis",
+      "region": "Austin",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMilwFBVV95cUxNbmpRcVYyUzA3Wld0UVZNR0lpMnZZMHBmZWI5RnR5MV9LNEc1NTF2eFM0S0Z4NFpqRHNiSkVHeG1WY0hfNVQxekxtbktLUHpRNlFUcFZ3eVFPMUZOQzdVWjEwUzNPTGd1ajN2b3ZXajMxbzhjOHV4eWFqVG9uQ3B6X2FvTTVvcmN3T0YxTVI4bVJXTDFuRFMw%3Foc%3D5"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "State Supreme Court dismisses case related to Texas Heartbeat Act - Denton Record-Chronicle",
+      "source": "Denton Record-Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcFB0eG1yN0VCMldoSnRwaUFyclVNN2pzdUgyaU5QYW9kVUxmb0NKVWotYk4zMmdwcnBoVjVsMnNZMXdmeVpteEZtY1B6ZFBDcHRlYUEtOW5yVXltTUJqTFlfVHhEeVJVcExxSFhNTVMwMUNxWkI1eXJjamRVUy1Fb2VhOVZsTmVXNld2cVdrTU1QaDdrSGFUMmF0cXE4ODhGYWxOSTRwTm9OSEdjNE1YZ0VaZl93WXpCOVZ4N0pnNlFXRDA2YzRWbzhfMEh0c0thY282QU5Na2JTX1F5b2phVw?oc=5",
+      "summary": "State Supreme Court dismisses case related to Texas Heartbeat Act Denton Record-Chronicle",
+      "area": "Appellate",
+      "county": "Denton",
+      "region": "DFW",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMi4AFBVV95cUxQcFB0eG1yN0VCMldoSnRwaUFyclVNN2pzdUgyaU5QYW9kVUxmb0NKVWotYk4zMmdwcnBoVjVsMnNZMXdmeVpteEZtY1B6ZFBDcHRlYUEtOW5yVXltTUJqTFlfVHhEeVJVcExxSFhNTVMwMUNxWkI1eXJjamRVUy1Fb2VhOVZsTmVXNld2cVdrTU1QaDdrSGFUMmF0cXE4ODhGYWxOSTRwTm9OSEdjNE1YZ0VaZl93WXpCOVZ4N0pnNlFXRDA2YzRWbzhfMEh0c0thY282QU5Na2JTX1F5b2phVw%3Foc%3D5"
     },
     {
       "date": "2026-11-21",
