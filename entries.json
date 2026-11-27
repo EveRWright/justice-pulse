@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "note": "Newest first. Durable catalog in archive/captures.jsonl. archive_url points at Wayback.",
   "items": [
     {
@@ -43,6 +43,34 @@
       "kind": "news",
       "quality": "Published reporting via public news wire",
       "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMihAFBVV95cUxNRDJlMUhsV0pTQWhqaDdtcVVtZWV2UFBpSWNYU21HS2hLQ1A0VEIxWjc3TGIxM29fbEJBMGZ4MWFsRzVMdlJ1a2xfbG95eG1YaU40UGtfd05vRkhhSUFLVjFMcW01Rl8xOWhZLU02N1RlTTZPbEw1OUVtYXI4ckdNSUpzYlY%3Foc%3D5"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "A Texas woman says she paid more than $130,000 for a home bought under a $47,500 contract, yet a judge or",
+      "source": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNMHA1cGR4VVBpV29xNi1QWjhoZ3E3LVV0bjJVcjR2NS1OMjhBanVNdGdNZ1pZcFZJRGo2N0ZaaFJjeUdJMkY3d1lUbjJRYklaVFdHTzlTcTNpXzFjUzZxYkxZR3Vqb1plWEQ4LWFYSDR0TUtRRzlmcjc0SGNzT0VtYjZhM2pERWJVNTc4WnN5T2l5Tmo1S20tRGM2b2tDbUE2U2MxNno2WEJnemQ3V21xUG5zdzJzaC1fLXZpQjFVdVFaY0pPZE92SFN4dEZONlYtaDJCU2dVMHJqUmRCVzNUMk1ZSVNvWXNxaTdtaTZXd0MzNVVqbHhIYl83cG9GMndtSGh5ZGxOUE45b09KUkJqemktRXFUOHFsZnBseEFBWHBFLXB1YmF0Q0VBd09YN21HaXdpR2lkYUVzNGJJMlI2UWJ1a2tfZk1QVU90MW1rRnJmcVR1b0dNakRsRnBJWHZ2OVk0WHZpOVYtTFlZUFNWSlU0M3dHeVlpaDU2S0lxa0Y5RUXSAYgDQVVfeXFMTlZKdGcwMEtFbUFwX2hyOEVENGloTjl6cXpRaVItQkNlend3RW5jdk9COWVTdjBpb2NSOVBnOUx4RDdTalN0NHRabTY0OGFHRWFudk1uaG1VOF9wVG1NRkl0VWdZQ1loSjRlUEpBWTNGaFJnS2xmSDhLRkdiV0t1NGQ4SENyaDJrYmR2dzgzd05MdmJDTkY1bTJJSmphVnNXYjRHRUlQejdpc1VQQ29udEIzTXFzU1FTYzRLLVM5ZHdUZW9HUUt2WjFGdHM1d1BMMlNHNFAwR3d4OFNvUWJnVDh1emRwazhxSi15dU15elBfejdhZ1JNWDFjMmVYaW5mdDZJa2ZkVWhXb2tsSXF3UUdPbUxfeHdDel9OVmpnV0ZUdjc1UWhzUEpjMWRrLV8wXzltM2ZnTmZyRm1Sckl3SDdmSjJaOEw4TGNveElrbm5rQTN2VXU0S0ZkYUNZZzBhTGpfTTlNbm1lWjhlSXhRNTVzbUZpVVVQM1BLR0QxUlZhd3hMai12Mm0?oc=5",
+      "summary": "A Texas woman says she paid more than $130,000 for a home bought under a $47,500 contract, yet a judge or The Times of India",
+      "area": "Courts",
+      "county": "Statewide",
+      "region": "Statewide",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMigwNBVV95cUxNMHA1cGR4VVBpV29xNi1QWjhoZ3E3LVV0bjJVcjR2NS1OMjhBanVNdGdNZ1pZcFZJRGo2N0ZaaFJjeUdJMkY3d1lUbjJRYklaVFdHTzlTcTNpXzFjUzZxYkxZR3Vqb1plWEQ4LWFYSDR0TUtRRzlmcjc0SGNzT0VtYjZhM2pERWJVNTc4WnN5T2l5Tmo1S20tRGM2b2tDbUE2U2MxNno2WEJnemQ3V21xUG5zdzJzaC1fLXZpQjFVdVFaY0pPZE92SFN4dEZONlYtaDJCU2dVMHJqUmRCVzNUMk1ZSVNvWXNxaTdtaTZXd0MzNVVqbHhIYl83cG9GMndtSGh5ZGxOUE45b09KUkJqemktRXFUOHFsZnBseEFBWHBFLXB1YmF0Q0VBd09YN21HaXdpR2lkYUVzNGJJMlI2UWJ1a2tfZk1QVU90MW1rRnJmcVR1b0dNakRsRnBJWHZ2OVk0WHZpOVYtTFlZUFNWSlU0M3dHeVlpaDU2S0lxa0Y5RUXSAYgDQVVfeXFMTlZKdGcwMEtFbUFwX2hyOEVENGloTjl6cXpRaVItQkNlend3RW5jdk9COWVTdjBpb2NSOVBnOUx4RDdTalN0NHRabTY0OGFHRWFudk1uaG1VOF9wVG1NRkl0VWdZQ1loSjRlUEpBWTNGaFJnS2xmSDhLRkdiV0t1NGQ4SENyaDJrYmR2dzgzd05MdmJDTkY1bTJJSmphVnNXYjRHRUlQejdpc1VQQ29udEIzTXFzU1FTYzRLLVM5ZHdUZW9HUUt2WjFGdHM1d1BMMlNHNFAwR3d4OFNvUWJnVDh1emRwazhxSi15dU15elBfejdhZ1JNWDFjMmVYaW5mdDZJa2ZkVWhXb2tsSXF3UUdPbUxfeHdDel9OVmpnV0ZUdjc1UWhzUEpjMWRrLV8wXzltM2ZnTmZyRm1Sckl3SDdmSjJaOEw4TGNveElrbm5rQTN2VXU0S0ZkYUNZZzBhTGpfTTlNbm1lWjhlSXhRNTVzbUZpVVVQM1BLR0QxUlZhd3hMai12Mm0%3Foc%3D5"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Outgoing Republican senator forces Donald Trump to replace Texas judge nominee in latest party clash",
+      "source": "The Independent",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNREVhYk1YcEI2RjdRWnpKTDN1aTBhNmU4dEhXUVhVSF9PVnZmN3lNN2dhWkhXVUpkYmZBWnltTFphNVA1SW9jb2dYZFI4Mm1zaS1rQ29jU3UzTk1HcWJNOWJJTkl6V01kZW1JVmJzRjltSXQxOW9qdFZBZnZXZnVvZGNmWDUxeE1JOXBlUmVzTkRSckhsQ2g1ZElWYktHUzhHa3JTYzVyQ3FucFhTU05j?oc=5",
+      "summary": "Outgoing Republican senator forces Donald Trump to replace Texas judge nominee in latest party clash The Independent",
+      "area": "Courts",
+      "county": "Statewide",
+      "region": "Statewide",
+      "status": "confirmed",
+      "kind": "news",
+      "quality": "Published reporting via public news wire",
+      "archive_url": "https://web.archive.org/web/https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMirwFBVV95cUxNREVhYk1YcEI2RjdRWnpKTDN1aTBhNmU4dEhXUVhVSF9PVnZmN3lNN2dhWkhXVUpkYmZBWnltTFphNVA1SW9jb2dYZFI4Mm1zaS1rQ29jU3UzTk1HcWJNOWJJTkl6V01kZW1JVmJzRjltSXQxOW9qdFZBZnZXZnVvZGNmWDUxeE1JOXBlUmVzTkRSckhsQ2g1ZElWYktHUzhHa3JTYzVyQ3FucFhTU05j%3Foc%3D5"
     },
     {
       "date": "2026-11-25",
